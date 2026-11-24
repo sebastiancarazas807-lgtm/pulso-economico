@@ -199,8 +199,13 @@ def buscar_chat_id(token: str) -> str:
 def enviar_telegram(texto: str) -> None:
     token = os.environ.get("TELEGRAM_TOKEN", "").strip().strip('"').removeprefix("bot")
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip().strip('"')
+    guardado = RAIZ / ".telegram_chat"
+    if not chat and guardado.exists():
+        chat = guardado.read_text().strip()
     if token and not chat:
         chat = buscar_chat_id(token)
+        if chat:
+            guardado.write_text(chat)  # se recuerda para los próximos envíos
     faltan = [n for n, v in (("TELEGRAM_TOKEN", token), ("TELEGRAM_CHAT_ID", chat)) if not v]
     if faltan:
         sys.exit("FALTA CONFIGURAR en Settings → Secrets and variables → Actions → pestaña Secrets "
