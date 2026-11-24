@@ -179,9 +179,28 @@ def mensaje_telegram(secciones: list[dict], ahora: datetime) -> str:
     return texto[:4000]  # límite de Telegram: 4096 caracteres
 
 
+def buscar_chat_id(token: str) -> str:
+    """Si no hay TELEGRAM_CHAT_ID, usa el chat de la última persona que le escribió al bot."""
+    try:
+        with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates", timeout=20) as r:
+            updates = json.loads(r.read()).get("result", [])
+    except Exception as e:  # noqa: BLE001
+        print("No se pudo consultar el chat del bot:", e)
+        return ""
+    for u in reversed(updates):
+        msg = u.get("message") or u.get("edited_message") or {}
+        if msg.get("chat", {}).get("type") == "private":
+            print("Chat encontrado automáticamente ✓")
+            return str(msg["chat"]["id"])
+    print("El bot no tiene mensajes recientes: escríbele 'hola' en Telegram y vuelve a intentar.")
+    return ""
+
+
 def enviar_telegram(texto: str) -> None:
     token = os.environ.get("TELEGRAM_TOKEN", "").strip().strip('"').removeprefix("bot")
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip().strip('"')
+    if token and not chat:
+        chat = buscar_chat_id(token)
     faltan = [n for n, v in (("TELEGRAM_TOKEN", token), ("TELEGRAM_CHAT_ID", chat)) if not v]
     if faltan:
         sys.exit("FALTA CONFIGURAR en Settings → Secrets and variables → Actions → pestaña Secrets "

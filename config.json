@@ -12,7 +12,6 @@
         ["Gestión", "https://gestion.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml"],
         ["El Comercio", "https://elcomercio.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml"],
         ["Andina", "https://andina.pe/agencia/rss/3.xml"],
-        ["RPP", "https://rpp.pe/rss/economia"],
         ["Google Noticias", "busqueda:economía Perú"],
         ["Google Noticias", "busqueda:BCRP OR MEF OR \"sol peruano\" OR PBI Perú"]
       ]
