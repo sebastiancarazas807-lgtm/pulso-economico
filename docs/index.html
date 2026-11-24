@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pulso Económico</title>
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#000000; --text:#f5f5f2; --muted:#8c8c88; --line:#f5f5f2; --soft:#262626; --oro:#c9b37e; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:Inter,system-ui,sans-serif; line-height:1.5; -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 16px; }
+
+  /* Cabecera tipo periódico */
+  header { padding:28px 0 0; text-align:center; }
+  .logo { display:inline-flex; flex-direction:column; align-items:center; gap:10px; text-decoration:none; color:var(--text); }
+  .monograma { width:56px; height:56px; border:1px solid var(--oro); color:var(--oro); outline:1px solid var(--oro); outline-offset:3px; display:grid; place-items:center;
+               font-family:"Playfair Display",Georgia,serif; font-size:20px; font-weight:500; letter-spacing:.06em; }
+  .nombre-app { font-family:"Playfair Display",Georgia,serif; font-weight:700; font-size:clamp(1.9rem,6vw,3rem);
+                letter-spacing:.06em; text-transform:uppercase; line-height:1.05; }
+  .lema { font-size:.68rem; letter-spacing:.32em; text-transform:uppercase; color:var(--oro); }
+  .regla { border:0; border-top:1px solid var(--line); margin:18px 0 0; }
+  .regla.doble { border-top:3px double var(--line); margin-top:4px; }
+  .fecha { display:flex; justify-content:space-between; gap:8px; font-size:.72rem; letter-spacing:.14em;
+           text-transform:uppercase; padding:8px 0; color:var(--text); }
+  .saludo { color:var(--oro); font-family:"Playfair Display",Georgia,serif; font-style:italic; font-weight:500;
+            font-size:clamp(1.15rem,3.6vw,1.5rem); margin:26px 0 6px; text-align:center; }
+
+  /* Filtros */
+  .barra { display:flex; justify-content:center; align-items:center; gap:6px 18px; flex-wrap:wrap; margin:18px 0 8px; }
+  nav { display:flex; gap:4px 18px; flex-wrap:wrap; justify-content:center; }
+  nav button { background:none; border:0; border-bottom:1px solid transparent; padding:4px 0; font:500 .78rem Inter,sans-serif;
+               letter-spacing:.12em; text-transform:uppercase; color:var(--muted); cursor:pointer; }
+  nav button.activo, nav button:hover { color:var(--text); border-bottom-color:var(--oro); }
+  select { font:500 .78rem Inter,sans-serif; letter-spacing:.06em; border:1px solid var(--text); background:var(--bg);
+           color:var(--text); padding:5px 8px; border-radius:0; }
+
+  /* Noticias */
+  section h2 { letter-spacing:.02em; font-family:"Playfair Display",Georgia,serif; font-weight:700; font-size:1.35rem; margin:34px 0 4px;
+               padding-bottom:8px; border-bottom:1px solid var(--line); }
+  article { padding:16px 0; border-bottom:1px solid var(--soft); }
+  article a { color:var(--text); text-decoration:none; font-family:"Playfair Display",Georgia,serif; font-weight:500;
+              font-size:1.12rem; line-height:1.35; }
+  article a:hover { text-decoration:underline; text-underline-offset:3px; }
+  article p { margin:6px 0 0; color:#b8b8b4; font-size:.92rem; }
+  .meta { font-size:.7rem; color:var(--oro) !important; letter-spacing:.12em; text-transform:uppercase; color:var(--muted); margin-top:8px; }
+  section article:first-of-type a { font-size:1.4rem; font-weight:700; }
+  footer { text-align:center; font-size:.7rem; letter-spacing:.12em; text-transform:uppercase; color:var(--muted);
+           border-top:3px double var(--line); margin:40px 0 0; padding:14px 0 30px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="logo" href="./" aria-label="Inicio">
+      <span class="nombre-app" id="nombre-app">Pulso Económico</span>
+      <span class="lema">Perú · Mundo · Inteligencia artificial</span>
+    </a>
+    <hr class="regla"><hr class="regla doble">
+    <div class="fecha"><span id="hoy"></span><span id="hora">Cargando…</span></div>
+    <hr class="regla" style="margin:0">
+  </header>
+
+  <p class="saludo" id="saludo">Sebastián, tus noticias del día son…</p>
+
+  <div class="barra">
+    <nav id="filtros"><button data-f="todas" class="activo">Todas</button></nav>
+    <select id="edicion" aria-label="Edición"><option value="">Última edición</option></select>
+  </div>
+
+  <main id="contenido"></main>
+  <footer>Perú · Mundo · Inteligencia artificial — 8:00 · 14:00 · 19:00</footer>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+let filtro = "todas", datos = null;
+const esc = t => (t || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = iso => iso ? new Date(iso).toLocaleString("es-PE", {timeZone:"America/Lima", day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit"}) : "";
+const sinEmoji = t => (t || "").replace(/^[^\p{L}\p{N}]+/u, "");
+$("#hoy").textContent = new Date().toLocaleDateString("es-PE", {timeZone:"America/Lima", weekday:"long", day:"numeric", month:"long", year:"numeric"});
+
+function pintar() {
+  if (!datos) return;
+  $("#saludo").textContent = datos.saludo;
+  $("#hora").textContent = "Edición " + fmt(datos.generado);
+  $("#contenido").innerHTML = datos.secciones
+    .filter(s => filtro === "todas" || s.id === filtro)
+    .map(s => `<section><h2>${esc(sinEmoji(s.titulo))}</h2>` + (s.noticias.length ? s.noticias.map(n => `
+      <article><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
+      ${n.resumen && n.resumen !== n.titulo ? `<p>${esc(n.resumen)}</p>` : ""}
+      <div class="meta">${esc(n.medio)} · ${fmt(n.fecha)}</div></article>`).join("") : "<p>Sin noticias nuevas.</p>") + "</section>")
+    .join("");
+}
+async function cargar(archivo) {
+  try {
+    const r = await fetch(archivo + "?t=" + Date.now());
+    datos = await r.json(); pintar();
+  } catch (e) { $("#hora").textContent = "Primera edición pendiente"; }
+}
+$("#filtros").addEventListener("click", e => {
+  if (!e.target.dataset.f) return;
+  filtro = e.target.dataset.f;
+  document.querySelectorAll("#filtros button").forEach(b => b.classList.toggle("activo", b === e.target));
+  pintar();
+});
+fetch("config.json?t=" + Date.now()).then(r => r.json()).then(c => {
+  document.title = c.titulo_app;
+  $("#nombre-app").textContent = c.titulo_app;
+  c.secciones.forEach(s => {
+    const b = document.createElement("button"); b.dataset.f = s.id; b.textContent = sinEmoji(s.titulo); $("#filtros").appendChild(b);
+  });
+}).catch(() => {});
+$("#edicion").addEventListener("change", e => cargar(e.target.value ? "historial/" + e.target.value + ".json" : "noticias.json"));
+fetch("historial.json?t=" + Date.now()).then(r => r.json()).then(lista => {
+  lista.forEach(id => {
+    const [f, h] = id.split("_"); const o = document.createElement("option");
+    o.value = id; o.textContent = f.split("-").reverse().join("/") + " · " + h + ":00"; $("#edicion").appendChild(o);
+  });
+}).catch(() => {});
+cargar("noticias.json");
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "_ayuda": "Cambia aquí lo que quieras personalizar. No hace falta tocar el código.",
+  "nombre": "Sebastián",
+  "titulo_app": "Pulso Económico",
+  "saludo": "{nombre}, tus noticias del día son…",
+  "noticias_por_seccion_en_telegram": 5,
+  "secciones": [
+    {
+      "id": "peru",
+      "titulo": "🇵🇪 Economía del Perú",
+      "fuentes": [
+        ["Gestión", "https://gestion.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml"],
+        ["El Comercio", "https://elcomercio.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml"],
+        ["Andina", "https://andina.pe/agencia/rss/3.xml"],
+        ["RPP", "https://rpp.pe/rss/economia"],
+        ["Google Noticias", "busqueda:economía Perú"],
+        ["Google Noticias", "busqueda:BCRP OR MEF OR \"sol peruano\" OR PBI Perú"]
+      ]
+    },
+    {
+      "id": "mundo",
+      "titulo": "🌎 Economía internacional",
+      "fuentes": [
+        ["El País", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"],
+        ["BBC Mundo", "https://feeds.bbci.co.uk/mundo/rss.xml"],
+        ["DW", "https://rss.dw.com/xml/rss-sp-eco"],
+        ["Google Noticias", "busqueda:economía mundial OR mercados OR Reserva Federal"]
+      ],
+      "filtrar_solo_estas_fuentes": ["BBC Mundo"],
+      "solo_si_contiene": "econom|mercad|inflaci|bolsa|aranc|comerci|banco|petr[óo]le|d[óo]lar|reserva federal|pib|empleo|deuda|crecimiento"
+    },
+    {
+      "id": "ia",
+      "titulo": "🤖 Inteligencia artificial",
+      "fuentes": [
+        ["Xataka", "https://www.xataka.com/tag/inteligencia-artificial/rss2.xml"],
+        ["El País", "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/tag/inteligencia_artificial_a"],
+        ["Google Noticias", "busqueda:inteligencia artificial"]
+      ]
+    }
+  ]
+}
