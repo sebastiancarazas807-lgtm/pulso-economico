@@ -1,11 +1,25 @@
 {
- "generado": "2026-11-23T20:50:54.697139-05:00",
+ "generado": "2026-11-23T20:55:43.699676-05:00",
  "saludo": "Sebastián, tus noticias del día son…",
  "secciones": [
   {
    "id": "peru",
    "titulo": "🇵🇪 Economía del Perú",
    "noticias": [
+    {
+     "titulo": "Aprueban actualización del Plan Maestro del Terminal Portuario del Callao",
+     "enlace": "https://andina.pe/agencia/noticia-aprueban-actualizacion-del-plan-maestro-del-terminal-portuario-del-callao-1101170.aspx",
+     "resumen": "La Autoridad Portuaria Nacional aprobó hoy la actualización del Plan Maestro del Terminal Portuario del Callao, integrándola al Anexo 7 “Planes Maestros desarrollados de los Terminales Portuarios de Uso Público” del Plan Nacional de Desarrollo Portuario.",
+     "fecha": "2026-11-23T20:55:15-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Cierran cinco puertos y caletas ante incremento de oleaje en Lambayeque",
+     "enlace": "https://andina.pe/agencia/noticia-cierran-cinco-puertos-y-caletas-ante-incremento-oleaje-lambayeque-1101169.aspx",
+     "resumen": "Ante el incremento del oleaje, la Capitanía de Puerto dispuso el cierre de cinco instalaciones marítimas de la región Lambayeque y la suspensión total del tráfico acuático, una medida que restringe las operaciones de embarcaciones pesqueras, actividades recreativas y toda modalid",
+     "fecha": "2026-11-23T20:52:45-05:00",
+     "medio": "Andina"
+    },
     {
      "titulo": "San Martín: imponen16 años de cárcel a sujeto por tocamientos indebidos a una adolescente",
      "enlace": "https://andina.pe/agencia/noticia-san-martin-imponen16-anos-carcel-a-sujeto-tocamientos-indebidos-a-una-adolescente-1101168.aspx",
@@ -165,20 +179,6 @@
      "enlace": "https://andina.pe/agencia/noticia-gobierno-captura-a-los-dos-criminales-mas-buscados-del-pais-menos-cuatro-meses-1101160.aspx",
      "resumen": "Los dos cabecillas criminales más buscados del país ya están en manos de la justicia. En menos de cuatro meses, el Gobierno consiguió la captura y retorno al Perú de Jhonsson Smit Cruz Torres, alias “Jhonsson Pulpo”, y Jolín Bazán Valderrama, alias “Jolín”, identificados como líd",
      "fecha": "2026-11-23T18:40:25-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "De Cusco a Lima: Inti Punku Hoteles y los planes para competir en la capital",
-     "enlace": "https://gestion.pe/economia/empresas/cusco-recibe-nueva-cadena-hotelera-en-centro-historico-inti-punku-enfrenta-a-marcas-globales-y-mira-corredor-sur-peruano-noticia/",
-     "resumen": "La venta de boletos a Machu Picchu sigue siendo el principal cuello de botella del turismo en Cusco y en Perú. En el primer semestre de 2026, Machu Picchu recibió 55,475 visitantes menos que en el mismo periodo de 2025 y 10.5% menos que similar lapso de 2019. En medio de esa situ",
-     "fecha": "2026-11-23T23:35:43+00:00",
-     "medio": "Gestión"
-    },
-    {
-     "titulo": "SBS publicará los lineamientos de buen gobierno corporativo de cajas en los próximos días",
-     "enlace": "https://andina.pe/agencia/noticia-sbs-publicara-los-lineamientos-buen-gobierno-corporativo-cajas-los-proximos-dias-1101151.aspx",
-     "resumen": "La Superintendencia de Banca, Seguros y AFP (SBS) adelantó hoy que, en los próximos, se publicará los Lineamientos de Buen Gobierno Corporativo para las Cajas Municipales de Ahorro y Crédito.",
-     "fecha": "2026-11-23T18:32:17-05:00",
      "medio": "Andina"
     }
    ]
@@ -412,10 +412,10 @@
     },
     {
      "titulo": "Marcin Kazmierczak: «La inteligencia artificial nos obligará a recuperar la oralidad en la universidad»",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3JfdWozd0RjY1FaZVhNdk5ZX2thcmVxTXlMNXBmNDlrLW5MN3ZSLWFkSW1fdHRkUzRCWldwc1hYTVVVeDRBMHYyQUEyc3NxM2RmZFg4dWpZTmxnUmw0S28ySHpUZkRwMFNuQ3hkRVd2SXNQZmVLNVhxbklONWRCRVd5MU55a0c5ZFlzM2VKdzR6dnhILVFRMUVieUp3aW1PYUJENU5fUEZtUk9wa0dNUWZzYnk3TjZ4dHNFT2JpZFBPeHpYY2xWUdIBzgFBVV95cUxPSnNXaHpKaFBYMmRiVF9aZ3BPMFBHU3dtWDlDb2h6Z2pyWjRfcEQ2U1ZxeFVNUFdaeFNSOWpoQmE2QXNQNG1ZeXNldEx3YWlid3VVRk5LYlhkbU9LNjZTd2FNR21oU25Oenk1Tk9kbjhLMUdfVDY2N256d0JaUng4dzdsd3AyY2VEUXdhQ2hBMHhXejZWMXd4cUUyc2Y0YkxYZTl1TnFlNi11am9FdmZ4RDVPS2FLM1l6d1p3emdZMzZkWWtwRTR3U3p3aHdXdw?oc=5",
-     "resumen": "Marcin Kazmierczak: «La inteligencia artificial nos obligará a recuperar la oralidad en la universidad» El Periódico Mediterráneo",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk91QXhjdkV1MTFXNVFNUm5BVjZjazByQ0JrWlJpdm9JTmRyWFR2clFrMTY5bkQ2RTBEMGp1NG4zaG1rX2tkZEpjSTRCSy1UWmR3V2hwdlY3dTZzeGRJckRrV0VDd3RVSjZJOHZsdnliTVRZd0RUMGRwTEZGNGFMWDFoZlRWTWhteTE5djZPRXVxdHdXMDVWTzd1aUR2SGtfdXMxZXFjbFpCV243UDZ5dGlkUzF4V1dCb1J2Zk1B0gG-AUFVX3lxTE1uT3VBeGN2RXUxMVc1UU1SbkFWNmNrMHJDQmtaUml2b0lOZHJYVHZyUWsxNjluRDZFMEQwanU0bjNobWtfa2RkSmNJNEJLLVRaZHdXaHB2Vjd1NnN4ZElyRGtXRUN3dFVKNkk4dmx2eWJNVFl3RFQwZHBMRkY0YUxYMWhmVFZNaG15MTl2Nk9FdXF0d1cwNVZPN3VpRHZIa191czFlcWNsWkJXbjdQNnl0aWRTMXhXV0JvUnZmTUE?oc=5",
+     "resumen": "Marcin Kazmierczak: «La inteligencia artificial nos obligará a recuperar la oralidad en la universidad» Levante-EMV",
      "fecha": "2026-11-24T00:59:35+00:00",
-     "medio": "El Periódico Mediterráneo"
+     "medio": "Levante-EMV"
     },
     {
      "titulo": "Google limitará a los agentes de IA en Chrome con permisos",
@@ -460,11 +460,25 @@
      "medio": "Gaceta UNAM"
     },
     {
+     "titulo": "La IA ya está cambiado «las reglas del trabajo»",
+     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVVEVzJpWVJNVXJzOGFEYTdwVHdRLUk2aGtpdk9ENUhxcnY1ZkpRWHJscEZpNjFGRHRBVFZLT1RDWkhYbFVyYlQ2V2JBRWdaMWRYbUxPT3NWMUI1ZGpJMjQ0RE1Eb1A2OC03OVJBaDUwUVVyTnFoSVpUVjEzT3otaGYxalNheVZ0U09Z0gGQAUFVX3lxTE1neEV5cU03ZGlISkZadGpoYWR6Y3ZsOUdlemxpeG1Uak9QbnU5d3pxMlo3TXhIeGZSN2Vtck9ULVRJLTItNW8xSGhEdFZDN3JYWXVsbFZPUHlGNTNzNHl6cGtadUZ4OFdaTlptOHhrNjJqeWVsSEo0dE50R0N4X3VRckRWb3ZaalUtQ29nTjgtSg?oc=5",
+     "resumen": "La IA ya está cambiado «las reglas del trabajo» El Correo",
+     "fecha": "2026-11-23T23:37:42+00:00",
+     "medio": "El Correo"
+    },
+    {
      "titulo": "¿Acceso a internet? No, la nueva brecha digital depende del conocimiento de la IA",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3VnaUhUc2FTelFaNUlIekowRzZCZWNQaHFWUjRGUmlsVUpfSUh4LXpaUjFubnptbTBFZnFLWFlJM2QzSHZ6S18xMXlYUmo3WFRVRTVoLWFKaFVBTWs3MURta1VvWFpSVVcwUUFVa3FBalhJbVIxaE5DV3lsZWFKLTRTdkNKc3lYUUNxT01FUWNqV0pLN3Z5dmN2U2MyS1NwWVhCTDNqa0JUMnJUUUg0SnliSjdjRzU4d0hnWk5SbE44S1FqZ2x6VmdZTQ?oc=5",
      "resumen": "¿Acceso a internet? No, la nueva brecha digital depende del conocimiento de la IA Computer Weekly",
      "fecha": "2026-11-23T23:24:28+00:00",
      "medio": "Computer Weekly"
+    },
+    {
+     "titulo": "Internacional. Nvidia: el regreso de Jensen Huang y las disputas de poder en el negocio de la inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzhSSXRzWVFQQ0JadFh6ODRhZW9NNk9jb3NYMVRFYlktMmVWbXRvcDQwVk5pa0dwYm5UYThqQkZ4U1JJTHdaU2k5OXFhbkVVY3ZtcUNzME5jNzZuSmNkeWxfWlZfVVlFYnJqWVg2amkwNW1BZ2dNN1FSS01reldwWWVudEFfSWRXanJnQUhQd2RieEhtM0lYbUVMaFJ0d0F2M1owd1ZpNzJLb3A4M0VlcFJvN01YUVd2SnMzS2ZWeWM?oc=5",
+     "resumen": "Internacional. Nvidia: el regreso de Jensen Huang y las disputas de poder en el negocio de la inteligencia artificial La Izquierda Diario Chile",
+     "fecha": "2026-11-23T23:23:35+00:00",
+     "medio": "La Izquierda Diario Chile"
     },
     {
      "titulo": "Cómo se está usando la IA para revisar historias clínicas y alertar riesgos con pacientes",
@@ -479,13 +493,6 @@
      "resumen": "HONOR presenta en México sus robots humanoides con inteligencia artificial Infobae",
      "fecha": "2026-11-23T23:21:00+00:00",
      "medio": "Infobae"
-    },
-    {
-     "titulo": "De Google a los agentes de IA: Meta anticipa que en 2027 la IA desplazará buscadores y tiendas web en las compras por internet",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGJabmFVbFY0MHFRaWJCNmR1YnZ6NEZjcFZnMng0TElnX2RMUl9XdjlaaWpLS1Z4eUlyUFcxQ2FOYkY2OTJSeVJzTUxQYllObEpRckxnajg0dUhEUWMtTklnRUc5SDhEWk9EZ052c3B2VFQza2FoQndEaTRBbFhUN1A4eGdLMVhMaEM4SkpmV3VhMDc4aU9SVHRPWVdoM1h5Q2w4bV930gGzAUFVX3lxTE40ZEVGMHBnclV1MjEtQ3VKV0tOdjBVRm4zaHFEZmJuX3BTZ21QbWpLbkhvR19XZ1hNOWNTcjNVb0tsc2QyM0x2OUtCcWM4dTJtaTREQUpaZi0weE1mc3ZuazVkT1RfeURBWlRya0xYX2xrTUg2REFXNnVzd3QzMm5Sc0ZiUUpTV2RFMThVMEpWS2N5Vm9zRk5ESUtFOEVxaWNqOG5lWjhzajNYZllhRWpOUkpB?oc=5",
-     "resumen": "De Google a los agentes de IA: Meta anticipa que en 2027 la IA desplazará buscadores y tiendas web en las compras por internet Expansión",
-     "fecha": "2026-11-23T23:19:00+00:00",
-     "medio": "Expansión"
     },
     {
      "titulo": "El nuevo perfil que demanda la industria farmacéutica: líder transversal con conocimientos en IA",
@@ -535,13 +542,6 @@
      "resumen": "La inteligencia artificial y los medicamentos GLP-1 transforman los hábitos de compra del consumidor español Eurocarne",
      "fecha": "2026-11-23T22:52:30+00:00",
      "medio": "Eurocarne"
-    },
-    {
-     "titulo": "El Consejo Mexicano de Inteligencia Artificial busca cerrar la brecha entre la adopción tecnológica y el impacto real en los negocios",
-     "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMTFJWVZud2Juenk1WEpfNmJPWVAzZnZ2SFBicGdmRmR1aEx3MTlCWFp1dVJkOUxEZjd4M25xRUszMjUwdWYzUFBOUHI4N255b1JuR0h6bGJBOUc4V2Y4YmU3b1lyY2dvS2oyTkw2cmNYSHpRS2V0VFA2WHdhVzBGeUYwWWZxTXV5eGxtTk1JMkVwZVFRVDdDQXJrQm94QVNEVm5nRDY3MWYzNGhJNG9UcWc3cng4SE1aSW5DSmhFelkwOUluelItM0FFOXVwSmhISEt0Q2JGTkljNHJUeW9fUFRLd3FKVUJZci10eVZPNnp0MUxtQjlGQU04SENFRDRYd0JYd29mY2ZrdkNnaGNzLQ?oc=5",
-     "resumen": "El Consejo Mexicano de Inteligencia Artificial busca cerrar la brecha entre la adopción tecnológica y el impacto real en los negocios Portada",
-     "fecha": "2026-11-23T22:50:59+00:00",
-     "medio": "Portada"
     }
    ]
   }
