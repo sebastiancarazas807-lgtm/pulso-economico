@@ -199,6 +199,12 @@ def buscar_chat_id(token: str) -> str:
 def enviar_telegram(texto: str) -> None:
     token = os.environ.get("TELEGRAM_TOKEN", "").strip().strip('"').removeprefix("bot")
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip().strip('"')
+    # Diagnóstico sin mostrar las claves
+    print(f"Token: {len(token)} caracteres, {'con' if ':' in token else 'SIN'} dos puntos "
+          f"(debe tener unos 46 y llevar ':'). Chat ID: {len(chat)} caracteres.")
+    if token and ":" not in token and ":" in chat:
+        print("Parece que las dos claves están al revés: se intercambian.")
+        token, chat = chat, token
     guardado = RAIZ / ".telegram_chat"
     if not chat and guardado.exists():
         chat = guardado.read_text().strip()
