@@ -161,7 +161,8 @@ def momento_del_dia(h: int) -> str:
     return "buenos días" if h < 12 else ("buenas tardes" if h < 19 else "buenas noches")
 
 
-def mensaje_telegram(secciones: list[dict], ahora: datetime) -> str:
+def mensaje_telegram(secciones: list[dict], ahora: datetime, por: int = 0) -> str:
+    por = por or POR_CATEGORIA
     e = html.escape
     partes = [f"<b>{html.escape(CONFIG.get('titulo_app', 'Noticias').upper())}</b>",
               f"👋 <b>{html.escape(SALUDO)}</b>",
@@ -170,13 +171,16 @@ def mensaje_telegram(secciones: list[dict], ahora: datetime) -> str:
         partes.append(f"\n<b>{e(s['titulo'])}</b>")
         if not s["noticias"]:
             partes.append("— Sin noticias nuevas por ahora.")
-        for n in s["noticias"][:POR_CATEGORIA]:
+        for n in s["noticias"][:por]:
             partes.append(f'• <a href="{e(n["enlace"], quote=True)}">{e(n["titulo"])}</a> <i>({e(n["medio"])})</i>')
     url = os.environ.get("PAGINA_URL", "").strip()
     if url:
         partes.append(f'\n📰 <a href="{e(url, quote=True)}">Abrir Pulso Económico</a>')
     texto = "\n".join(partes)
-    return texto[:4000]  # límite de Telegram: 4096 caracteres
+    # Límite de Telegram: 4096 caracteres. Si no entra, se envían menos noticias por sección (parejo).
+    if len(texto) > 4000 and por > 1:
+        return mensaje_telegram(secciones, ahora, por - 1)
+    return texto
 
 
 def buscar_chat_id(token: str) -> str:
