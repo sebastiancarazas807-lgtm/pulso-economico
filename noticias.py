@@ -23,6 +23,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -179,18 +180,24 @@ def mensaje_telegram(secciones: list[dict], ahora: datetime) -> str:
 
 
 def enviar_telegram(texto: str) -> None:
-    token = os.environ.get("TELEGRAM_TOKEN", "").strip()
-    chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-    if not token or not chat:
-        print("(Telegram no configurado: no se envía notificación)")
-        return
+    token = os.environ.get("TELEGRAM_TOKEN", "").strip().strip('"').removeprefix("bot")
+    chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip().strip('"')
+    faltan = [n for n, v in (("TELEGRAM_TOKEN", token), ("TELEGRAM_CHAT_ID", chat)) if not v]
+    if faltan:
+        sys.exit("FALTA CONFIGURAR en Settings → Secrets and variables → Actions → pestaña Secrets "
+                 "(Repository secrets): " + ", ".join(faltan) + ". La página sí se actualizó.")
     datos = urllib.parse.urlencode({
         "chat_id": chat, "text": texto, "parse_mode": "HTML",
         "disable_web_page_preview": "true",
     }).encode()
     req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=datos)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        print("Telegram:", json.loads(r.read()).get("ok"))
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            print("Telegram: mensaje enviado ✓", json.loads(r.read()).get("ok"))
+    except urllib.error.HTTPError as e:
+        detalle = e.read().decode("utf-8", "replace")
+        sys.exit(f"Telegram rechazó el envío ({e.code}): {detalle}\n"
+                 "401 = token incorrecto · 400 'chat not found' = chat ID incorrecto o no le escribiste al bot.")
 
 
 # --------------------------------------------------------------- página web
@@ -230,6 +237,10 @@ def guardar_web(secciones: list[dict], ahora: datetime) -> None:
 
 def main() -> None:
     ahora = datetime.now(LIMA)
+    if "--solo-enviar" in sys.argv:
+        edicion = json.loads((DOCS / "noticias.json").read_text(encoding="utf-8"))
+        enviar_telegram(mensaje_telegram(edicion["secciones"], datetime.fromisoformat(edicion["generado"])))
+        return
     print(f"Recogiendo noticias · {ahora:%Y-%m-%d %H:%M} Lima")
     secciones = [{"id": c["id"], "titulo": c["titulo"], "noticias": recoger(c)} for c in CATEGORIAS]
     total = sum(len(s["noticias"]) for s in secciones)
