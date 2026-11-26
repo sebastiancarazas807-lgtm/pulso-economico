@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T17:05:09.591166-05:00",
+ "generado": "2026-11-25T20:59:33.909408-05:00",
  "saludo": "Sebastián, tus noticias del día son…",
  "secciones": [
   {
@@ -7,179 +7,179 @@
    "titulo": "🇵🇪 Economía del Perú",
    "noticias": [
     {
-     "titulo": "El ‘equipaje extra’ que pesa sobre JetSmart en Lima y nuevas rutas en el radar",
-     "enlace": "https://gestion.pe/economia/empresas/jetsmart-alista-nuevas-rutas-y-mas-asientos-para-el-2027-que-traba-aun-frena-su-avance-noticia/",
-     "resumen": "En un 2026 marcado por el encarecimiento del combustible y por el debate sobre la Tarifa Unificada de Uso de Aeropuerto (TUUA) de transferencia en Lima, JetSmart logró sostener su crecimiento. La aerolínea ‘lowcost’, con bases en Perú, Colombia, Argentina y Chile, ya tiene en el ",
-     "fecha": "2026-11-25T22:02:14+00:00",
+     "titulo": "MEF: Gobierno busca reducir la informalidad laboral en el Perú del 70% al 48%",
+     "enlace": "https://andina.pe/agencia/noticia-mef-gobierno-busca-reducir-informalidad-laboral-el-peru-del-70-al-48-1101468.aspx",
+     "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, señaló hoy que el Gobierno busca reducir la informalidad laboral del 70% al 48% que es la media regional y para lo cual se ha creado un grupo de trabajo.",
+     "fecha": "2026-11-25T20:54:57-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Latinoamérica mantiene pendiente reducción del uso de leña para cocinar",
+     "enlace": "https://andina.pe/agencia/noticia-latinoamerica-mantiene-pendiente-reduccion-del-uso-lena-para-cocinar-1101467.aspx",
+     "resumen": "Reducir el uso de leña y otros combustibles contaminantes para cocinar continúa siendo una tarea pendiente en Latinoamérica, debido a las dificultades de acceso a fuentes de energía menos contaminantes, especialmente en las comunidades rurales, advirtió el especialista peruano Ca",
+     "fecha": "2026-11-25T20:52:33-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "La Punta: cierran preventivamente el malecón debido a fuertes oleajes en el litoral",
+     "enlace": "https://andina.pe/agencia/noticia-la-punta-cierran-preventivamente-malecon-debido-a-fuertes-oleajes-el-litoral-1101466.aspx",
+     "resumen": "La Municipalidad de La Punta dispuso el cierre preventivo del malecón ante los fuertes oleajes que afectan al litoral peruano, con el objetivo de proteger a vecinos y visitantes.",
+     "fecha": "2026-11-25T20:45:20-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Indecopi alista propuesta para cambiar cálculo de multas a empresas, ¿qué busca ajustar?",
+     "enlace": "https://gestion.pe/economia/indecopi-alista-propuesta-para-cambiar-calculo-de-multas-a-empresas-que-busca-ajustar-la-entidad-en-perua-noticia/",
+     "resumen": "En entrevista exclusiva con Gestión, Milagros Maraví reveló los cambios normativos que impulsa el Indecopi. Una de las propuestas será evaluada por el Consejo Directivo el próximo 27 de noviembre.",
+     "fecha": "2026-11-26T01:45:00+00:00",
      "medio": "Gestión"
     },
     {
-     "titulo": "El mar está más alto de lo normal y en el Callao creció 51 centímetros ¿a qué se debe?",
-     "enlace": "https://andina.pe/agencia/noticia-el-mar-esta-mas-alto-de-normal-y-el-callao-crecio-51-centimetros-a-se-debe-1101391.aspx",
-     "resumen": "Los oleajes anómalos que golpean el litoral peruano, desde Tumbes hasta Tacna, coinciden con un incremento inusual del nivel del mar debido al calentamiento de sus aguas por el fenómeno El Niño, lo que ha elevado hasta 51,1 centímetros su altura habitual frente al Callao, informó",
-     "fecha": "2026-11-25T17:01:56-05:00",
+     "titulo": "Julio Velarde explica por qué el BCRP no compra grandes cantidades de oro: \"Es un activo muy volátil\"",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXRDckk5aTE5QVZwaFZTdHkxcVd2R3dPZU5jam15bUVWeExxZThNS3VEV3R2N29IMHRnMVNSUFlKSXVwalFZeTI2SlUtLUIyUUN2QjBzZWpiclJucGViY3FKMEQyTGJSeTNXRklxZWFiY05RWFF0X2lOMFVDcVpBWV9lWjg0MmlNWl9RSzZDZ2NUaEg5a2NlN0piUVNzVzg4cWl3LVQyQ3VOanMzcUVEUjh2OWgtU0pfaF9teUg3R3RZZlF1QzB3bGpvR3I4UDhsZ01N?oc=5",
+     "resumen": "Julio Velarde explica por qué el BCRP no compra grandes cantidades de oro: \"Es un activo muy volátil\" Cuánto está el dólar",
+     "fecha": "2026-11-26T01:41:15+00:00",
+     "medio": "Cuánto está el dólar"
+    },
+    {
+     "titulo": "Parlamentario andino propone una agenda regional frente al riesgo de desastres",
+     "enlace": "https://andina.pe/agencia/noticia-parlamentario-andino-propone-una-agenda-regional-frente-al-riesgo-desastres-1101424.aspx",
+     "resumen": "El riesgo de catástrofes que enfrentan el Perú y otros países de la región exige una visión renovada de la gestión del riesgo de desastres, basada en la prevención, la cooperación y la resiliencia, afirmó Marcio Bendezú, presidente de la Comisión Especial de Seguimiento a los Obj",
+     "fecha": "2026-11-25T20:33:59-05:00",
      "medio": "Andina"
     },
     {
-     "titulo": "Indeco by Nexans crece a doble dígito: su plan al 2030 y las inversiones en Lima",
-     "enlace": "https://gestion.pe/economia/empresas/indeco-crece-a-doble-digito-planes-al-2030-y-el-rol-de-peru-en-la-ruta-de-nexans-a-eeuu-noticia/",
-     "resumen": "Indeco by Nexans cerrará el 2026 creciendo a doble dígito y ya tiene su plan de inversiones al 2030. ¿Qué papel tendrá su planta peruana en la ruta del grupo hacia Estados Unidos?",
-     "fecha": "2026-11-25T22:00:08+00:00",
+     "titulo": "Army Driver, la app de taxis que no busca competir con Uber en precio: su propuesta",
+     "enlace": "https://gestion.pe/economia/empresas/army-driver-la-app-de-taxis-que-no-busca-competir-con-uber-en-precio-su-propuesta-noticia/",
+     "resumen": "Army Driver es una app peruana de taxis que apuesta por la seguridad con conductores capacitados. Con una inversión de US$150,000, prepara su expansión local, regional e internacional, para enero del 2027.",
+     "fecha": "2026-11-26T01:30:00+00:00",
      "medio": "Gestión"
     },
     {
-     "titulo": "Un accidente laboral, varias multas: ¿cuándo pueden sancionar más de una vez a una empresa?",
-     "enlace": "https://gestion.pe/economia/empresas-frente-a-una-doble-sancion-los-limites-que-deben-respetar-las-entidades-fiscalizadoras-noticia/",
-     "resumen": "Un mismo accidente laboral puede generar varias multas administrativas. Sin embargo, existen límites legales que las empresas pueden invocar para cuestionar su imposición.",
-     "fecha": "2026-11-25T22:00:00+00:00",
+     "titulo": "Precio del dólar en Perú: cuál fue el tipo de cambio del miércoles 25 de noviembre",
+     "enlace": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-2026-en-peru-a-cuanto-esta-el-tipo-de-cambio-del-miercoles-25-de-noviembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+     "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, miércoles 25 de noviembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+     "fecha": "2026-11-26T01:30:00+00:00",
+     "medio": "El Comercio"
+    },
+    {
+     "titulo": "Macroconsult: economía peruana tiene capacidad para crecer a un ritmo de 4% al año",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYW54Ri1TSWQzQzRmMVNoMVhFNFh3MHdHZ19QYWRhY3NJVzFTX0tBQUU1bUFVQ1RfX1ctZUNBMWQ2QlhJNm5MREt4WU1hWkdOdm1TRndlaDEzVlczc0hqRU1FZ2gxSUlCMzEybkhIWDJOcTlMMkYtV296dW9IR29pNGl0QTY2S2haS2RmdkpvX1dHZmlodXJRNUFha3lNdk9sbExyNnh3aVVQRjNTVm44VmdqTHIxN00zUmhlenU2RjNPUQ?oc=5",
+     "resumen": "Macroconsult: economía peruana tiene capacidad para crecer a un ritmo de 4% al año Agencia Andina",
+     "fecha": "2026-11-26T01:29:47+00:00",
+     "medio": "Agencia Andina"
+    },
+    {
+     "titulo": "Arequipa registra 1,270 sentencias por violencia contra la mujer en lo que va del 2026",
+     "enlace": "https://andina.pe/agencia/noticia-arequipa-registra-1270-sentencias-violencia-contra-mujer-lo-va-del-2026-1101464.aspx",
+     "resumen": "La Corte Superior de Justicia de Arequipa emitió de enero a la fecha 1,270 sentencias en casos de violencia contra la mujer y otros delitos graves que atentan contra la integridad, la libertad y la vida de las personas.",
+     "fecha": "2026-11-25T20:26:15-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Titular de Senado: \"Necesitamos una política que contribuya al crecimiento de la economía\"",
+     "enlace": "https://andina.pe/agencia/noticia-titular-senado-necesitamos-una-politica-contribuya-al-crecimiento-de-economia-1101463.aspx",
+     "resumen": "El presidente del Congreso y del Senado de la República, Miguel Torres Morales, manifestó que nuestra estabilidad macroeconómica ha demostrado una enorme fortaleza en los últimos años, pero no podemos conformarnos con \"una economía que sobreviva a la política\".",
+     "fecha": "2026-11-25T20:14:49-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Egipto: un incendio deja 31 muertos en un barrio densamente poblado de El Cairo",
+     "enlace": "https://andina.pe/agencia/noticia-egipto-un-incendio-deja-31-muertos-un-barrio-densamente-poblado-de-cairo-1101465.aspx",
+     "resumen": "Un incendio arrasó este miércoles una zona densamente poblada de El Cairo y causó al menos 31 muertos, informó el Ministerio de Salud egipcio.",
+     "fecha": "2026-11-25T20:10:48-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "BCR: empleo formal creció 3.8% interanual en setiembre",
+     "enlace": "https://andina.pe/agencia/noticia-bcr-empleo-formal-crecio-38-interanual-setiembre-1101443.aspx",
+     "resumen": "El empleo formal total a nivel nacional creció 3.8% en setiembre de 2026 respecto al mismo mes del año anterior, lo que permitió incorporar 242,000 puestos de trabajo, informó el Banco Central de Reserva (BCR).",
+     "fecha": "2026-11-25T20:00:00-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "MTC: tren Lima-Chosica entraría en operación a fines de diciembre del 2026",
+     "enlace": "https://gestion.pe/economia/mtc-tren-lima-chosica-entraria-en-operacion-a-fines-de-diciembre-del-2026-noticia/",
+     "resumen": "El ministro de Transportes y Comunicaciones, José Tangherlini, informó que el tren Lima-Chosica podría iniciar operaciones a fines de diciembre del 2026 con un recorrido inicial que conectará directamente el distrito de Chosica con una estación del Centro de Lima.",
+     "fecha": "2026-11-26T00:57:22+00:00",
      "medio": "Gestión"
     },
     {
-     "titulo": "Dólar cierra a la baja en S/ 3.478 tras operaciones del BCR",
-     "enlace": "https://andina.pe/agencia/noticia-dolar-cierra-a-baja-s-3478-tras-operaciones-del-bcr-1101430.aspx",
-     "resumen": "El precio del dólar cerró este miércoles en 3.478 soles en el mercado cambiario peruano, lo que representó una caída de 0.17% respecto al cierre del martes (3.484 soles), en una jornada marcada por las operaciones del Banco Central de Reserva (BCR) y la publicación de indicadores",
-     "fecha": "2026-11-25T17:00:00-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Pleno del Senado verá el viernes 27 pedido de viaje presidencial a Barranquilla, Colombia",
-     "enlace": "https://andina.pe/agencia/noticia-pleno-del-senado-vera-viernes-27-pedido-viaje-presidencial-a-barranquilla-colombia-1101433.aspx",
-     "resumen": "El Pleno del Senado de la República se reunirá este viernes 27 con el fin de debatir, entre otros temas, el Proyecto de la Resolución Legislativa 31-2026-2031-S que propone autorizar a la presidenta de la república, Keiko Fujimori Higuchi, a salir del territorio nacional el 3 de ",
-     "fecha": "2026-11-25T17:00:00-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Lima recibe primeros $ 500 mil del Banco Mundial para iniciar semaforización inteligente",
-     "enlace": "https://andina.pe/agencia/noticia-lima-recibe-primeros-500-mil-del-banco-mundial-para-iniciar-semaforizacion-inteligente-1101437.aspx",
-     "resumen": "La Municipalidad Metropolitana de Lima recibió un primer desembolso de US$ 500 000 del Banco Mundial para impulsar el Programa de Inversión para el Mejoramiento de la Gestión del Tránsito y Apoyo al Transporte Sostenible en Lima Metropolitana, iniciativa liderada por el alcalde R",
-     "fecha": "2026-11-25T16:57:18-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Paulo Pantigoso, Country Manager de EY: “Me encantaría que el Perú tome la bandera de volver a ser el Qhapaq Ñan del siglo XXI”",
-     "enlace": "https://elcomercio.pe/economia/paulo-pantigoso-en-cade-ejecutivos-me-encantaria-que-el-peru-tome-la-bandera-de-volver-a-ser-el-qhapaq-nan-del-siglo-xxi-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/",
-     "resumen": "El Country Manager de EY Perú señaló que en Perú hay 0,12 turistas por habitante, cuando en España el nivel es de 2 turistas por habitante y en Francia es de 1,5.",
-     "fecha": "2026-11-25T21:56:01+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "De Tía María a Chinchero: estadounidense PPG suma nuevo socio para crecer en minería",
-     "enlace": "https://gestion.pe/economia/empresas/gigante-de-pinturas-ppg-crece-en-doble-digito-en-peru-con-tia-maria-y-nuevo-socio-chileno-noticia/",
-     "resumen": "La multinacional estadounidense PPG, fabricante de pinturas y recubrimientos que en Perú opera principalmente con su línea Protective & Marine Coatings (recubrimientos industriales y marinos), amplió su red de distribución un año después de sellar su alianza con Químicos Andina. ",
-     "fecha": "2026-11-25T21:54:17+00:00",
+     "titulo": "CAF destinará mínimo US$ 6,000 millones al Perú en cinco años: ¿Chancay será el eje?",
+     "enlace": "https://gestion.pe/economia/caf-preve-destinar-entre-us-6000-millones-y-us-9000-millones-al-peru-en-cinco-anos-noticia/",
+     "resumen": "Sergio Díaz Granados, presidente ejecutivo del banco, adelantó que la hoja de ruta se presentará entre febrero y marzo del 2027. Los recursos estarán disponibles para empresas privadas y públicas, entidades financieras y gobiernos.",
+     "fecha": "2026-11-26T00:54:44+00:00",
      "medio": "Gestión"
     },
     {
-     "titulo": "JetSmart sobre opción de reducir la TUUA a escalas internacionales a US$4: “Creemos que aún hay espacio para reducirlo un poco más”",
-     "enlace": "https://elcomercio.pe/economia/jetsmart-sobre-opcion-de-reducir-la-tuua-a-escalas-internacionales-a-us4-creemos-que-aun-hay-espacio-para-reducirlo-un-poco-mas-cade-ejecutivos-2026-apuesplan-noticia/",
-     "resumen": "Francesca Luna, Country Manager de la aerolínea low cost, sostiene que el monto que propone el MTC -que aún sería sin IGV-podría ajustarse más para asegurar que no afecte la decisión de compra. JetSmart alista más frecuencias, cuenta el impacto del combustible y sus efectos.",
-     "fecha": "2026-11-25T21:52:10+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "Expertos analizarán futuro de las inversiones sostenibles en foro sobre economía circular",
-     "enlace": "https://andina.pe/agencia/noticia-expertos-analizaran-futuro-las-inversiones-sostenibles-foro-sobre-economia-circular-1101436.aspx",
-     "resumen": "A fin de posicionar la inversión sostenible y circular como motores de un modelo productivo más competitivo, este 26 y 27 de noviembre se desarrollará en Lima el IX Foro Internacional de Economía Circular (FIEC).",
-     "fecha": "2026-11-25T16:49:07-05:00",
+     "titulo": "Tocache: ocho meses de prisión preventiva para dos policías por presunta corrupción",
+     "enlace": "https://andina.pe/agencia/noticia-tocache-ocho-meses-prision-preventiva-para-dos-policias-presunta-corrupcion-1101457.aspx",
+     "resumen": "El Juzgado de Investigación Preparatoria de Tocache, San Martín, dictó ocho meses de prisión preventiva contra dos efectivos de la Sección de Patrullaje Motorizado de la comisaría de esta ciudad. Se trata de los agentes Jhon Cabello y Brayan Callupe, investigados por el presunto ",
+     "fecha": "2026-11-25T19:50:46-05:00",
      "medio": "Andina"
     },
     {
-     "titulo": "Elmer Cuba sobre nuevo retiro de AFP: “Un noveno retiro destrozaría las pensiones de un pequeño grupo que todavía tiene ahorros”",
-     "enlace": "https://elcomercio.pe/economia/peru/elmer-cuba-sobre-nuevo-retiro-de-afp-un-noveno-retiro-destrozaria-las-pensiones-de-un-pequeno-grupo-que-todavia-tiene-ahorros-l-ultimas-noticia/",
-     "resumen": "Elmer Cuba, ministro de Economía y Finanzas, se refirió a un posible retiro de AFP. El titular del MEF, advirtió que un noveno retiro de fondos privados afectaría a un pequeño grupo que todavía tiene ahorros.",
-     "fecha": "2026-11-25T21:47:44+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "Gobernadores electos piden al Ejecutivo impulsar obras para atraer inversión privada",
-     "enlace": "https://elcomercio.pe/economia/gobernadores-electos-piden-al-ejecutivo-impulsar-obras-para-atraer-inversion-privada-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/",
-     "resumen": "En CADE Ejecutivos 2026, los gobernadores electos de Ayacucho, Cusco y Ucayali pidieron al Ejecutivo impulsar obras para atraer inversión privada.",
-     "fecha": "2026-11-25T21:45:10+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "Julio Velarde: la inversión privada en el Perú crece a tasas bastante fuertes",
-     "enlace": "https://andina.pe/agencia/noticia-julio-velarde-inversion-privada-el-peru-crece-a-tasas-bastante-fuertes-1101435.aspx",
-     "resumen": "El presidente del Banco Central de Reserva del Perú, Julio Velarde, destacó hoy que la inversión privada en el Perú crece a tasas bastante fuertes, tras expandirse a 10% interanual en el 2025, en el periodo enero-setiembre de este año crece a un ritmo de 15%.",
-     "fecha": "2026-11-25T16:45:06-05:00",
+     "titulo": "“Hora Dorada”: INSN San Borja optimiza la atención a pequeños pacientes con cáncer",
+     "enlace": "https://andina.pe/agencia/noticia-hora-dorada-insn-san-borja-optimiza-atencion-a-pequenos-pacientes-cancer-1101461.aspx",
+     "resumen": "Gracias a una innovadora iniciativa que simplifica los procesos en el Instituto Nacional de Salud del Niño San Borja (INSN San Borja), niños y adolescentes con diagnóstico de leucemia y otras enfermedades oncológicas de la sangre reciben atención de emergencia en menos de una hor",
+     "fecha": "2026-11-25T19:48:58-05:00",
      "medio": "Andina"
-    },
-    {
-     "titulo": "Inmobiliarias alistan ofertas para evitar freno de ventas de viviendas",
-     "enlace": "https://gestion.pe/economia/inmobiliarias-alistan-ofertas-para-evitar-freno-de-ventas-por-el-nino-y-mayor-tasa-hipotecaria-noticia/",
-     "resumen": "El mayor impacto por El Niño y las mayores tasas de interés de los créditos hipotecarios se daría en el primer trimestre del 2027, ¿qué harán las inmobiliarias frente a este panorama?",
-     "fecha": "2026-11-25T21:45:00+00:00",
-     "medio": "Gestión"
-    },
-    {
-     "titulo": "Luis Carranza: “La inflación no es un tema de preocupación de largo plazo”",
-     "enlace": "https://elcomercio.pe/economia/peru/luis-carranza-la-inflacion-no-es-un-tema-de-preocupacion-de-largo-plazo-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/",
-     "resumen": "Para el exministro de Economía, el alza de precios no amerita incrementos excesivos de la tasa de referencia. Además, destacó la importancia de fortalecer los vínculos comerciales con Asia.",
-     "fecha": "2026-11-25T21:44:52+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "Corredores económicos pueden abrir una nueva etapa de integración, inversión y empleo en América del Sur",
-     "enlace": "https://elcomercio.pe/economia/peru/corredores-economicos-pueden-abrir-una-nueva-etapa-de-integracion-inversion-y-empleo-en-america-del-sur-l-ultimas-noticia/",
-     "resumen": "El Grupo Banco Mundial, en coordinación con el Ministerio de Transportes y Comunicaciones (MTC) del Perú y con el apoyo del Gobierno de España, llevó a cabo el Foro “De la Conectividad al Crecimiento: Corredores Económicos en América del Sur”, realizado el 18 y 19 de noviembre en",
-     "fecha": "2026-11-25T21:43:43+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "CAF en Cade Ejecutivos 2026: Multilateral movilizará US$15.000 millones para gobiernos locales de América Latina y el Caribe",
-     "enlace": "https://elcomercio.pe/economia/cade-ejecutivos-2026-caf-movilizara-us15000-millones-para-gobiernos-locales-de-america-latina-y-el-caribe-noticia/",
-     "resumen": "El presidente ejecutivo de CAF indicó que apuestan por el Perú como un ‘hub’ logístico y productivo del Pacífico Sur. Añadió que se debe trabajar en aumentar la conectividad aérea en la región andina bajo una política de cielos abiertos.",
-     "fecha": "2026-11-25T21:43:26+00:00",
-     "medio": "El Comercio"
     },
     {
      "titulo": "CADE Ejecutivos 2026: regiones reclaman seguridad, conectividad y energía barata",
      "enlace": "https://elcomercio.pe/economia/peru/cade-ejecutivos-2026-regiones-reclaman-seguridad-conectividad-y-energia-barata-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/",
      "resumen": "Las regiones del país tienen oportunidades para atraer inversiones en sectores como la agroindustria, minería, industria y turismo. Sin embargo, aprovechar ese potencial requiere resolver problemas estructurales que siguen restándoles competitividad. La inseguridad, la falta de c",
-     "fecha": "2026-11-25T21:43:18+00:00",
+     "fecha": "2026-11-26T00:46:26+00:00",
      "medio": "El Comercio"
     },
     {
      "titulo": "Elmer Cuba, ministro de Economía: “En el segundo semestre del próximo año podríamos crecer encima del 4%”",
      "enlace": "https://elcomercio.pe/economia/elmer-cuba-ministro-de-economia-en-el-segundo-semestre-del-proximo-ano-podriamos-estar-encima-del-4-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/",
      "resumen": "El ministro de Economía indicó que a partir de abril del 2027, una vez que el Perú no se vea afectado por el fenómeno de El Niño, habrá espacio para presentar normas de carácter tributario y laboral.",
-     "fecha": "2026-11-25T21:43:09+00:00",
+     "fecha": "2026-11-26T00:45:47+00:00",
      "medio": "El Comercio"
     },
     {
      "titulo": "¿Por qué las oportunidades de inversión en las regiones todavía no se convierten en crecimiento? Esto dicen los gremios",
      "enlace": "https://elcomercio.pe/economia/peru/por-que-las-oportunidades-de-inversion-en-las-regiones-todavia-no-se-convierten-en-crecimiento-esto-dicen-los-gremios-cade-ejecutivos-2026-cade-ejecutivos-cade-noticia/",
      "resumen": "Durante CADE Ejecutivos 2026, representantes de los sectores minero, industrial y agroexportador coincidieron en que la falta de infraestructura, las trabas burocráticas y la incertidumbre regulatoria limitan el potencial productivo del país.",
-     "fecha": "2026-11-25T21:42:57+00:00",
+     "fecha": "2026-11-26T00:45:20+00:00",
      "medio": "El Comercio"
     },
     {
-     "titulo": "CCL: el Perú no debe elegir entre masificación del gas y seguridad energética",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0xfczdBVzdWc0JvZlVrRGQtbVJURFZTM2V5OHhwQmViaDlIOHVWRVY2ekVSaV95aElqVnp4VUdCa2ZUMkJFdkFrLXk2bHJkSjg4MWV4UFhKNkFUcDN4Y0wtY3Z1Rno1UDNGUVRVOGpOQUFuaFdBNG5PYk1EVGk5V0l1TXVweUU1bEx2MHNPM1pfVjlTbnFJQmUtTjFmUVhPUXNLdk9oX0U3b25hbkE?oc=5",
-     "resumen": "CCL: el Perú no debe elegir entre masificación del gas y seguridad energética Revista Economía",
-     "fecha": "2026-11-25T21:42:51+00:00",
-     "medio": "Revista Economía"
-    },
-    {
-     "titulo": "Universitario de Deportes recibió el saludo de la FIFA por el título de la Liga Femenina",
-     "enlace": "https://andina.pe/agencia/noticia-universitario-deportes-recibio-saludo-de-fifa-por-titulo-de-liga-femenina-1101429.aspx",
-     "resumen": "Universitario de Deportes recibió la felicitación por parte de Gianni Infantino, presidente de la FIFA, por la obtención del campeonato nacional en la Liga Femenina 2026. Las 'Leonas' fueron destacadas por su esfuerzo y dedicación durante toda la temporada.",
-     "fecha": "2026-11-25T16:40:17-05:00",
+     "titulo": "Minjusdh y Unodc evalúan cooperación para fortalecer la gestión penitenciaria",
+     "enlace": "https://andina.pe/agencia/noticia-minjusdh-y-unodc-evaluan-cooperacion-para-fortalecer-gestion-penitenciaria-1101460.aspx",
+     "resumen": "El ministro de Justicia y Derechos Humanos, Ernesto Álvarez Miranda, sostuvo una reunión con Amado Philip de Andrés, representante regional de la Oficina de las Naciones Unidas contra la Droga y el Delito (Unodc), en la que se evaluaron posibilidades de cooperación técnica para f",
+     "fecha": "2026-11-25T19:43:48-05:00",
      "medio": "Andina"
     },
     {
-     "titulo": "Julio Velarde en CADE 2026: Economía peruana mantiene dinamismo, pero advierte posible alza de precios por El Niño",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeWlJVHUwUWsyeE9qUlR3cjhHRUxIaG5VWGljZFlzM0pkeWI0a3hMX3J2eXVlS3VDOTFndVRnWFM5TUFpNEFpdnk5NkJVYU9Td1ZOOTFFS0R4dUIyYmZBeE5ibGt2OGhmTlE0eElxT0dKb1oxcXNudlQ0Y2RudUZ0S040VE1ROU0xc0xqUHFUcXRJRE1adF9kUU9Ua1RTQ2xLNjBmcktKdzN0OENFOUZiekhXalpueXlpdGszdU03a205bEx6czFIVF8xSWhUZGdhNlV5QXV1Wjk1LXhZR1RHZjYyZ9IB9wFBVV95cUxQVks0aFQ3UjF3VkE5b1RJdC1NMVlwMjlJTk1MOFpmTEotVTVzcUtQRlpzM2s4UlZNSkFnQk5UeTJzOHpFamVYd0FCb2NpNlo3dnM0UUUxc1pWbkNRam5Bc3d3RE5SOXpuR2MtY0dFaURkU1dma1E5MHBjWG8yZ1ltbTlfay14OEh3akxYRUs4emkxYXZaUVJXSEhLQkhaS1ZxcTU0V3ZtYkpiaWlmMkE5WldLM2RwaHdaZFNyTVFFSlpadTd5bDJobU5lbUllUGtKdlZEWkthbE94bmVZNVh0Y0FzeEhnVm0ySVNGS09qd1Q5Q19vU3JF?oc=5",
-     "resumen": "Julio Velarde en CADE 2026: Economía peruana mantiene dinamismo, pero advierte posible alza de precios por El Niño Diario Correo",
-     "fecha": "2026-11-25T21:38:36+00:00",
-     "medio": "Diario Correo"
+     "titulo": "Banco Mundial identificó cerca de 70.000 proyectos de inversión pública paralizados en el Perú",
+     "enlace": "https://elcomercio.pe/economia/banco-mundial-identifico-unos-70000-proyectos-de-inversion-publica-detenidos-en-el-peru-cade-ejecutivos-2026-cade-ejecutivos-cade-noticia/",
+     "resumen": "El Banco Mundial identificó unos 70.000 proyectos de inversión pública detenidos en el Perú, según un análisis presentado en CADE Ejecutivos 2026.",
+     "fecha": "2026-11-26T00:43:41+00:00",
+     "medio": "El Comercio"
     },
     {
-     "titulo": "Ejecutivo aprueba proyecto de masificación del gas natural para Cusco, Puno, Ayacucho y otras regiones",
-     "enlace": "https://elcomercio.pe/economia/peru/ejecutivo-aprueba-proyecto-de-masificacion-del-gas-natural-para-cusco-puno-ayacucho-y-otras-regiones-l-ultimas-noticia/",
-     "resumen": "El Ejecutivo aprobó el proyecto de masificación del gas natural para Cusco, Puno, Ayacucho, Huancavelica, Abancay, Junín y Ucayali.",
-     "fecha": "2026-11-25T21:35:14+00:00",
+     "titulo": "Diego Macera, director del IPE: “Podríamos tener cuatro o cinco años consecutivos de inversión privada creciendo a doble dígito”",
+     "enlace": "https://elcomercio.pe/economia/peru/diego-macera-director-del-ipe-podriamos-tener-cuatro-o-cinco-anos-consecutivos-de-inversion-privada-creciendo-a-doble-digito-cade-ejecutivo-2026-cade-ejecutivo-cade-apuesplan-noticia/",
+     "resumen": "El director del Instituto Peruano de Economía (IPE) consideró que el dinamismo de la inversión podría extenderse hasta el 2027, pese a los riesgos asociados al fenómeno de El Niño. Además, respalda que el MEF actualice sus proyecciones con mayor frecuencia.",
+     "fecha": "2026-11-26T00:41:31+00:00",
      "medio": "El Comercio"
+    },
+    {
+     "titulo": "De las aulas al mercado laboral: 40 jóvenes de Ventanilla ingresan a programa de prácticas",
+     "enlace": "https://andina.pe/agencia/noticia-de-las-aulas-al-mercado-laboral-40-jovenes-ventanilla-ingresan-a-programa-practicas-1101459.aspx",
+     "resumen": "Dar el salto de las aulas al mercado laboral representa uno de los principales desafíos para los jóvenes que buscan iniciar su desarrollo profesional. En respuesta a este reto, estudiantes de la carrera de Administración de Empresas del Instituto de Educación Superior Privado Nue",
+     "fecha": "2026-11-25T19:38:40-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Julio Velarde en CADE 2026: \"La izquierda en el Perú no asusta a nadie\"",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFpkVGplNVJVLVNmZTBMMUVYSHJucHJEUW9EVkhaVVRqQVRETTdnbDJQUWVVbEw5UlNHMnNHR25rQ3hZdG5GY0R1ZkUwV3QxYW9kSnpxbUY5RWRUMXc1UTZMWDJjeDRfenBaWUdXRk5yOFlpRzNtZGowMFdmUkw1cl9lZzloSEN6c3BGMVZVcDN1bkQ0cllFaE9lblpnaEZfc04za0Z4dUVEUVdRNF80RFlfdVhlMTFuN0swQUR6c3UyU1nSAcgBQVVfeXFMTXR2dHBKY2ZIeTVzMDdaMkVkTmpNdFp1ZmlRclBCSkVGcW84cHU3QnhiamFTbXREbm5yZW9nQmIyTEVwMGExdDd1eEwyVlNIUk1SU0RZUUgtbktKYnZVRU9icTF5OHpBRG5lb0dHS0ZGeG5ZOVpVNE9sM2xVUzJIc2RCZk1RWG01dGZnQUlJRnoxTHdRUWphYnpIejhwT0Rab3lGaGZRZG5hSWlLUWhadmhfUUp0aGh6WVVGNjlFdG84OUhCMFp4ZnY?oc=5",
+     "resumen": "Julio Velarde en CADE 2026: \"La izquierda en el Perú no asusta a nadie\" La República",
+     "fecha": "2026-11-26T00:37:01+00:00",
+     "medio": "La República"
     }
    ]
   },
@@ -187,6 +187,34 @@
    "id": "mundo",
    "titulo": "🌎 Economía internacional",
    "noticias": [
+    {
+     "titulo": "La inflación en Estados Unidos vuelve a repuntar, pero el mercado sigue esperando que la Reserva Federal suba los tipos de interés en diciembre.",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGpuUDlIazVVdzRBNEJXUEM3dVk0UFdHUVdTeG9oZXBDbVEzQTkyYTZCejRsQzlBNWRZUHgwaFhON0JxYTRVdVZWeU5EdmhMSnNLRWM1UXdqcWpaU00tamtFYjEzUlJia3JNTGI1cnh2R0lPMkxVOFFTZ01CLXhaVkhuTmtYeDBqUlItbmNVazllZklrandXU2k5NktJZy1uYThrVkpPWm05dw?oc=5",
+     "resumen": "La inflación en Estados Unidos vuelve a repuntar, pero el mercado sigue esperando que la Reserva Federal suba los tipos de interés en diciembre. Vietnam.vn",
+     "fecha": "2026-11-26T01:10:23+00:00",
+     "medio": "Vietnam.vn"
+    },
+    {
+     "titulo": "La Reserva Federal de EE. UU. señala que \"continúan las presiones al alza en precios y salarios\" y que la economía mantiene un crecimiento moderado",
+     "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tYTJnMmN1M0ttT3V3dHhnVm15U0pWN3c2T0tHa3BtTHdOX3E0UExMLV9tdURfSWZEZlFFNDFXV25PTlQ1ZXpLM1h4LVQyTVQ5T05MbVY1R19zSjBVbVNmbkt3?oc=5",
+     "resumen": "La Reserva Federal de EE. UU. señala que \"continúan las presiones al alza en precios y salarios\" y que la economía mantiene un crecimiento moderado 재경일보",
+     "fecha": "2026-11-26T00:00:17+00:00",
+     "medio": "재경일보"
+    },
+    {
+     "titulo": "Altos precios obligan a consumidores de EU a ser selectivos: Libro Beige de la Fed",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYVl6NTlqR25CaDJkd0tpWVozQ2JNN0hnbnRuUG9mZ3ZZRnFUTWFnUWdZZVd0THVLWThMYUFtdi1hVU1wT25EcDVKcXRxcmhhLWJMeDJCcHlHY0x4dGYxa3ptdFV0dmtjUWpuRFVsbmNnZ3NZNURkN29PVml3RkhjZWt0YmpwRUtzMXlCMk1yYmFOS0JMZ1JvakZxX0JKal9MRXB5RlJYT1d4aHBLSXRLYW93eWlFN3Y4V3NfcF80WGdsdEFR0gHKAUFVX3lxTE5qRDI0TGNBVnpiaVI5NVJlN2trSUJfa1BEbENNNnN2ZkJyWGt5TF9SWDFHdVFWdEtHdkZDVlRiVExEZDc2cEs3VDU1c1FxckVkeU1BQ2N3a3plemxPLXFuNDFMdGZIYlJQSWdObzBkNllzS2NXX3lGbDUxWE5WR3R5ZEpHMXNNVWg2SVQwMFlBYlVJSDM0eU9lellFRnJ4eUNmdHg5dThhbUt0VXRhWlpXbDNQeEhQTWJ3dkVWMWUxZmNBXzhmZFktYnc?oc=5",
+     "resumen": "Altos precios obligan a consumidores de EU a ser selectivos: Libro Beige de la Fed El Economista",
+     "fecha": "2026-11-25T22:42:41+00:00",
+     "medio": "El Economista"
+    },
+    {
+     "titulo": "Brasil considera “inaceptable” propuesta de nuevos aranceles de EE.UU.",
+     "enlace": "https://www.dw.com/es/brasil-considera-inaceptable-propuesta-de-nuevos-aranceles-de-ee-uu/a-80055590?maca=spa-rss-sp-eco-1009-xml-mrss",
+     "resumen": "El Gobierno de Luiz Inácio Lula da Silva expresó su “indignación”, dijo llevar un año negociando “de buena fe” con Washington y no descartó medidas recíprocas.",
+     "fecha": "2026-11-25T22:41:00+00:00",
+     "medio": "DW"
+    },
     {
      "titulo": "La Fed alerta del impacto de la inflación y los aranceles sobre los hogares y las empresas de EEUU",
      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMU9wc3N4Qy0wd2dsZlJoVE9mc0FaVnZvNDVzWmQtdmhLY19MZkotN0haRV8tX0xvSFBpR3hjb0l3d2ZaTV9EcUQ4THItU2dfUlN6VFQzaEt5enFkYVJRTGJYRUN5QWFscXJ2dmJNNTVmbGV6b1IycnFGYUltaktBWk8zdTBjR2lTZXZwYkdtdUV3cklQUXVJR0ExVDVfcE01amFJd3FVaUtrMHhkd2pkRVVSZ3hoQV8xNERPN1FzT0N4QTjSAcgBQVVfeXFMTVFKLXp0d01Vdl9QZ2tYY0N6Q0o1cV9EeVZhXzhMaFp1MlBKdmlwdFJtQWhELVdlOEhMMzM1dnBmNzBCQXFaWHJkREpSSzRLQ1kyb3NwR1dvNko5Q1Nnd3VVV2FtcHZmdUNPcnU2N25sZGJ0eEQza2tpWjZiMmxObVREbTJidjVxNVZvSlZLQm80clRJbmV4cXJkOGsxMUNPMG9OemtpMEZ6OXN0ZnBGeEUxTkExUVk2Y0pkMG1uUUFEMElCd1dDdUE?oc=5",
@@ -244,67 +272,11 @@
      "medio": "Heraldo de Aragón"
     },
     {
-     "titulo": "La economía de EEUU avanza a un ritmo moderado pese al freno del consumo y la presión inflacionista, según la Fed",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTEtlUWdTOVIxYmVodXNxQlJUSVlQYzh2NFdZTUQxRGEtcmlwejdoV3pwb2VqY0hGWGFoV0U3bkJoaFNWRDVhZXI4eVVpcXRyRW5VMDhoN3lpWjhtcnVjOGd2Y2otOUVwVVZMODdlYm82LUljbDRkdE1IOThJd0J1QW5uVlZOQ2FSYjhHSWRkNDVzSzZWRDZna0IxdXpBenhvYnItNDhnaTRMM2luU1FKVDlUSG9qaWVERlBhZ01ubkF1YldUNUhDSlhpS2hETTV6OGlrQ1hIQVBXX2tiUkNPZjNnV1NHUdIB5gFBVV95cUxQTEtlUWdTOVIxYmVodXNxQlJUSVlQYzh2NFdZTUQxRGEtcmlwejdoV3pwb2VqY0hGWGFoV0U3bkJoaFNWRDVhZXI4eVVpcXRyRW5VMDhoN3lpWjhtcnVjOGd2Y2otOUVwVVZMODdlYm82LUljbDRkdE1IOThJd0J1QW5uVlZOQ2FSYjhHSWRkNDVzSzZWRDZna0IxdXpBenhvYnItNDhnaTRMM2luU1FKVDlUSG9qaWVERlBhZ01ubkF1YldUNUhDSlhpS2hETTV6OGlrQ1hIQVBXX2tiUkNPZjNnV1NHUQ?oc=5",
-     "resumen": "La economía de EEUU avanza a un ritmo moderado pese al freno del consumo y la presión inflacionista, según la Fed Demócrata",
-     "fecha": "2026-11-25T19:48:33+00:00",
-     "medio": "Demócrata"
-    },
-    {
-     "titulo": "El Libro Beige de la Fed detecta más presión salarial en una economía que pierde impulso",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbE9TVWdmUDV6dmp0WnRNWWwwQlkwWmRYTElDemp1aTNCYnJNcGxwMDc0ZlFaVk90NnZHTWlhMEJDdUxNSVF0dklDRFp3ZDFpUkliREFhMmJXM0h2U3hxUnR0cmhBZ3JKR2NGZEJFVnlzUjdBd3h4cW00dzd3NU9CUThEYkstNHNISGIxYkxWX0xCYUdSd25PWUFRamlwdElDMmlSRGU5V0NsYUE1RldpWHVyaFNMY2dHUTRaZ0RITWdCb1QxQ1BTQVpmcTk3d0VQRDlaWXVBUEFKZ0hvVl9KZFVvVXdFam14d0Q0a2pqazlVZk5TelRYb9IB-AFBVV95cUxPbE9TVWdmUDV6dmp0WnRNWWwwQlkwWmRYTElDemp1aTNCYnJNcGxwMDc0ZlFaVk90NnZHTWlhMEJDdUxNSVF0dklDRFp3ZDFpUkliREFhMmJXM0h2U3hxUnR0cmhBZ3JKR2NGZEJFVnlzUjdBd3h4cW00dzd3NU9CUThEYkstNHNISGIxYkxWX0xCYUdSd25PWUFRamlwdElDMmlSRGU5V0NsYUE1RldpWHVyaFNMY2dHUTRaZ0RITWdCb1QxQ1BTQVpmcTk3d0VQRDlaWXVBUEFKZ0hvVl9KZFVvVXdFam14d0Q0a2pqazlVZk5TelRYbw?oc=5",
-     "resumen": "El Libro Beige de la Fed detecta más presión salarial en una economía que pierde impulso Bolsamania",
-     "fecha": "2026-11-25T19:40:08+00:00",
-     "medio": "Bolsamania"
-    },
-    {
-     "titulo": "EE. UU. eleva su crecimiento al 4,3 %: consumo e inversión impulsan el PIB",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWVMM3Y2dGs2QkpuNlIwNzVDSWFOTnJBai04SFZnOElsYTlVeEVrblBWXzc4OWJ2QmlSaXNsUkxKLUJKNk1DakZoQS0xQlhtVmFzbW12M0tRSjUwRmdPdld5dWhNU1ZpQmQwV1UwLUo3REhpb2ZGbjNJUXQ1UEZXWXNDak5JZUxVV3pha1QtTE5xd1c2dFVJZEVLQkhRTkRuQlBaUmE2MDdOWDRGZTE4?oc=5",
-     "resumen": "EE. UU. eleva su crecimiento al 4,3 %: consumo e inversión impulsan el PIB surnoticias.com",
-     "fecha": "2026-11-25T19:31:45+00:00",
-     "medio": "surnoticias.com"
-    },
-    {
-     "titulo": "El PIB y la inflación suben con fuerza en EEUU",
-     "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlZ0WThrLWtCRXhGRHVpQ0NLS2FEWE1fMHBQOUl0NE12WmJsY1lNLXlKV2lSNE5FMktoeTIySFYwN19WaXg0RXRwUVNGaHZjQ1VIVDBhb3gyQWlCY2J5V2ZudmZ0U29lSHNEOEdkblotX3dVUXNnT2lrNVNKUC11WkRTdm9qQ2k5eFh1aDZWZWd2dzkxVk45OQ?oc=5",
-     "resumen": "El PIB y la inflación suben con fuerza en EEUU Yahoo Finanzas",
-     "fecha": "2026-11-25T19:24:04+00:00",
-     "medio": "Yahoo Finanzas"
-    },
-    {
      "titulo": "Economía de Estados Unidos crece 4.3%, pero inflación alcanza su nivel más alto en tres años",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb004cDFFWThUZzlnNzlBLUs5c1ZaQ3RhZXRubVE1SC04cHZmXzNNOXkwM3BBY2I1cmN6enhmU3NSM21kQlJXWFdSWkxIOW5tcWt6a01FZzVMX0hkSlVpSnhta2NVUUo5TUxxcjlrYWpZaXFGSFVzczZ2MnVEdHZremFTSnNpbXlpYUNadnZ5by00ak9Ed2FSNThSNzNoV1FnaWpFQnhrVFVhWWVIVkpBQnE4RFBnalU?oc=5",
      "resumen": "Economía de Estados Unidos crece 4.3%, pero inflación alcanza su nivel más alto en tres años Ahora Tabasco Noticias",
-     "fecha": "2026-11-25T19:18:45+00:00",
+     "fecha": "2026-11-25T19:19:14+00:00",
      "medio": "Ahora Tabasco Noticias"
-    },
-    {
-     "titulo": "Peso mexicano pierde terreno ante nueva amenaza de aranceles",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzFtZUpjdVExVHlVNzUyc3VLZkNfQU5ibi1zWUpSSWt5d3REeDRqZUZaYVRYcGxBenEtYzdGNWZ2THhRelg3V2I0OHUtZk9ZYjQxN2pqOVBVamJUYW9BX1hqdllFYXZzS0poNENXc3NvUE1XLUxKaWpMSGN6S09BUzJfcUZXVzVxcnM3WVRISk8tNnd1M19xMzNoRk1oNHZWUUVPRkswNjRKUk9MMlAxSHI2SjU1OHpBRGNZ?oc=5",
-     "resumen": "Peso mexicano pierde terreno ante nueva amenaza de aranceles MVS Noticias",
-     "fecha": "2026-11-25T19:12:23+00:00",
-     "medio": "MVS Noticias"
-    },
-    {
-     "titulo": "La inflación PCE de Estados Unidos sube al 3.8% interanual en octubre",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3AwVXNrR0NoVExCMGE5UDlYaTRCb0o1M1JQN0JvV3FVbl9OaWk5WnU0VHJMbnhuNzg1bXZncXJqYTVaOXhGQ3ZNbjZndHplTXZVNVVYbjF2eFZEak9XNE82QUp2UXk2dUtjb1pHTlBmYmwwNkVFc2FXUGlCMjd6Q0p4aHBPSkN0UjZjU1VuY0VXYllULXRzMDZudmV2YnNoYXc?oc=5",
-     "resumen": "La inflación PCE de Estados Unidos sube al 3.8% interanual en octubre Periódico elDinero",
-     "fecha": "2026-11-25T18:49:32+00:00",
-     "medio": "Periódico elDinero"
-    },
-    {
-     "titulo": "Inflación en EU sube a 3.8% en octubre; la Fed podría seguir elevando las tasas hasta 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3NRdERvbVdSNkpMS2U0UGxnd2hPRTMzdlNiUjFOdHQ2VlhhMGdYLVZxY1RfZzVNZzgyTjNPdmVCXzdiaGVJZEdYY0s1MVVMcF83Ym8zWl9mYk5ZdjZEUmZvaThnZHl2aFYwMnN1T1VLMUdWT1lydFA2NmZwYUY0NE1FeXRjekdXZmtJSjBGZ0UzUHg2TWlmMEYtZlVHVVc1R0lWYm9OTi1ENHpCUS14ZVQwVXJwV2tW0gG4AUFVX3lxTE1jc1F0RG9tV1I2SkxLZTRQbGd3aE9FMzN2U2JSMU50dDZWWGEwZ1gtVnFjVF9nNU1nODJOM092ZUJfN2JoZUlkR1hjSzUxVUxwXzdibzNaX2ZiTll2NkRSZm9pOGdkeXZoVjAyc3VPVUsxR1ZPWXJ0UDY2ZnBhRjQ0TUV5dGN6R1dma0lKMEZnRTNQeDZNaWYwRi1mVUdVVzVHSVZib05OLUQ0ekJRLXhlVDBVcnBXa1Y?oc=5",
-     "resumen": "Inflación en EU sube a 3.8% en octubre; la Fed podría seguir elevando las tasas hasta 2027 Imagen Radio",
-     "fecha": "2026-11-25T18:46:04+00:00",
-     "medio": "Imagen Radio"
-    },
-    {
-     "titulo": "Economía de EE. UU. crece 4.3%, pero inflación alcanza su nivel más alto en tres años",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEI4RE5na1V1LXVZSGx4N3FMUVk5NlNQQk5BTUlJSXFqd0dCTkRMYnpoblRiZl93MkY5bWZZNS1yX1pCbWhIanhMMGtmRERCbl9PSS1QajFLTVhXQjd5NC1MLVdBMFFvTmZlOTg2S1B4Q1BQUEpvMTJpWkNZV2FOMXNjdTl3XzQ2ZWdkeUFmSE8ySUVoaWRpNlVOTHktWjYyeTRCX01nX3A0Q041WVcwR3pOdU5rUURnbUE?oc=5",
-     "resumen": "Economía de EE. UU. crece 4.3%, pero inflación alcanza su nivel más alto en tres años UnoTV",
-     "fecha": "2026-11-25T18:43:42+00:00",
-     "medio": "UnoTV"
     },
     {
      "titulo": "La inflación de EE.UU. aumentó más de lo esperado y puede sumar tensión al riesgo país argentino",
@@ -321,13 +293,6 @@
      "medio": "Vietnam.vn"
     },
     {
-     "titulo": "La Fed enfrenta presión rumbo a 2027 al acelerarse su indicador preferido de inflación al 3,8%",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yWnVsem5yYjh2U2JDVWNySVNibzJiUDFYNVBJSFJ4VE1YTHN1X3E2Z0JYTVdzWDlETVRpajFGSVkwNmZNZVNOQlhfeGJpMlNKNlY5WDBPYXh4QkQ5TmRfcVF6X2hFRUk?oc=5",
-     "resumen": "La Fed enfrenta presión rumbo a 2027 al acelerarse su indicador preferido de inflación al 3,8% Bitfinanzas",
-     "fecha": "2026-11-25T17:26:22+00:00",
-     "medio": "Bitfinanzas"
-    },
-    {
      "titulo": "Un indicador de inflación de la Reserva Federal subió al 3,8%, reforzando la tendencia a favor de una subida de los tipos de interés.",
      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTBETUxkNWthd01oUllEOVExWlBDWXgxUFBWSUc3eXR4eWo1NVplaFhnSnY0dHFFUmRaUzJQX1JCLUFjWHFnajRjeTJQczBFVjJrNGJCRDFhZGpWek8wc2x3bk5lZzRjWUZXazFKVWNka0N2UkM1eExGQUQwcVlBd3RMTTZPd3ZxUzBLc29rYw?oc=5",
      "resumen": "Un indicador de inflación de la Reserva Federal subió al 3,8%, reforzando la tendencia a favor de una subida de los tipos de interés. Vietnam.vn",
@@ -335,15 +300,8 @@
      "medio": "Vietnam.vn"
     },
     {
-     "titulo": "La economía de Estados Unidos crece un 4,3% en el tercer trimestre y supera las estimaciones iniciales",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTDVLWWJEOE03RUtSY2NOcE9pQ1dRakNBYjFDMzNPQU1JMVdFTmhiUVRhQTdkbFRVRDR3eTV4bE9UUTRWcHFpam11Yml1ZDhlVmc0YUtYM1BtTldSVHoyVkl2eGRzaVgtRlNJWmQyVWUwWUF3cWEybDBnN2MwZi1CUzFtU3U2eGZsM0pGalNhclRSU05MaGlZWkY1MDdBUVNsRmNSS2lwVWF3YmZqMFhzSHN0dktVZmI4aV8zRWhhdnB4SnNPaW9FckRHTl9Pa2dmTjhhLU9xZHZCRG43?oc=5",
-     "resumen": "La economía de Estados Unidos crece un 4,3% en el tercer trimestre y supera las estimaciones iniciales Iberoeconomía",
-     "fecha": "2026-11-25T17:20:15+00:00",
-     "medio": "Iberoeconomía"
-    },
-    {
      "titulo": "La inflación en EU se mantiene alta pese al alivio en el precio de la gasolina",
-     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2WFF2N09uN0MxamRhRWIyYm1NU1YxbFctZVhyaDg1NHJTSXpOU0gzbmNIUTVhcm9haDFxNXNKVHhOb3A2RzJTalA5NjFJaGJBU2prc0hjYVhwclI1cllKcmp3ejFiMjN6b1dsU0JtTnFkOUFpbDdnWWln?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VNGZ3NFBGUURTNmx1dkZnU2VUSDVQMlhwWTR4WVNMQWY0MF9kMmhyQWNJY2wxWE13cW05QW01Z0tRNHNqclRQTjVSRzc4c1ZEU0FhdFoya2x0bEdCdjI3T0hPcHI2eUE3MEdLVzNSbm5DTkNOOHc?oc=5",
      "resumen": "La inflación en EU se mantiene alta pese al alivio en el precio de la gasolina 24-horas",
      "fecha": "2026-11-25T17:08:08+00:00",
      "medio": "24-horas"
@@ -361,6 +319,48 @@
      "resumen": "El Dow Jones se desploma 1.000 puntos y desata el miedo en Wall Street Negocios.com",
      "fecha": "2026-11-25T16:26:30+00:00",
      "medio": "Negocios.com"
+    },
+    {
+     "titulo": "La inflación PCE en Estados Unidos sube al 3,8 % en octubre",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0drRkVsc1dtTnlEWmRmRFhVRE1paU80dU50MUIta1JWcGtqdXZHMk1JMUVCV3M2WjViU2t2eXBEX2x1VnRuVjUzWnlrZUlGRl9iQjhFNVFVdW5XVHFidnVnSThMVWpEZnhqeXdsbnJiRlFreU5OUFc5UDA3MU80ZDlYLVhPRUxRbmYwWlBKN0NZMUgxS3JhMHBXYTM2VlZlYmY1TkdHbXlSbHlibEVfRXlCSUs?oc=5",
+     "resumen": "La inflación PCE en Estados Unidos sube al 3,8 % en octubre www.revistaeyn.com",
+     "fecha": "2026-11-25T16:00:00+00:00",
+     "medio": "www.revistaeyn.com"
+    },
+    {
+     "titulo": "La inflación en EEUU sigue firme y el mercado se prepara para una suba de tasas en diciembre",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeG5CSngyOUppbXpEVm52azJNLUxrU1NLR1pUamQyRVhleGY0MDJtZ3d6LUdtaUI2T3hrOWE3cWxtSWlxOEVlUkM3b2xpREJ4MmNMeEFIcno4NWpaZVBzYTJLUUF0b01YVFpvVENGUEJGYVlkbi12ZUMtM3l5RkxoTGxoand6ZjRxMXZUOEtNbjRZaG9iSzFPUHMzSFJ3QS1HNHJHeFdOX0MtZnM0MkRtcGVZbEVRUGpCTWJj0gHAAUFVX3lxTE5KYWxDVThNeDVIQVBhVmdvbUcwRERVcFlnZXRnVmlKdVRha1JxRHZ0WjMtcmVVQkJhM09faUtyWFIxV1NEMUFyWTVtYWJ5LTctanFMckl3aGUxRHhyYzNjclVVSVo2ZVVobmVBT0RtbnJ5TjJjd1ZHQXNpQl82X0Y4QnZSRC01SGtCTml0RFB3MktKVEVwVFFXaEhVYXRRUnoyRjZXVWYwMmJ4R192aDZQRUJ6U01TdDEySUM0VUNEOA?oc=5",
+     "resumen": "La inflación en EEUU sigue firme y el mercado se prepara para una suba de tasas en diciembre Ambito",
+     "fecha": "2026-11-25T15:34:56+00:00",
+     "medio": "Ambito"
+    },
+    {
+     "titulo": "Debate clave: los funcionarios de la Fed discrepan sobre las causas de la persistente inflación",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQS1icEtqQS1BTklmQURJb21INzBwWjVDeWRmelhmb0phakhwVUZSZm9VempsOHRSNUtpYVNMZ2tYdWlOX0JhcHVtaXBtbWYtaUotaWNUUjYyWUtYUmx6VkMzWGMtczZNRmZ6YlIxMlVXcl80LVdrYjhNTUJWb21Gby1WVENNWF9idlRwMUtudDVMSHUzaGRYZWNsTGNUSG5HZ2MzNGI1SlM2R0ViUFg2Sk9QWHlqREpyU3ZnNDhYOW7SAcYBQVVfeXFMUEhxTDI5LVlRbjZ5WGpwTXpKMEI0MXR2RnJCaW5ITUhKVFpramdOc2k2M2c5TVVoaV9aU0Q5YzRJejh4dFVuM1pKNDN4MEFMMExadTNkTFBWMkFfaFVpMU1icUx3OVNPQ0xUa2VSdTRtU1lqNWxKYXVkMlg1ZHJvT2k3RE5GcV9IVnVtQzZVd2h3OGVWcGJwa3o1QmhuOFFiZGh5QjBMRmMzUGkzMUFKUXpxc3hJeGc0UWF5WWlFc0FyZjJlekt3?oc=5",
+     "resumen": "Debate clave: los funcionarios de la Fed discrepan sobre las causas de la persistente inflación Ambito",
+     "fecha": "2026-11-25T15:29:00+00:00",
+     "medio": "Ambito"
+    },
+    {
+     "titulo": "Inflación en EEUU firme: Mercado descuenta suba de tasas en diciembre",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NPWGRYNFFjVGNjZlhwODdnNHZGbmNMc3dPUFEzODRoUkVjTHdoUE9wN0J3TkZUdmZjaEtyRGEyc0Fsb254UWNRUzYyZHhnb0ZiU2dOMjJHc1pTUjgwdVRGQkctV2lVY1NXcGItR1ZnTi1NTnpiaVN4NDVDUWFUckNNSzFKQmJZYUJiS0pkNTFWYWlXeG1RUnQwUzgxVW9wYTN1a0FWRQ?oc=5",
+     "resumen": "Inflación en EEUU firme: Mercado descuenta suba de tasas en diciembre Rosario Finanzas",
+     "fecha": "2026-11-25T15:15:00+00:00",
+     "medio": "Rosario Finanzas"
+    },
+    {
+     "titulo": "La inflación PCE en Estados Unidos, clave para la Fed, sube al 3,8 % en octubre de 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXByZlAtSy1VSWtJNnktdFZXU1dYSDNnWEFSVDEydU1CT094UmVzM3hGaEZYdUtvRDF0bnp2Y0ZpMWM3UVBKQ0N6eklEeEE4V2Q4WjB1MGE0ZzByQ0FxdVZlRDRmRUhFT3liak5qZlFiNzFjQTNaelcyT3N3OFo4SzJUcEVCU1h0ZDFmcFdHWnFxUXhtZ3g5VDdyRTlCN3R2Y1FLYnR1TkNaMnNIT25GYXQyNzdYd2E4V0xlV1RGa0dUeWpFSlFwN205bFczY1k4TnVNLVp6SFRXZlhTdlJ0YXl3?oc=5",
+     "resumen": "La inflación PCE en Estados Unidos, clave para la Fed, sube al 3,8 % en octubre de 2026 www.abc.com.py",
+     "fecha": "2026-11-25T15:10:00+00:00",
+     "medio": "www.abc.com.py"
+    },
+    {
+     "titulo": "El consumo se estanca en EE.UU., pero la inflación mantiene bajo presión a la Fed",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWm9NWktGNjZrMTN0VzlIb05CWXBVdmdQYlFtTjhtUUFVOTQwUi1SMkhqQm1nNUtraGdPaldlVm4wT0JNYTU4NUdQVnR2Y3pra2otX2hZZHBqbFRsRDRyS1U4amp4VkdXMWFWQ3c1Wjc1Z1lpV3h4UnRMdURveTRRZm5fVWZXMGlEU0JPUzk2MXA1aTl1U1E3NWdGT0pQeW0zR3NKdU91c3c0NVktZXJvTzJXQ0Q5anlYWUtHTTY1N2c2cElKTHd5aDU2Y3oxbDI1S3lCa0twWmJSZmoydHpZ0gHfAUFVX3lxTFBab01aS0Y2NmsxM3RXOUhvTkJZcFV2Z1BiUW1OOG1RQVU5NDBSLVIySGpCbWc1S2toZ09qV2VWbjBPQk1hNTg1R1BWdHZjemtrai1faFlkcGpsVGxENHJLVThqanhWR1cxYVZDdzVaNzVnWWlXeHhSdEx1RG95NFFmbl9VZlcwaURTQk9TOTYxcDVpOXVTUTc1Z0ZPSlB5bTNHc0p1T3VzdzQ1WS1lcm9PMldDRDlqeVhZS0dNNjU3ZzZwSUpMd3loNTZjejFsMjVLeUJrS3BaYlJmajJ0elk?oc=5",
+     "resumen": "El consumo se estanca en EE.UU., pero la inflación mantiene bajo presión a la Fed Bloomberg Línea",
+     "fecha": "2026-11-25T14:10:01+00:00",
+     "medio": "Bloomberg Línea"
     }
    ]
   },
@@ -369,179 +369,179 @@
    "titulo": "🤖 Inteligencia artificial",
    "noticias": [
     {
-     "titulo": "De tardar medio día a solo cinco minutos: inteligencia artificial transforma negocios de más de 1,100 emprendedores en Costa Rica",
-     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOHNMYW5Oc1AyZC1DMVBDZ2FHRzZ2d25FcFpjalcwU0FwcXZZWFpiSzlBemFuXzFxOHIxbXplYUl6UXg3ZVBnZENxdWFnNkhsdXBpbXlMUncwMDU5WHR5YlhtX2x4M2pIcldFYmIyYk5femhnWUZBSXppSW1yOFBhMV9qeEFoM3JYcWZjNWE3M0IwN2Z6cFZRaENyOThRSWUxN1ZWQnBybWZnYkxGNEtQV0RGVGU0bVMxZ2dHc1RDeWRTZkF1WnZCRko3UVNCUjZSekRRMm9MUHhtYXFzTGdVRWl3?oc=5",
-     "resumen": "De tardar medio día a solo cinco minutos: inteligencia artificial transforma negocios de más de 1,100 emprendedores en Costa Rica DPL News",
-     "fecha": "2026-11-25T21:51:00+00:00",
-     "medio": "DPL News"
+     "titulo": "La inteligencia artificial en la sombra abre nuevos riesgos para las empresas",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamY2Q1hGR0ZnSDY0VHRtR2dKTV9rVkpfWmU1NGZPZUVQWmlEVV9Xam5URlMtMXlWV2RhVjZtS1BIR0FJVFhSLTl0aENxNGxfNDhpVkNTTnB5R2JkUGJCWlB3UXFySjFfTmlIeElKTFN2UVRmd2lLeVJTQzRDMDUwQ2Rub0pOSkUzdzhTbGVKSkxkdUllVXN1b1hKdTN1WHRvaVE1U3ZiXzNVMUlNRkpzdHZsNk95SWdM?oc=5",
+     "resumen": "La inteligencia artificial en la sombra abre nuevos riesgos para las empresas El Rancagüino",
+     "fecha": "2026-11-26T01:46:00+00:00",
+     "medio": "El Rancagüino"
     },
     {
-     "titulo": "La inteligencia artificial acelera la evaluación de la apnea del sueño con registros de 10 minutos",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaEpUVGQ4VHRxTzNQN21FY0RuU3VndUNkVXJDYXJDazlPQXA0cUVTbDBSZjFxVmZ2Y0ZlM0tReEhGdWV0REV6WmNQT3VQYTc4dE5aeDRmb0tzNUlKeVF2OGhmcDRrYTh3eWU4aUVQUVNDaFAxQzE2Yzk5bG92emo4VWJLa3dqUVhZR1YtMXNtZDNwZWN1RTFDdGtGNm9tTWtqckNoVi1wYkYyU2RUS2FRT19IQ3VGc3c2TnJYUkUwaW5qUU16eXFZaVJLRUNIM2NyRnM0d25QOG9nRUdPMzhoanpCNklMNjFyWlUtajNRQXBfb1RuVUNn?oc=5",
-     "resumen": "La inteligencia artificial acelera la evaluación de la apnea del sueño con registros de 10 minutos Salud35",
-     "fecha": "2026-11-25T21:30:01+00:00",
-     "medio": "Salud35"
+     "titulo": "John Deere compra tecnología de Inteligencia Artificial para analizar los cultivos planta por planta",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGozbGlQRi1CQldoOUxFeVRtcDhyUnNLb1U3T1dVUTRnbUJOa21IY2Z1d2dqQ095aUw2UFllbmlKZTVfOUlGOUJuRVhxRXJzVktoRUp2a0pxSlVJV0VyS3Q5cFJZNVU1TDZiQmEzem96SWlMaHljY01ZS200ZnlJTkpHcjM5ZVJVbE9JZncycW1MTHRBa0pVdzduNllhU2VMWUJZLUZoY1Q4Q2hyRmJNSGtMeGVsVGxzblJrXzUxUEFiN0ptT3o2UUpB?oc=5",
+     "resumen": "John Deere compra tecnología de Inteligencia Artificial para analizar los cultivos planta por planta Maquinac",
+     "fecha": "2026-11-26T01:40:35+00:00",
+     "medio": "Maquinac"
     },
     {
-     "titulo": "Globant anuncia el lanzamiento de Glob.AI, su plataforma de servicios nativos de inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3dXbkhLVVdDYzB3ZDcySkdTSVZkVTRqR3kzSENHM2FNMmRYMTVsNVVlRmdwTE5jSjhnSWdnREZ2dzd6YS0xZm8tRmFDS3BIenl2WkhOSzliVkxqSHJlZjVNcXU1Y2VlMTBHTjFoMHNyQjU4bTlsVFZEdlkxRF9rNWd1aVhKTmJvLVprM0llQVVMUFZBVDFLeHpoZXpNRzE3WE0zeE1WamtMR1kyTlZLYVpOdEthWFVIRmcxbnFQbjFvWDRQN040azF3aWo1dExIZzEyMUliOXRYWWlsZGN2R0dQeWZMZUs3QlRV?oc=5",
-     "resumen": "Globant anuncia el lanzamiento de Glob.AI, su plataforma de servicios nativos de inteligencia artificial MarketScreener España",
-     "fecha": "2026-11-25T21:21:58+00:00",
-     "medio": "MarketScreener España"
+     "titulo": "Rosatti advirtió sobre la inteligencia artificial: “De un Dios con prótesis a una prótesis sin Dios”",
+     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQW5fRmRCSXlYcC1BaW5zU1AzSUExRFFraDBocmg2WFNFOHpxN3laWGhFeW1ud0phWElFdkFPRmN3a0dHNkJTVlptaVZwQ1BCdnZGUmlpaS1GZVNseUVrV190UW9KYXhpeTBnQS1DRjRsV2JZZGo4a0xhN09SbzViRnloYmNkUDZlVFh4TGU5TkZzc01lejhXTWdfVjBXWGdMUEhKWFpIWVVhVWR2amlkNGNBR3JBOWs5SGZGZl9zS2ZXUUxGY2E5RHJuTkxndXZmSWNFWnFxZ0M3Nko1WmhqSQ?oc=5",
+     "resumen": "Rosatti advirtió sobre la inteligencia artificial: “De un Dios con prótesis a una prótesis sin Dios” La Nación",
+     "fecha": "2026-11-26T01:14:00+00:00",
+     "medio": "La Nación"
     },
     {
-     "titulo": "Nueva York veta por 5 años los juguetes con inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFFKakMyLWVkNDlPTVo5QmlPZHN1R1VuaFhXMG1VbUNFTE9sckVUaWRHS1Y1WFRndFBMQnlIN2NfVmtGa2xFQmNZT2E2bkE1dTAwb1MtWkpfc1g3bDloSFNkOWdqZXRxNXlzZE9faGpFT2gtQjNkTGZHejBpNEYwdWl4V281cFFwRjhR?oc=5",
-     "resumen": "Nueva York veta por 5 años los juguetes con inteligencia artificial ATV.pe",
-     "fecha": "2026-11-25T21:18:06+00:00",
-     "medio": "ATV.pe"
+     "titulo": "¿Por qué no todo debería valer en la batalla geopolítica por la IA?",
+     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTBOTDFoY2FmUHF4cDZMaTVfQ05NTDAtcEJfbzJrS2pDVVlkSTN0aUU0dU9oOXVkQ0xfTkVKTVd3ZDd3bDVFSERpVjBQMUY3M2k0Q0RIVmxJTnVBUGVEVHEyQWEwWG9FYVhMalEtVmc4aXpuU1VNVENCMUhxUW9udWRCYWJIZ0FvUF9mZEMwMTNCTWZKRGlXaF9TYmJoWTYw0gGmAUFVX3lxTFBpSGZ1dkNhOERYLUtGM1FXbktmS0FBWlZabkZsd1FWWWJ4eFNfMlJ1S1l3RWhxNW9wbWVTQ2Q2QWVhTVNSd3U3cWFJMUNiLUhKMU80ZDFIVmt4cmREWURyWWI0NFhRSkF6R3h5NkZkaE1PT1lObUJQeGl4QlgtQThmVE1EWmFWcHFuNXlMWjhQbi10MExmRkxWX1I2M0tvZy1CMzBVeUE?oc=5",
+     "resumen": "¿Por qué no todo debería valer en la batalla geopolítica por la IA? ABC",
+     "fecha": "2026-11-26T01:11:32+00:00",
+     "medio": "ABC"
     },
     {
-     "titulo": "Del trámite a la confianza: el verdadero reto de la IA en el Estado",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HOW1oODJoU3FrSmxuX1VkbVo0WEhoc1hJRFBVcEVqZDBtOVFNWHFqU3phYmQtVHhiQ3pBbWQ0M1RMcTFuTTlfdHZUcWxSWU83VFZVMWJ4WGJPRUtWQUlHems5Q3AyOTA?oc=5",
-     "resumen": "Del trámite a la confianza: el verdadero reto de la IA en el Estado Forbes Colombia",
-     "fecha": "2026-11-25T21:16:59+00:00",
-     "medio": "Forbes Colombia"
+     "titulo": "¿Puede la inteligencia artificial tener derecho a derechos?",
+     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHhXbS1VYlBhX0NXS18tWW9XNGNYQ2gtbDRmMElRNUpnbDgyaDZhZGt6TUh4bXJDREdhZ2JlVXl3cmJIRGJLRTRSQXdEMWtsYkZHUzBDY1RGNm1ZZGpZQ0VMcklDVFdjVnotRE1yaFRhdGYzbXFPZFpXcEFoS015dU9oRTkwcTBTUWZNbXZPWmk?oc=5",
+     "resumen": "¿Puede la inteligencia artificial tener derecho a derechos? El Nuevo Diario",
+     "fecha": "2026-11-26T00:59:04+00:00",
+     "medio": "El Nuevo Diario"
     },
     {
-     "titulo": "Jorge Soto Yen: Minería peruana requiere profesionales preparados en inteligencia artificial, automatización y transformación digital",
-     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcHRJT1RpUUNfeDdiT2xlUWpXSWpZdHBwbktIYS13Q1pDWVR3SjN3a0hGdlhWNFJqa2oxeUVWQ0pBOHJUZ05uMHIxZ3RtcVphSjliWGNxYnZVZlRFN0xyaEhqVzJ0MF9wOG1ialdzZC1BamJRX09LamxtcHRpdGFrbUhDVGVkSmNEUzJOUXJkbW9lUzZ5MnBUUEpQNnlaVG9PMG9pekVMRVFQOTRzT2xSa2dlQXFNdlhaWEN2VDlwandOa0NXcGUtaFdqTldkNjJPX0E1WkNwRGZGWHN0eXkyQ3J6TllwRXVJMzZBTm9WTXJ4bnFwUUp6VGtGSQ?oc=5",
-     "resumen": "Jorge Soto Yen: Minería peruana requiere profesionales preparados en inteligencia artificial, automatización y transformación digital Energiminas",
-     "fecha": "2026-11-25T20:50:49+00:00",
-     "medio": "Energiminas"
+     "titulo": "Cinco tendencias que llevarán la inteligencia artificial (IA) del piloto a la operación en el 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmlWRjhYUjc4aDg4OGFGRy1xaTdpOVk1RVFUZjdja0VFZ3ZsZm9HWlJFVHhwbGlfRmtwUTJKNW9BOWNvcGVIRDV4RFdabzBVRmMySDUxVWdITWxkTEJXcWpVTW9HSG8zT1ZpVTdFYkZkSDZ3d2Q2aHdyUkIySVBJWUpLcUREaFFOVFg2cGM5X29YdVctempBQzd6TnZoTFhGRUZHMFB5WEcxeXNwbnlqcEVwbFhkb0VuX2FVOUNCazdvM2N1cWpuVjA5VHBQdkNVRHc?oc=5",
+     "resumen": "Cinco tendencias que llevarán la inteligencia artificial (IA) del piloto a la operación en el 2027 Business Empresarial",
+     "fecha": "2026-11-26T00:51:20+00:00",
+     "medio": "Business Empresarial"
     },
     {
-     "titulo": "Últimos días para acceder a las becas gratuitas de Inteligencia Artificial para mayores de 70 años",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXo4SXItc3FzRmpISUpDLVY2cmN2X0NUVml6ZzNEVEUtS1hzMjFiOXNoQTdqc1JFbGhMaUNCcWRWcGRtUHdkWVNtRjQ0UWtjS25OMWhSTW5BT1NucndVbkFzaXh4d2cyUHVFZmdnMktnMVVReHRKVkZFLWpLcGp4RXdZYXEyR0JvVllDdG9ZcXBkSGtJRGMxcWJ4cWdUdmw5OW9vSEN0d2NzWjZnNVdNdFdJZE84OXNnWlJkRE95VlhHRW5DSy1WWktqYU1yTUpQRzROVlBIZDdVMjBtUVVBck9TTXBXSjVDVXRNWVJ0alVodw?oc=5",
-     "resumen": "Últimos días para acceder a las becas gratuitas de Inteligencia Artificial para mayores de 70 años Entel",
-     "fecha": "2026-11-25T20:48:37+00:00",
-     "medio": "Entel"
+     "titulo": "El proyecto BIOMIND monitoriza la salud mental mediante biosensores e inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSU85Q2F3ZjRlVmM4QTZINTBrYmt4OFpZdEhiWUFPRjNrRGdPa3h0ZS1kbkpOZ2ppVkJJajBYQjZnQk1KNUVUcllLWXVPdDU4UXo5NndGWFA2Rmk4dTVDOGVjZ3VXVXBtWTRuRFlTS0s2dmQxQ3FwVWg5RndqS1BHX29zNkxTdWNVRm9ZRG1Zdno0OHlCSnQ0cFdOb2VJaG8zZ01Hb28xZHJ2ZTlrWFhZa1lDQjN4Z2dHb0Y3SjJ5ZVd1UQ?oc=5",
+     "resumen": "El proyecto BIOMIND monitoriza la salud mental mediante biosensores e inteligencia artificial Geriatricarea",
+     "fecha": "2026-11-26T00:39:38+00:00",
+     "medio": "Geriatricarea"
     },
     {
-     "titulo": "Estados Unidos prohíbe los juguetes con inteligencia artificial que hablan con los chicos: qué pasa en la Argentina",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS2RQcXhIUnM5OUlzanpGbE1sUE42YzY0ODBnOUdwT1pLeWxvd3BuQTE5c0NyMTNhWmc3YnFTV0t0ems4UFdCME8xSnFEa1luMG44N18waUVyZ0g4RC11MWZ0LWlwM01aT2huWFlWdmo3QXdPaTkzTUhUeTJNc3QxQ20xRnFpU24xSXBOZU1JMC1PTFRTVFc0UGFQSm1qd2hnb1FjczRsWGx3MFJyc2dCenNHVHh6d1dNamV3V3lNRXU1MnhTWDJjNTFGNUF5bG5GV3pUZl9CRE9UTV9wUmdMNkYtNjFyZnRaOVB0dVBuWjR3Z9IBhgJBVV95cUxPTnFGc2E0VlZBaW16N2lINmJpZFRMWlZYckNLUzVRN1dBaUlqQkphQlN5WEdGa1NlYkRpRlI0S0tPZlU3czZKbWp4Yi16OEpRWC03WEVJblhyaXBmX0JJTm9aSkpQbnI4TTBZOE9TNkhPTEtIS3ZQQzFGQVNXTUdpWmhsS2tqd3FEcjFLT1JhZzVZdnM4S295YkRlckRobkZjengyc1VKUm45M2pKcmt4Nmk0S3FLODFyWDAwT0trUEpBUzNRMEJoUmxZY3BvY1hBeHJNd2poYk81TUJrTy0wYzlHT3hyeW5hUzhoeTJBelYxUHJ1S2o1NU1FdDR1MC12c2tNTWR3?oc=5",
-     "resumen": "Estados Unidos prohíbe los juguetes con inteligencia artificial que hablan con los chicos: qué pasa en la Argentina TN",
-     "fecha": "2026-11-25T20:43:17+00:00",
-     "medio": "TN"
+     "titulo": "La inteligencia artificial se cuela en el Black Friday",
+     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW50RzdKYTVPRm1Bc1FqZjlacWh0OU82WjJ2eVRCZG1nVjQ3RVQyaUVMMGJOMklqX3pJRnRKT3AtaTBBTjYzQWJBNHdjckxDSzRrWmZJdXoxbXUtaXByQmI5WDBnQmxSWGtsMmxmdzNUV3IyQjFpVXRPQ1ZvdFVPZWZaN0ZXVk11NjdIQVk5Rm9KdkVaMnJnNVFWONIBmwFBVV95cUxQalpVM1N1Y3d4Rm1yNjQ4Yll6UUVBbHVPLVdZcERzODQxVk94T1Q0NGRQMkQwWk1TMWg0RGNFcThQYWlPci1rV045OWRsQkdsZE8zbmhVOFJvaU9FZkE4RXVCejBxdlZodEs2SmlEM1JsQ3RJMHlpSTZYMjlJOEwzR2lwTTVhTS1IQlBLZ0xZeDNwdjRjc250VlhXWQ?oc=5",
+     "resumen": "La inteligencia artificial se cuela en el Black Friday Expansión",
+     "fecha": "2026-11-26T00:35:32+00:00",
+     "medio": "Expansión"
     },
     {
-     "titulo": "Disney utiliza inteligencia artificial en sus plataformas y producciones",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXJsNEx6OTc5U0Qtem5ybEF1VGwyRW9yOTZ6dmhNTk5aVklCbkwyTWtJVlNUc1VUektnV2pwUER4Z25QTVROTWctN3BsR2JJUld1ek0wdzZiMVZaY3dyWmRSMXExZmpEYllvUTNEMjNUTzlTY09iRXN3eWNGaEctXzBvbHJxMzRoZHZ0bjc4REdyOXk2dzNsN0E2NFA5VVhpdTJZU2YtSFVJRkQyYUEzbE1xdGdVRTQ5dmI0LVN2Z2xzVXUwWmfSAcsBQVVfeXFMT29EWGJjN2wtMmljZTRBSWZXSUR5S2dHdVBMdHRpZkJWUDhRdkQ3dlZzWHFtVl9ZU1JwMUp1M2NlUTF5WnpjeWlWblRpY2s5NWo5NDBxb2FTTDFxbTFGdkRBXzhGaDJGR3A1XzBIQUNtV0J5a3VjZ0JmQUVXaFZtYkZ4U1ZvaGt5dFVwU3NPR2F1NkR0dFhqdTB5bVozNlpyT0ZmdlAxWXlRUFJDVW54dUU2dkg2ZHZQcU1GanRoVFpoZjBacFdCcWpPaWM?oc=5",
-     "resumen": "Disney utiliza inteligencia artificial en sus plataformas y producciones MUNDIARIO",
-     "fecha": "2026-11-25T20:42:44+00:00",
-     "medio": "MUNDIARIO"
+     "titulo": "La inteligencia artificial abre nuevas vías para la exploración oceánica.",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03UDdzQkMyS1JwREluU2xBaVNQT0EwT0d0YXJyY2RDUFg2a3RfQVJjWUVCOFBwd3hVcW1oaE1XN2FvME1JWXlxZ0xoU25kd1pkeTZrRXVENWpCT0RrRmh6cUJGenNqMlk?oc=5",
+     "resumen": "La inteligencia artificial abre nuevas vías para la exploración oceánica. Vietnam.vn",
+     "fecha": "2026-11-26T00:26:18+00:00",
+     "medio": "Vietnam.vn"
     },
     {
-     "titulo": "MAD TALKS 2026, el evento de IA y marketing de la UPC",
-     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjVZWE1Ed3NwdDQyaDFTbVNaeTluNHdoXy10VXV5X3FSTjFkVTZyXzlidVNuekVYU1lFeHJMMGFDcHhRZjNtajVIWTVhb0tyamtOT1VZT3NwZ0VjOFVHTURCTHAza3NKZ3RtMlc1VDlyYnNTQWdiOUtQcXNLS3hmZ1FSLWVfQ1BTLXRR?oc=5",
-     "resumen": "MAD TALKS 2026, el evento de IA y marketing de la UPC El Ecosistema Startup",
-     "fecha": "2026-11-25T20:36:30+00:00",
+     "titulo": "Woocar integra WhatsApp, inteligencia artificial y telemetría para la gestión de flotas",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2V3WkpSRTRwZjJSRlhYSXNZU2ZFcDVpT3NNS19zTWdyaXQtc3NqcU10bGNQa2N0ZjFJTkRHaWZCQWJ1UjY0cDk3TkNKQUF6RUlOdFp3WG9ham16cDNRU2F0ZlVPWGlYbUlGNWN2R1JZRC1ZU2VmdjhvQVVqN2hWOEpzUzB1bHBBOW5JX1luU1VTd1dqN0NKNnV3SHY3RDE2UVZuSEQxQzExQUhvSHpj?oc=5",
+     "resumen": "Woocar integra WhatsApp, inteligencia artificial y telemetría para la gestión de flotas Webpicking",
+     "fecha": "2026-11-26T00:15:48+00:00",
+     "medio": "Webpicking"
+    },
+    {
+     "titulo": "Volver a la esencia en la era de la IA",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXVCMWxBZ3B5X3M5Y3Y2WWUzVHFjamdoWlhUR19VTjJwSjE0bkRHRlVXZF9VYWVtU1p0ek4yWUdyOE1Rcl92SDFvWWV2MUh0d095RURuaEQtTmVCZ1RBTWdVZkhjMmlSVUVNbGRlOEk1Rmt4b1RqN0poR01JbFAtcHdiZ3hNWGpJaHNCOHd3?oc=5",
+     "resumen": "Volver a la esencia en la era de la IA Microsoft Source",
+     "fecha": "2026-11-26T00:06:52+00:00",
+     "medio": "Microsoft Source"
+    },
+    {
+     "titulo": "NTT DATA: la IA tomará 6 de cada 10 decisiones en 2028",
+     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2xyOU5aQVRfNml4bXd0eldPYjVUMlV3ZmVFQ0NVdnZIbU83TEs1Qy1CeEtiWHRWZjM1enpBTXhvejJDb0VZZkNZUUR1TUFWaFhMYk1WVjBqckt1bmU5WG95bUFELVRrak9IbXBfLWVyTzlwbGNvNHhCa3BKd1JYZEZpc2pDYkdJU2JRbA?oc=5",
+     "resumen": "NTT DATA: la IA tomará 6 de cada 10 decisiones en 2028 El Ecosistema Startup",
+     "fecha": "2026-11-26T00:06:38+00:00",
      "medio": "El Ecosistema Startup"
     },
     {
-     "titulo": "La inteligencia artificial necesita una conciencia ética a su altura",
-     "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWxOdndSaENqZThBeDJhTUx2NzNSRldUVl9FMzFnaW43UW1KSlVRcnFkbnJSOHZsVmJ1N3Y3TXhEWi1iazlrczdBd1h4Q01xTlBFN1pGbTZtTEc3cHFoOTViUVEwNDZvNXBnZXgwbnhtT0lMaDAxdXV2SUM4Si1PbjY4TDdMWkhRdzVfTjR2TUg0cS1FR0xRTQ?oc=5",
-     "resumen": "La inteligencia artificial necesita una conciencia ética a su altura Economis",
-     "fecha": "2026-11-25T20:30:11+00:00",
-     "medio": "Economis"
+     "titulo": "Cómo usar la inteligencia artificial para cocinar y crear recetas",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2JvQlJXRnJ3ZHV1LVJRWjRMdzNHZEswQmtaT1hlYkRHTjZOZnd2akhPU1pfNTRRUzZZMmlrU3B1SVlFLUprY1ZQb0JnZE9kT0p1TjM5YXRYQlRXcHcwdEVPOUc3Wno4WUhOVVBJTFhLR2R0REwwNURKZS1Wa0Y2Zy1n?oc=5",
+     "resumen": "Cómo usar la inteligencia artificial para cocinar y crear recetas Gourmet de México",
+     "fecha": "2026-11-26T00:04:14+00:00",
+     "medio": "Gourmet de México"
     },
     {
-     "titulo": "Tether invierte u$s 14,5 millones en Lemon: de Bitcoin a los pesos y la apuesta por la inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN0hHT1pNbnVZbmJnZEhFLXp6b1JNdDJ0eFNnYVJ2MGVBRWd3TFhJc3RNOTI1UncxQkRVNjExWVRKQXlLSWczbzNkcFppUDR6SkRaOHhWNXkySzkxWkdHTnp4emtQYXlLTzF3Wm9UblFIRE5aeW5adzYzSTJadFdMdnJEOUFucnc4SjZtNEtvMzJPUmJybDF5RFV1aTZKUkJZbEJETlBBNlJHMEJnR3E2TzFDNC1yNnE3aC1SZGY0dDYxODQydHRHVVoyS1hWLWlnVDNpendQd3o3VWd3dDBYNFBxb1k0QQ?oc=5",
-     "resumen": "Tether invierte u$s 14,5 millones en Lemon: de Bitcoin a los pesos y la apuesta por la inteligencia artificial El Cronista",
-     "fecha": "2026-11-25T20:30:03+00:00",
-     "medio": "El Cronista"
+     "titulo": "ONU alerta sobre impacto de la Inteligencia Artificial en paz mundial",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2dzb1NsdkRSOFJsMURpc1drbEFYanRxR2VIQ29oRHc3cWNBVUhKQ3NxUnlpRV9BdHpPS3pfRzNYRER1RkZhZW9IVmYtWDJzaWlSbWxCdUNLSWVUaDVLTGwwNkFuYmEwS3h2OWdQbXUwbWpTTTRFWWplcGdnX3JVVHp0VGFkLUJjdDFDS2pLWVBiX2ZUNWFBSEFwV3FKaGdnU3dGRkNB?oc=5",
+     "resumen": "ONU alerta sobre impacto de la Inteligencia Artificial en paz mundial La Radio del Sur",
+     "fecha": "2026-11-25T23:56:02+00:00",
+     "medio": "La Radio del Sur"
     },
     {
-     "titulo": "Del turismo a las finanzas: cómo las empresas utilizan la inteligencia artificial para crecer",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUmFfTzBmQVhMZVZtZXpHTDJBUjdBaDZJRmIyQmRfdnRxN1VMcjc2d0hoNzlQN3ZSZ2lnZUhVZ3ZxT2IwNE9ucV9Oa0xTMV9ybGNxUHFoNFRFLWp4SkFFc0pKaXhPRWk0VDl0ZVhSdDNQaDdGRzlleDF1ZmY0THd3NW5BRFBjU2NydGtTYk5FTDBSY1VrNXdoYkRKMnVJdEtBaWtMa2VtNmtXY1VwbkxPQ3pJQWY4RlBlTjNMYUU3RG5EZHVwVzdnbmMwMHBOZ0hoaDM3T3ZuUTF1Wm55cjFpV05Bb2F0QQ?oc=5",
-     "resumen": "Del turismo a las finanzas: cómo las empresas utilizan la inteligencia artificial para crecer La Nación",
-     "fecha": "2026-11-25T20:30:00+00:00",
-     "medio": "La Nación"
+     "titulo": "La edición universitaria iberoamericana debate en la FIL Guadalajara el futuro de la ciencia, la inteligencia artificial y el multilingüismo",
+     "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXdPZ0RON2tTTjREQVhHMjNveXhkUFFEZ05TYk5zRTU5QkY4SzVybnM4WFdHTUhpcUVoVTdUZG9xSVJHcU96WmJMSGhGc2tPQm1IazdsZFBNTmFLQWhuOUdvREJ2NlRTNklLcnR4OEF5NGhlSFU0MG5ENERQOGttWEhfTWFuYUcwUEhOMXc0UHNHaGdaWi0tRzlNVWthVGZkUkt5bVI4RElRZW5iS1g3LUQycWZiNkUyVG1vam5GWmlRU0xuMDZmQklmem12ei1HWng3cktDMlByZzdXb2J2SWdJclFaZ0x2SEJ5RWpPWFllN2F3bXc?oc=5",
+     "resumen": "La edición universitaria iberoamericana debate en la FIL Guadalajara el futuro de la ciencia, la inteligencia artificial y el multilingüismo Publishnews",
+     "fecha": "2026-11-25T23:53:38+00:00",
+     "medio": "Publishnews"
     },
     {
-     "titulo": "La plataforma Tidal prohibirá la música generada completamente por inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbl91UmFXbTB0dEhnUnRnWHNJWUVjQ1Y1WjNxRmkxX3g5cjRlblF0RlNyekFCUFJ1R2x2XzVEQjhBbzhucVZ1QWlqZzJGUU9sZ1NIWFlTMnRBVTZ0bm9Na2c1WUlVUWhiSmU3cU5iRnRwa0JyQ2NxOUlTam1YMGpaaU0wS1UySmU3eFVWdnBBbUtJR3otR1hxd0RObWVDbm1kOFkybEFTZVhtTW1melIzT0F4R3NLR1FmdEdPU3ZFd3pVbTQxSTJpNFZ5cjN5enlFa3RucXBvVVYydw?oc=5",
-     "resumen": "La plataforma Tidal prohibirá la música generada completamente por inteligencia artificial RPP Noticias",
-     "fecha": "2026-11-25T20:20:43+00:00",
-     "medio": "RPP Noticias"
+     "titulo": "Educar en tiempos de clics rápidos: cómo guiar a los hijos con la inteligencia artificial sin apagar su curiosidad",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcFcwYUE4NGxmejNpM0R4YkR3UzNBV21xWERicUZzMV90M2wzTktBTlBsV0E3WFBjVW5oZy04SWd1WkJjV1lwYy1wc1duRnNtMF9KTlZPdXhvWUNpQ0VPNzd5a0ctcXg5R3lNRzdjb0RUdHlGTU40QmhOT21HWERFYy1NSHVHYjYzcjZyaTNPLWtHcUZSMzZhdFF0azdBcnhQZHhwZU5nd2dRX2UzRFJkVXBJMUwyY2lxMTN3MU9fR3pQaFZMNngxeFk0ZGN0SFkycTIxTEtBb0VURUJWczhGZnhOSnZaU0diOEZDdWlSLTFUWXo5RFZRN9IB_gFBVV95cUxQRnlEM3BVdF9DVjlnbXpSMUg1NlRqREl1bC1lYlh3RTRfdUkwQm9PN0dHbG53X3dLYjNvQ0lCa3JjWHFyVEJkYXB1R3VmMnlVMW5ETE9udzd1N0pQYS04WmFOYmhfc1NSNWdFbWRXc3ZoaUNDdHhiUFNzdEJlSUFCMHJ6TzJhcUJWWXNyR19Oc0pqNVdDS1k2ZUhEVWJYMTNFcTJZWXBOeUV3YTU3NFVRYm9WYzJFWVJZVlpVVUtuZ3JiWVltMGNDS2ZHWk1sUjlUaWU4dmI3NWJDS3M3bFdYTnlvYWh1ZGxsVVBuTGZoaDAzREpEYUVtQzV3Rkx6QQ?oc=5",
+     "resumen": "Educar en tiempos de clics rápidos: cómo guiar a los hijos con la inteligencia artificial sin apagar su curiosidad El País",
+     "fecha": "2026-11-25T23:50:11+00:00",
+     "medio": "El País"
     },
     {
-     "titulo": "Servidores de IA por $270 millones respaldan créditos en China",
-     "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41RlgzckJna1hPbEdVc0dVYmx5LURWbmJaY1k2bHh5enJNNjVOSFNxMnBFeHlLeDZQUFExVDhJNHNRdnZGeHRCeW52cWd6ZWxJZ1VqZm9WRFFoSlozanhwU2Y2TjBtWDl0M1RtX1pWNU9EZlJnU3FjRHJRRQ?oc=5",
-     "resumen": "Servidores de IA por $270 millones respaldan créditos en China Inspenet",
-     "fecha": "2026-11-25T20:19:49+00:00",
-     "medio": "Inspenet"
+     "titulo": "Programa Mujeres en Cercanía impulsa uso de IA en emprendedoras",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTR1bEdnRS1HcFFHMU9ta1QwYnE5aXFCYk0tNjl2NHo5UEJNRXRGM2NDZTdhWWdGNUJvMjRLS2xNYTRWUVBOREZ0SzJDSnRrNkYyd1JuT0w5QzQtX211UTNaZ1hyYTU2U2tmaWxMQUtiZ3JqVkpaeURXYm5hbUtwdW0yd0Z0dHhuTWs4ZWhTdjRzdHcyX0h1LVFiMFFEN193Xy1TbUhQc25JM3BV0gGsAUFVX3lxTE9sOUNOa1R5cC1WZGctenNoZnVLMUxocm5hN3NZVV84TnJOUzNMQVZHaFZjZWF0Z1BJUnB2bmhkNDUwazFndHI2SjBnVG1EVVBOVXNqVTNvM2xEREQ0YkxwWDBGa092QWdGZjdMZF9WcXJjLVMwYWxveG9XbU9XRTVxNTZfdncwYlpGQ0NNck5aVWhfbmZkeGlDbU5VbUxwVkJWZjl2TVdwV1AxaE4?oc=5",
+     "resumen": "Programa Mujeres en Cercanía impulsa uso de IA en emprendedoras Milenio",
+     "fecha": "2026-11-25T23:46:02+00:00",
+     "medio": "Milenio"
     },
     {
-     "titulo": "26 de noviembre. Seminario: “Inteligencia Artificial tras bambalinas: herramientas formales y otras más”. UNAM",
-     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdnNLTE9JaU1qQ0lRWlBaRHh0b01FWnozZkRCYWVuQkxsZUF1ZlNHbndxMEtGV29pUjE3b0c5aDl0aTV1X3JDWlF2NXJWRnZkWVRMRzJnUmNiUnozUXpVQUsxS1ZUc1lUZC12bVpuR2dXemtPVjRWU2Nqc09ueDZ1QTM1eFNWWXo0SlBzMjJJWnZXUGpaM3RYSHo0N0p4X2Rta1QxX0l5S25kaGdVc2MzVkg5QXFPVTZrbm1Ba1M3Vlg4SzZodWlNdUZ4U2NiU3pYcFd6cEZxMA?oc=5",
-     "resumen": "26 de noviembre. Seminario: “Inteligencia Artificial tras bambalinas: herramientas formales y otras más”. UNAM Insurgencia Magisterial",
-     "fecha": "2026-11-25T20:19:03+00:00",
-     "medio": "Insurgencia Magisterial"
+     "titulo": "La inteligencia artificial avanza más rápido que su control: ¿están preparadas las direcciones de las empresas?",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON1RNZ0d1bFhRWldla28yUWlzVnI0T0R2Z192cG1ENTlQaGpYVUZwcEVUNjJnemZ6eHh0dkgxUlR2OXBtUjdtNUpxSnBvdHJHeXdESVlGU2NxRnNzOUhfdEhpYXdmSDhyU2RFclkyM1Rqd0hNb1hUeUFrWjM5UnlmbC1rdG4xQm01WlU0OXNON2dMemhpVVl3NW54cHoxZEpQak5rTUZ4bXVlWHhlZW1KUXJncjlpdU9zX3JzS2NSbDc5Z1pCUjZDTFNXQmlHMXU4U1AxX21YeTlHT0JScjF1bGJhblpnRUNFM2ttUTU0ZEJRdw?oc=5",
+     "resumen": "La inteligencia artificial avanza más rápido que su control: ¿están preparadas las direcciones de las empresas? Prevención Integral",
+     "fecha": "2026-11-25T23:43:28+00:00",
+     "medio": "Prevención Integral"
     },
     {
-     "titulo": "Más allá de la inteligencia artificial: las habilidades que ganan protagonismo en el mundo laboral",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVlAxVHhkX25kelNyVlBiRXFiYlNGWURIS3B0RkF6dzhQMy04X2xwejBlM2tLeWxZX0pYWUR0WEljc3FsQ2dKWm5GelRyWk1HWkJKLWFiZEZnWmZCNk5NR244ckZDM0VMdDkteElxNEZIZF9HaXNEWk45d1dNV2F1WUtpVnMwWFlzQzNSdEVxd0N4ZHI1S2ZBTnpnQ25ackF0QWh5aENIUWJnX0dvellmdTZDNTM0UWNuWlJ0NTI5bG9pVHdaZG9faUhQYjN5THRiTURHM2lIazBUZE9yXzJqLXZ6emlBS25VckFwUw?oc=5",
-     "resumen": "Más allá de la inteligencia artificial: las habilidades que ganan protagonismo en el mundo laboral La Nación",
-     "fecha": "2026-11-25T20:08:00+00:00",
-     "medio": "La Nación"
+     "titulo": "Inteligencia artificial transforma el diseño arquitectónico y la construcción",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3ZZR0liX2prczZ3SHdlbG5yM0ZoeC1Qc0VGNmxyTlhpWXNQd3ZFeUgwNDg3WFBUV0I0akFZSWtaSWlhb3FZZlFPdFYzQ1U1Z0N2Y2NHb2p0WUw2dVpjWFV4LUtGNWhZbG9UZFEwaWo4UE5HODlrb3o2bTZIRk9fX2dQVmR0Yk5Qa1pqbGlVSTdiZXFaS0VQODNJMm5SU291ZXdZeGxqdVl5OFdaN1NxM2lOM2RVdw?oc=5",
+     "resumen": "Inteligencia artificial transforma el diseño arquitectónico y la construcción Grupo en Concreto",
+     "fecha": "2026-11-25T23:17:20+00:00",
+     "medio": "Grupo en Concreto"
     },
     {
-     "titulo": "“Ay, no, profe”: la incomodidad de pensar en crudo en tiempos de inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUk9Qejg4LWZBLXRfMnpDbS1oZmRuRFFYRVNLOHBDU3ludDVjTHZmakxmem4tOEJPZEp1WHpNX1ZVZ3BXOVVQRVQtdWN0eWhLM1V3MHg1bUtnWjBZTVdoNTRYcWMtdDFsejh2TDlGSktNWWZENy1wR29Kc1NtclhueUZwYWtBVExuY3ZyNWN1ZEJjLU1wejdSby0xTjA0T1F2Ync3ZzFtVFN4N2FKbHIzTnloZlVfQkhkVmxYeEFQdGZhTEFHQXpGZ2h0RUZmd9IB3gFBVV95cUxPQzNBQnBNM296Y3ItQXg1SEtRMl9vSmZINU9Ma0dxTkd1N0FXQ3NITUxKV1JtblJvbjg2eExwdXc1WGYtR0FKS2lUYTMyaTdxU2JPMm14eFZJaGpUVW8xQjk4cUxKcFBidzhSLVZKeHNnMXRZdnBjSktFRWttUnBvVU5zUXQtUEdsdDVNaWlOdEdlcXlNN0NneG1Fai0xM1Q2bXJJWDhaMGZTMGJGYjllM243TlFKTTdQRmpnaWh3UzRaZF9FbnI0a01Ec29sZG5BUWRqb1RHOEo0WHZQbWc?oc=5",
-     "resumen": "“Ay, no, profe”: la incomodidad de pensar en crudo en tiempos de inteligencia artificial la diaria",
-     "fecha": "2026-11-25T20:07:27+00:00",
+     "titulo": "Nueva York prohibió los juguetes con inteligencia artificial que hablan con los niños",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVJ6SU5ieV8xZlZob0FIWGFZMnh1Q3RhZVNaZS0yQ3V0TGE2bFp4a2RGbHd3RnNXdHduZ2NHaFdwSkY3RjBpSWd1TDF5WG16MHYzMmlrU3ExYUF6eFEwTlF2SGJsOHdpa3Q1LXptWmhfN2lSTUs5VkZQUks3ZkFXSmJZemNCZ2VfU0JoejlJZlFJWTR0Q2JXbzhWWS1na295U2xFbHdpejVhWmt1TEZpd1ljaldnVGx3bkt2OEFON2ZFdEJkSUHSAcsBQVVfeXFMTS1pSXAxaV9tQ3N6RjRJNlpjM00yemx3LUdINmY3dEliZ3FuaUx2WU9EWmpHLURHLWdqODE4dG9TNGdiLVh1dFdYOUs0NFdTUU9sMVNLTThIbzVzaGI5dWdRYTF2OTZhQzlONVBVREg0ZnR4RHRJZENpQkFTQWtvMDNhUEdqVDVJYk9saFJLOGdmcFUwcWpjemhaREllUEhYYW84VnRqRWl6UHZmaGFEVEdxdExldHd5OWVmTDc4X2xKR1NSN2swYzBtVW8?oc=5",
+     "resumen": "Nueva York prohibió los juguetes con inteligencia artificial que hablan con los niños Nexofin",
+     "fecha": "2026-11-25T23:14:09+00:00",
+     "medio": "Nexofin"
+    },
+    {
+     "titulo": "Elecciones en España: inteligencia artificial y denuncias de fraude marcan la desinformación en la campaña electoral",
+     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObmVIQ3d0REUxLWxTOWY0YVRDS3dtMGtXNS1hZ3MyNEkxOTZFbGZBZUI4MmljNllhQjlaR2NQR0ZNNG82Um1FOGlnRWFMczJwU092TXRxdXZaakhMaUZhV0t5X05aRzQ3bXJJamZaMnYwa2VLVUYtZjFEd3VmZDMxRmNRQzlIWW5haUx0WHZNNUFXOHBOZ0pxMjRaU0lUcjZJN1lVVmJBY0pGcUNadWFJVUtQajZJLTY0WUpwUHhUVXVVbG43N1Qtelh6Q1F3MDZ5QUd0SDdUR2Zza21qdGYtUlJRb05ZV3ptZTFqbDZMbFctamdRZndCOE1R0gGKAkFVX3lxTE9sVGNia1drT3dlWWVsOW5HM2hzTjBhWExXX3hHWUZ2REo4NmlGdU81ME9iSWpYbEVtenBhcHdPTG5Cb2hwY3RvNWc5WERzSjl2WDVZN2lxMjRDX3R4RXFDT09la3IxRHF3Q1JHaktlaWU5eEl5dkNCUk5Fc2VLZWpCVDJXcW11ZzNhOF9hYi0xWjJFWWg4OExLR0g3RzJ2Rm16WkdReWZtUDdZdlMxZjhiaTh4V3ZpaVVlclhzQmxPR3pfX2FYQ0dXTW1QbVA3NlpVTDRLTHRWaUdWVnN0ZklmUDlHOVBaUU9waDJsU2hFOE5JdFhuWmV3VV9fZGtQaDhpVWJLbHhQbTJB?oc=5",
+     "resumen": "Elecciones en España: inteligencia artificial y denuncias de fraude marcan la desinformación en la campaña electoral la diaria",
+     "fecha": "2026-11-25T23:08:41+00:00",
      "medio": "la diaria"
     },
     {
-     "titulo": "MAD TALKS 2026 abordó la aplicación de la inteligencia artificial en la gestión del marketing",
-     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlNFZ19nckdsQ0VIX2RsTE45M3lWVVhSN1hCQTdjZ0ZiUjdubDBvU0lZRVQ0LUtqdlZteTc0bDNHV21tYVRiRzBhMk1nc3czLVExdlVZdFoybEF6VGp0SFZZNENiZ2RockhYZ0tjMGJtV1N5NTgtQVd0ZDU1cXNqUm5haGhSMnoxR3Jybkk1UXRyQQ?oc=5",
-     "resumen": "MAD TALKS 2026 abordó la aplicación de la inteligencia artificial en la gestión del marketing Noticias UPC",
-     "fecha": "2026-11-25T19:50:54+00:00",
-     "medio": "Noticias UPC"
+     "titulo": "El algoritmo ya forma parte del día a día de la economía, pero sigue fuera de los modelos de negocio de las empresas",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QWkVwaWJiS2M4aWFxU2toRkwwMklPMjE4dVdfdGJLdjJ3cVJIZkh6czk1bWFVcmpQU25QSEppaWo0Y20zN3JnLWNBZGNZUTRSOEFpZWlxdnk2X0VBb25EZXFZNXFuR252ZEY2WEVXeDc2eWVfcUFqUm9XWUrSAXxBVV95cUxNUzNxdG0yNlNVVXczRFVSMlRZZVpkcUwyc29YY2g5T2M1dFJvYlBMS194aXRBM2I1c054R3pNQUlfSFBqVkJjTWhIYXpYNC1TclZiZTl3NGRzZy1VUXhSOThhaGRfempfTmRYTWR6WUt1UXJ1allQWEZ1V2Z6?oc=5",
+     "resumen": "El algoritmo ya forma parte del día a día de la economía, pero sigue fuera de los modelos de negocio de las empresas El Mundo",
+     "fecha": "2026-11-25T23:03:00+00:00",
+     "medio": "El Mundo"
     },
     {
-     "titulo": "La Clínica San Miguel de Cáceres presenta los avances de la inteligencia artificial en el diagnóstico por imagen",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEMyTHJYenlRaVF2c3ZHbmt6dzlQRmJFNzF5Q3A5ZnFPTkRJa0dFMVdJRGVaX2JyUHJGTFNOdGVxekEtNEltUkdYOGtKdWpMcFVBcE9QZWlUSjJfS1VfWFlFSm4xMkpLTGc4QWNLaVVRWGRpSHIzbms0M1ktc3NKbUdVckR1UVIybGEwLWc0Sk1JVWdZSjVjcUo0QW5XWmd2bmNnRlR3bnlmZU9uMjRzVTNRdE_SAboBQVVfeXFMTXpNOU9LclZTRDFLNndDc0R1OW5aNHQwRFpoU00zUkl5ZHV6MjVRV0RKeDc5NWRoNGh0Z2dLY1E0eUtUVE9uOTJVb2M2dWFVNk56bmJYZEhqYkFpTUlhMTJXdG1tQU84aVZ4czNMeEE0SFFJbDRGc2hVWEVXQ0NpVDF3TkVST1B5Sm5ucUNhcmdRRGNPSXNLSmY5V2tsY3BPTU1lUTh3UFp4Q3JvVzc1bWtIMXJDTVBsaWZR?oc=5",
-     "resumen": "La Clínica San Miguel de Cáceres presenta los avances de la inteligencia artificial en el diagnóstico por imagen El Periódico Extremadura",
-     "fecha": "2026-11-25T19:41:45+00:00",
-     "medio": "El Periódico Extremadura"
+     "titulo": "Perú busca modernizar la gestión pública con inteligencia artificial y nuevas tecnologías: ¿qué falta para lograrlo?",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYWRkaUk4TEgxSXVXdFpCbkp3Qkl6R290QWZmVVhWSjJzWkNCM0tvTGZXNXJ3UHVnN1pIcDlJRUNSTDNOYVBoRnVwZktFaW1oWFVyYW9fOVdlbVNfRmc1WWVnMk9QVHBtOFZVckI4ZFRlZ2l2RGc3NGpEUGJjdlJLVEJtLXF2ZTlIVXJacWd2MG4zbENPQm9mRXhYMnlPY2EtMXpVcktHUFRPWTNZcGJKbE1LOXJFdjJJSGh3VVRkVjdjczVZSGpjbTdhRHMxR0RudHZoVGlmcGtXVkR4ZkczUnZCQ0Y2WFVETWfSAYQCQVVfeXFMUGYxOHNTSWZjSnZ5cUVQaTNSNGQ3amk2VmRnbDNBQWVGcmJOYk1xNTJoUWlTSi1EcE9fRkd5ajA1WlJub0theTk4Z2lMQ0stMWhuOVpBQUhMSm1VR3NYbVVESjhGWkpZLUZQWG9WOVh0bGZtRDJEM3VnQ0dTbVlURnhKZFRYZFNzUFZCUTFxeWtBUFlRYlphV2xOVUdEM2RLT2Nidm5iLV9VRWNYWTV6a1c3TjFSeVZwenM4cnBNUHRXb0pWQUxJOFlTcFA5TDl2LU1scXdqakVyamdpMW1tLU95Y3hRUm9BVU5nT294YWdtN0V3MDRVTEJwcU1PU2xuY1BSZGQ?oc=5",
+     "resumen": "Perú busca modernizar la gestión pública con inteligencia artificial y nuevas tecnologías: ¿qué falta para lograrlo? Infobae",
+     "fecha": "2026-11-25T23:02:00+00:00",
+     "medio": "Infobae"
     },
     {
-     "titulo": "Cómo logró China acceder a los chips de inteligencia artificial de Nvidia pese a las restricciones",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUkhpSkVrMnl2QlY5WGdoRW04bjdZbVVYR0hnWmE4bFM3enFtVnQ2amZaTThLdUFQRTJUZlVSR3ZPMk0wd1d6NlllR09LdTZQTTk4UlktODNOMGdpUFBweVh3ak5OMFgtV0dMWHNJT3VEYWdoZGN3Wm5pVWI2b1JfZWRFLW1wSU5qODN4bXh5N2hqY2lvSno4REljc0dkMVpuT1BYamFHTVVmTTA1VEp5YXhKN0pXMmtzTkdzSkJuc0RDdFVMLW9KN2NqWkItYV81MklVTUctd0xDN2dDVHg5T2V1LVNKblQ4?oc=5",
-     "resumen": "Cómo logró China acceder a los chips de inteligencia artificial de Nvidia pese a las restricciones MarketScreener España",
-     "fecha": "2026-11-25T19:31:16+00:00",
-     "medio": "MarketScreener España"
+     "titulo": "Inteligencia artificial que demuestra la realidad. Esta es.el estilo de reconstrucción que hacen en el Valle",
+     "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pYmJ5aHJqVnhIVXVUWXBrX3NpYldDZDQ4ZF9jZ3Rtb2lhN1F6czFFODZWTlZpaERVdWVZbHB1MTMtSDdXOHU0cE5nS1FsbFNQSzU2RGdFR1lhREhPQW0tckdPTWpfemlFU0RzX2VB?oc=5",
+     "resumen": "Inteligencia artificial que demuestra la realidad. Esta es.el estilo de reconstrucción que hacen en el Valle X",
+     "fecha": "2026-11-25T22:44:52+00:00",
+     "medio": "X"
     },
     {
-     "titulo": "La Misión Genesis de Estados Unidos apuesta por la inteligencia artificial para acelerar la ciencia",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRkRIc0pFaktVcHNIWG1VdVRPS25RTzQtVVpZWW5aV0J2QmRTOFdoRF9Zb29BMXRrcEtnaHNFMmVWRFhKVFZNYWpIQ1N4QjF3dG1MSHZXRE1CY3hJV0R5SDNncl9vNGVpQjNOZXlDaFMzSHFMZGN5R1JKXzdnY2cxV3FhRnZDc2lKSlN3em5PTncxcXpQR1R4XzFoT3E4M0ZwSG9uTjl2T1Zmak9reXhXNC1neFpfU1lQUFhfWWRBWVF0d0ZkVGJzRFJHTW1idXZJck5oeHpROW4yTm5sczBCTTd3T3JmQmdIanVZ?oc=5",
-     "resumen": "La Misión Genesis de Estados Unidos apuesta por la inteligencia artificial para acelerar la ciencia MarketScreener España",
-     "fecha": "2026-11-25T19:30:30+00:00",
-     "medio": "MarketScreener España"
-    },
-    {
-     "titulo": "Es falsa la imagen que muestra una calle de Chupaca destruida por los recientes sismos en Junín: fue generada con inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMk1kNU9PWjEzQmNyWjhvWXdGYnlDS2QtdjRQQjBZYUtmaW5VOTBfSHM1dGNIdjdGZkEwREdqWHNGdW1QbGZnLTJoTDFVVDI5WFUxV1BxS2pwaFBUejFqZWdUOHhOOEtfU1puM1NXMnRsbm93TTBZYWU3LXhWLVNVcUZ6NjlyQUNsNU9wZWxvUF91WnBRcmd2aVRNYk5mNHhnTXNkUDJoWmZpT1dJaHhoY0M2anpadGtWVnNTVkk3cVA1MFB6cDBRcFBuNzBEYl81dkM3RWU4bXd1bHBPOW9EYVJ6ekoyVl81QTZiZklFWmx2azlBb3NXTmF0dW02Sld3YUJzYW90REF6QUxGUmg1QnZIMDFGdmtv0gGeAkFVX3lxTFBrWXpFeDM0RV9falBCMC1TckhsR0EtRjdJeEN2OUVmbEthd3ZtclNvcTFBR2UwelJiQ3NUNWJ1N0tSMVZmdUpxNlpGejFlODlidWJUWDc1NzdWcTUxZE1adzhZNl8yTnp1aTFGVUtmMzI2ZTN6OHFuWENTZm5OeW1tMndJQ2Y1WWV0emxnZzQ1NHhYYnJFLVF3WlBVNkdMeG8yUl9GMUpfeERoMlk0dFNkTHBhSDBGZEdvUFBqT1VxMkdLVjdnOU96eEppaHVFNkV6d0RHOFl1XzZVdDUzZE42ZFZwd2ZKUDV4M3BkZDEzQ1FOaFVPQUd4eS14VEhfU1Y5NVVKTkpYRXZPZzZuaXVHamxhV05QalNfZXhzalE?oc=5",
-     "resumen": "Es falsa la imagen que muestra una calle de Chupaca destruida por los recientes sismos en Junín: fue generada con inteligencia artificial La República",
-     "fecha": "2026-11-25T19:21:31+00:00",
-     "medio": "La República"
-    },
-    {
-     "titulo": "Agesic prepara reglas para el uso de inteligencia artificial en el Estado y avanza hacia trámites por Whatsapp",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUDIzZ2hWZTRLeEstWTloTWdPcUw5Y0dHVXR0eE1obnk5RlA4NWNCVlZWMFAxQWgtcERVbmxXZm4yT3d1UHJhTVNIZDFMY0VveXNrS1ItZEF3a3BJYmZCVS1XamZMc2tCWG9JWUtHaVppVGNZNVJ6NWZ2ZVpramQySHRaWWpaX3NhZzhnM0RrS2RQejEyNkk3OTE2M2owb1c4cTl0VmNKRkZSNWdxSkxwcHMtcjhSbmNEN2dwRXFmRlZ1alNxWFVia0ZIMUN0bGkzbWh6bHZGMW9VWlF5empwWG1jZVB5VGw4RTJ5YW54bFfSAYACQVVfeXFMT0ZCX1NFSlFwSlJSNXkyQ2IxYWZBTksyVGNQVURsbjZBQjd2TVlBdHBqTmFXT2dtaHN0SDU4TjFnalpJanBPa1A5T0FTZ185b2ttY21KU0ZGQzhaTTdiVTVkbjUzVEZ3SjB6S0t1T0pNOVlyenVBVktvcjY5UEJja0FBNGY2UVZTN2JsbklZLThIWm9TcHg0V0hBZl9iVXhVZElJM2NvWU5rTFJUVzMtRmxYVjh6NVZrRHB5cjZUQWFTY042S0NzLTRILVdNQk1IQTdyV05HQTY4U2k5amx0LV9qdktKbEZMaDJnbmxSVHRDV293WUNId2xyV2Y1YWN4cw?oc=5",
-     "resumen": "Agesic prepara reglas para el uso de inteligencia artificial en el Estado y avanza hacia trámites por Whatsapp la diaria",
-     "fecha": "2026-11-25T19:18:08+00:00",
-     "medio": "la diaria"
-    },
-    {
-     "titulo": "Analizan los desafíos de la inteligencia artificial frente a la violencia contra las mujeres",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEJZelNRV0N6UHNVeHVTREU1LVpPdXExNV9mYU9nbmZ6S1loWmpkSi1aQkNMVkp3NHZwYjk2eHNvY3UzOG56VVdXazM3OHVXSXpUTXVjaV9YbVhKTm14NlJLeHRtY3hPOThVRFYtRk9WVXBmVkUtZlBCNUhTN2RqS0hfWm5rUGd3emMtQmpmSmdqWmFrWmF1T3FHUTlxaHZLQjN1M3EwMVdldi1WVmhQemVPVVN6RHFmOS1ka21XeVpxTXpNeURxRQ?oc=5",
-     "resumen": "Analizan los desafíos de la inteligencia artificial frente a la violencia contra las mujeres Revista Hacia la Luz",
-     "fecha": "2026-11-25T19:12:54+00:00",
-     "medio": "Revista Hacia la Luz"
+     "titulo": "Uno de cada seis españoles que usan la inteligencia artificial a menudo nunca comprueba lo que le responde",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVmxsNHAyMlQyOXZWOTBhaG5JRW9aZFRSZmthQTlqajNIMHcxVnVVZzZyaXNmd0FTS3psQTdVMk1qcXExVmVGV0R5S2tvalZaUEZOb2l1ek53MFlpcFh2aWE2STdaanRGc3NfUXh2QWZCUlcyNVdoT3h3YnEzdnd6UjVMUTB4TjRycWdQZS03T3V2NEs1UHR0WUtNYVBMcE5Fa3ZfYXZkN1JyX0hkeVQ4azB3RU9xSTVWSkVCbURkWWZ0dUtOVGc?oc=5",
+     "resumen": "Uno de cada seis españoles que usan la inteligencia artificial a menudo nunca comprueba lo que le responde DPL News",
+     "fecha": "2026-11-25T22:42:58+00:00",
+     "medio": "DPL News"
     }
    ]
   }
