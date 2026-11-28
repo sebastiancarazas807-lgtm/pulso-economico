@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-27T20:43:33.520411-05:00",
+ "generado": "2026-11-28T01:08:10.674987-05:00",
  "saludo": "Sebastián, tus noticias del día son…",
  "secciones": [
   {
@@ -7,11 +7,151 @@
    "titulo": "🇵🇪 Economía del Perú",
    "noticias": [
     {
+     "titulo": "Perú aún es una “estrella”: cuáles podrían ser sus siguientes pasos, según Banco Mundial",
+     "enlace": "https://gestion.pe/economia/peru-aun-es-una-estrella-en-la-region-cuales-son-los-siguientes-pasos-segun-banco-mundial-noticia/",
+     "resumen": "¿Perú necesita reformas? “Definitivamente y creo que el Gobierno actual es muy consciente de esta necesidad”, señaló el economista del Banco Mundial para Perú, Alonso Cusato.",
+     "fecha": "2026-11-28T05:58:52+00:00",
+     "medio": "Gestión"
+    },
+    {
+     "titulo": "Sector Salud fortalece respuesta sanitaria de Lambayeque frente al fenómeno El Niño",
+     "enlace": "https://andina.pe/agencia/noticia-sector-salud-fortalece-respuesta-sanitaria-lambayeque-frente-al-fenomeno-nino-1101771.aspx",
+     "resumen": "Como parte de las acciones de respuesta inmediata ante El Niño, el Ministerio de Salud (Minsa), en el marco de la operación “Minsa Responde” y en coordinación con el Gobierno Regional, ejecutará un plan de intervención en Lambayeque a fin de asegurar la atención médica oportuna y",
+     "fecha": "2026-11-27T23:53:31-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Dólar en Perú: así se movió el tipo de cambio durante noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0pFOWt2OWpIaEdKN25XSG9ic0NmTTIzVlFCNHlpM0ZEMDZ5eGZ6S1VDVExpRGFwRUdXVTk2WWY2NXVrdlR3ZkxYWVZzeGhiVU5HTk1qalNtZ2JzWmgyVFZHblg0LWM1Y2IxR0lMeWxES2JxVFp0aUdVQzFDeFZuRnVsSFIzdkYzdHJ0endzZmZ3dHFwRmlHbTdTdl9ZNXdlZTdV?oc=5",
+     "resumen": "Dólar en Perú: así se movió el tipo de cambio durante noviembre Cuánto está el dólar",
+     "fecha": "2026-11-28T04:41:15+00:00",
+     "medio": "Cuánto está el dólar"
+    },
+    {
+     "titulo": "Eliminados: Messi y el Inter Miami se estrellan en primera ronda de playoffs de la MLS",
+     "enlace": "https://andina.pe/agencia/noticia-eliminados-messi-y-inter-miami-se-estrellan-primera-ronda-playoffs-de-mls-1101769.aspx",
+     "resumen": "El año de Lionel Messi terminó este viernes con otra dolorosa eliminación del Inter Miami en la primera ronda de los playoffs de la liga norteamericana (MLS), en los que eran los defensores del título.",
+     "fecha": "2026-11-27T23:39:28-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Perú y Finlandia fortalecen cooperación para impulsar minería sostenible",
+     "enlace": "https://andina.pe/agencia/noticia-peru-y-finlandia-fortalecen-cooperacion-para-impulsar-mineria-sostenible-1101768.aspx",
+     "resumen": "El Perú y Finlandia buscan fortalecer la cooperación tecnológica y promover inversiones para impulsar el desarrollo de una minería responsable y sostenible, mediante el intercambio de experiencias y el aprovechamiento de oportunidades de colaboración entre ambos países, informó e",
+     "fecha": "2026-11-27T23:36:22-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Perú y Finlandia impulsan cooperación para fortalecer la economía circular",
+     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0pNMmFjWTR4M1RNTHhRSVdfWl9CeHBVeTd3Q0ZiXy1GU0dNRnpLem5XR3pmWDB0SS1zSlJnclQ0Y1hsMFVoVDRCVUQyV3AyckJQVG43WmMtTlRNTW1yYVdXNVl1Skx6ZzBoOTNJSmI3NDk3blhIYkh5UFlQWG1tMVdxbXN6b0VCSjJXVzhrOWwzZw?oc=5",
+     "resumen": "Perú y Finlandia impulsan cooperación para fortalecer la economía circular Revista ProActivo",
+     "fecha": "2026-11-28T04:17:44+00:00",
+     "medio": "Revista ProActivo"
+    },
+    {
+     "titulo": "Empresas se preparan ante expectativa de alza de tasas, ¿qué medidas toman?",
+     "enlace": "https://gestion.pe/tu-dinero/empresas-se-preparan-ante-expectativa-de-alza-de-tasas-que-medidas-toman-noticia/",
+     "resumen": "Gerardo Moreno, gerente de Finanzas y Banca Corporativa del BCP, señala que algunos clientes también contratan coberturas de tasas y esperan que pase el pico para extender los plazos de su deuda.",
+     "fecha": "2026-11-28T04:11:44+00:00",
+     "medio": "Gestión"
+    },
+    {
+     "titulo": "Presidenta Fujimori llegó a Piura para supervisar acciones del Gobierno frente a lluvias",
+     "enlace": "https://andina.pe/agencia/noticia-presidenta-fujimori-llego-a-piura-para-supervisar-acciones-del-gobierno-frente-a-lluvias-1101763.aspx",
+     "resumen": "La presidenta de la república, Keiko Fujimori, llegó esta noche a la ciudad de Piura para supervisar las acciones del Gobierno frente a las emergencias ocasionadas por las intensas lluvias registradas en la región y dialogar con los afectados.",
+     "fecha": "2026-11-27T22:58:39-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Dengue: Minsa anuncia lote adicional de vacunas y evalúa inmunizar desde los 6 años",
+     "enlace": "https://andina.pe/agencia/noticia-dengue-minsa-anuncia-lote-adicional-vacunas-y-evalua-inmunizar-desde-los-6-anos-1101764.aspx",
+     "resumen": "El Ministerio de Salud (Minsa) prevé recibir en enero un lote adicional de 1,1 millones de vacunas contra el dengue para extender la inmunización a otras zonas del país, informó César Munayco, director general del Centro Nacional de Epidemiología, Prevención y Control de Enfermed",
+     "fecha": "2026-11-27T22:53:35-05:00",
+     "medio": "Andina"
+    },
+    {
      "titulo": "MEF: solidez económica brinda margen para inversiones prioritarias y responder a choques",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVlDUlJnM2tVWDlSYWNDX0VwdmFmRG11Y29qZzBYaTY0YmZOX3VpMVE5YXVUVzEzYl95LXJBdDQzazM1dXRsc0pWUTBMaFhSQjh2c21NWS1QN29KVTNaTUZGZzFJLU5zQUF4c3VMUkNhekc5Y1R1azZ4SnNFOXdHUDlkbGtNZVNhMGtmeEZ2OXBRZ0c5ZVdwcXB0cWQ5WnBwV3lrcThTUXk3c3M1ajN6R0lKWUNtT2R5TTZxWkd2YTlEX1VOLS1jLWFTNEp0Qm8?oc=5",
      "resumen": "MEF: solidez económica brinda margen para inversiones prioritarias y responder a choques Agencia Andina",
-     "fecha": "2026-11-28T01:39:41+00:00",
+     "fecha": "2026-11-28T03:45:03+00:00",
      "medio": "Agencia Andina"
+    },
+    {
+     "titulo": "Indeci, Midagri y Mindef articulan acciones de respuesta ante inundaciones en Piura",
+     "enlace": "https://andina.pe/agencia/noticia-indeci-midagri-y-mindef-articulan-acciones-respuesta-ante-inundaciones-piura-1101762.aspx",
+     "resumen": "El jefe del Instituto Nacional de Defensa Civil (Indeci), junto a los titulares del Ministerio de Desarrollo Agrario y Riego (Midagri) y del Ministerio de Defensa (Mindef), llegó a Piura para articular acciones de respuesta frente a las lluvias intensas que ocasionaron inundacion",
+     "fecha": "2026-11-27T22:16:39-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "La Feria del Libro Ricardo Palma abre sus puertas en el parque Kennedy de Miraflores",
+     "enlace": "https://andina.pe/agencia/noticia-la-feria-del-libro-ricardo-palma-abre-sus-puertas-el-parque-kennedy-miraflores-1101760.aspx",
+     "resumen": "La tradicional Feria del Libro Ricardo Palma abrió sus puertas este viernes 27 de noviembre en el parque Kennedy de Miraflores, con el compromiso de sus organizadores –los miembros de la Cámara Peruana del Libro (CPL)– de seguir promoviendo la lectura entre grandes y chicos.",
+     "fecha": "2026-11-27T21:54:41-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "SAT de Lima: vecinos podrán pagar la última cuota de sus tributos hasta el 30 de noviembre",
+     "enlace": "https://andina.pe/agencia/noticia-sat-lima-vecinos-podran-pagar-ultima-cuota-sus-tributos-hasta-30-noviembre-1101761.aspx",
+     "resumen": "La Municipalidad de Lima, a través del Servicio de Administración Tributaria (SAT), recuerda a los contribuyentes que este lunes 30 de noviembre vence el plazo para pagar la cuarta y última cuota del impuesto vehicular, el impuesto predial y los arbitrios municipales.",
+     "fecha": "2026-11-27T21:52:10-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Concurso “León XIV vuela a casa” premiará las mejores fotos de la visita del papa al Perú",
+     "enlace": "https://andina.pe/agencia/noticia-concurso-leon-xiv-vuela-a-casa-premiara-las-mejores-fotos-de-visita-del-papa-al-peru-1101618.aspx",
+     "resumen": "La visita del papa León XIV al Perú dejó momentos que permanecerán en la memoria de miles de peruanos: desde misas multitudinarias y encuentros con jóvenes cargados de entusiasmo, hasta las situaciones más espontáneas, “cada fotografía cuenta una historia distinta de un acontecim",
+     "fecha": "2026-11-27T21:33:35-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "El efecto papa León XIV: el turismo religioso como oportunidad de negocio en el Perú",
+     "enlace": "https://gestion.pe/economia/empresas/el-efecto-de-la-visita-del-papa-leon-xiv-a-peru-el-turismo-religioso-como-oportunidad-de-negocio-en-el-pais-noticia/",
+     "resumen": "La visita del papa León XIV a Perú terminó, pero la pregunta para el sector turístico recién empieza: ¿cuánto de los visitantes que llegaron por el pontífice volverá al Perú por otros motivos? La convocatoria dejó un movimiento económico estimado en más de S/ 1,274 millones, segú",
+     "fecha": "2026-11-28T02:30:36+00:00",
+     "medio": "Gestión"
+    },
+    {
+     "titulo": "Presidenta Fujimori anuncia bonos para familias damnificadas por lluvias en Piura",
+     "enlace": "https://andina.pe/agencia/noticia-presidenta-fujimori-anuncia-bonos-para-familias-damnificadas-lluvias-piura-1101759.aspx",
+     "resumen": "La presidenta de la república, Keiko Fujimori, anunció hoy la entrega de bonos para las familias damnificadas por las fuertes lluvias ocasionadas por el fenómeno El Niño en Piura.",
+     "fecha": "2026-11-27T21:17:03-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Segunda vuelta regional: ONPE capacitará a miembros de mesa el domingo 29 de noviembre",
+     "enlace": "https://andina.pe/agencia/noticia-segunda-vuelta-regional-onpe-capacitara-a-miembros-mesa-domingo-29-noviembre-1101741.aspx",
+     "resumen": "Los ciudadanos que han sido designados miembros de mesa para la Segunda Elección Regional 2026 podrán participar en la jornada nacional de capacitación que realizará la Oficina Nacional de Procesos Electorales (ONPE) el 29 de noviembre, en 2574 locales.",
+     "fecha": "2026-11-27T21:16:44-05:00",
+     "medio": "Andina"
+    },
+    {
+     "titulo": "Ciberataques: ¿quién asume las pérdidas económicas de las empresas?",
+     "enlace": "https://gestion.pe/economia/empresas/ciberataques-quien-asume-las-perdidas-economicas-de-las-empresas-noticia/",
+     "resumen": "Los ciberataques y los riesgos asociados con la inteligencia artificial (IA) se perfilan como una amenaza creciente para las empresas.",
+     "fecha": "2026-11-28T02:05:18+00:00",
+     "medio": "Gestión"
+    },
+    {
+     "titulo": "Precio del dólar en Perú del sábado 28 de noviembre: cuál es el tipo de cambio",
+     "enlace": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-sabado-28-de-noviembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+     "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 28 de noviembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+     "fecha": "2026-11-28T02:01:15+00:00",
+     "medio": "El Comercio"
+    },
+    {
+     "titulo": "Perú busca ampliar su presencia agroindustrial en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHFYM0J5MG5TdHUza0NFdzFac0pqWHJlQU0wWVVFQXktdDF4bldEV0pvV2tYWi1QQVcwMnpUTEpBNzNyUkJKN05RUjl1aDBZVkw5OWx1b3VxcmxxVm14MTBjYW43RnhBeW9NemdvQ0g4aVFxTU9FTXc5V1R4LVo3VVF5dEc2RHNzTEMzekV4X0lLdUR1Wkg3OEhrdnEzT25fNjk4QnZ0ejdPRXR1cXdvLQ?oc=5",
+     "resumen": "Perú busca ampliar su presencia agroindustrial en Chile Trujillo en Línea",
+     "fecha": "2026-11-28T01:59:00+00:00",
+     "medio": "Trujillo en Línea"
+    },
+    {
+     "titulo": "García Belaunde cuestiona al BCRP por no comprar oro pese a contrabando",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTM2Vnp2TTZSVDQtMGFhdk8xNXRReXk3Z2dTajh0VGhrOElEaTRja2NBT2xWRTRNTkJKb0ZfbzNzeHZrQzdEd1hCck42bnJZM054M1Ftd3h0aVBfcHJ4YnhKaGpOc0t1ZlZzbnJJSEs2dnJ6Ym9zcEd4VVVJMGhkVXRmUF9GMXBGSVlZZTNKMXl1U1BnSTg3WEtTaDFHQ2FLNUlQdS1NLTEyUVNZTUMtb19yaFpoajladkZ2bDZrV2ROS2xDbXdZ0gHMAUFVX3lxTE9BQXR3TkdOTUt6UU9kNmR1NkZxb3dJOVRWdC1saXk1WVIydUx2TGlqdWM4RENqc3E1VGJKNkFKanU4WmFNVS0tSGVxVE1MbFN5aldIZWRqM3RfVDF3MVBLbXQ1VnZHT3d6V1FKX2Z2Sy1Lb01FM1ZqLXdMQWF5TExwRVpPRXhSeGlXY1BPeVpqQXJVeHhyZEt6SmUtNktQbms4TXVBTl9HdGozcVhGbUl2VFprYlhCY3VXMnFDWV9nZkpJMGNwS2NrRUNWZw?oc=5",
+     "resumen": "García Belaunde cuestiona al BCRP por no comprar oro pese a contrabando La República",
+     "fecha": "2026-11-28T01:45:57+00:00",
+     "medio": "La República"
     },
     {
      "titulo": "Declaran en emergencia tramo Macusani-Nuñoa por peligro inminente en infraestructura vial",
@@ -40,146 +180,6 @@
      "resumen": "El Ministerio de Transportes y Comunicaciones (MTC) declaró la emergencia sectorial en la infraestructura aeroportuaria de seis aeropuertos del país, ante el peligro inminente de afectaciones por las intensas precipitaciones pluviales asociadas al Fenómeno El Niño 2026-2027, con ",
      "fecha": "2026-11-27T20:23:14-05:00",
      "medio": "Andina"
-    },
-    {
-     "titulo": "Ministerio de Defensa confirma deceso de 8 militares en accidente de aeronave en el Vraem",
-     "enlace": "https://andina.pe/agencia/noticia-ministerio-defensa-confirma-deceso-8-militares-accidente-aeronave-el-vraem-1101753.aspx",
-     "resumen": "El Comando Especial Vraem del Comando Conjunto de las Fuerzas Armadas, confirmó la muerte de ocho efectivos militares y un sobreviviente en el accidente de una aeronave de la Fuerza Aérea del Perú, ocurrida en la zona del valle de los ríos Apurímac, Ene y Mantaro.",
-     "fecha": "2026-11-27T20:16:26-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Perú y Guatemala avanzan en implementación del TLC bilateral",
-     "enlace": "https://andina.pe/agencia/noticia-peru-y-guatemala-avanzan-implementacion-del-tlc-bilateral-1101754.aspx",
-     "resumen": "Los gobiernos de Perú y Guatemala celebraron la primera reunión de la Comisión de Libre Comercio del Tratado de Libre Comercio (TLC) que entró en vigencia desde julio de este año, con el fin de avanzar en la implementación y cumplimiento de los compromisos establecidos en el acue",
-     "fecha": "2026-11-27T20:04:02-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Plus Ultra propone su cierre y despido de sus trabajadores: las razones",
-     "enlace": "https://gestion.pe/economia/empresas/plus-ultra-propone-su-cierre-y-despido-de-sus-trabajadores-las-razones-noticia/",
-     "resumen": "La aerolínea española, Plus Ultra, informó su intención de cerrar sus operaciones y despedir a sus 659 trabajadores, de acuerdo con fuentes sindicales citadas por EFE.",
-     "fecha": "2026-11-28T00:59:00+00:00",
-     "medio": "Gestión"
-    },
-    {
-     "titulo": "¿Qué es la sensación térmica? Senamhi explica por qué sentimos tanto calor en Lima",
-     "enlace": "https://andina.pe/agencia/noticia-que-es-sensacion-termica-senamhi-explica-por-sentimos-tanto-calor-lima-1101587.aspx",
-     "resumen": "¿Alguna vez has sentido más frío o calor de lo que indica el termómetro? Esto ocurre porque la temperatura del aire no siempre coincide con la que percibe nuestro cuerpo. El Servicio Nacional de Meteorología e Hidrología del Perú (SENAMHI) explica que esta diferencia se conoce co",
-     "fecha": "2026-11-27T19:49:30-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "AFP Integra sobre posible ingreso de una empresa competidora: “Ojalá sea así”",
-     "enlace": "https://gestion.pe/economia/empresas/afp-integra-sobre-posible-ingreso-de-una-empresa-competidora-ojala-sea-asi-noticia/",
-     "resumen": "Actualmente son cuatro las AFP en el mercado peruano. Viene una nueva licitación de afiliados, donde podría participar y ganar alguna nueva compañía.",
-     "fecha": "2026-11-28T00:43:47+00:00",
-     "medio": "Gestión"
-    },
-    {
-     "titulo": "Ica: transfieren recursos para mantenimiento preventivo de la I.E. General Salas Bernales",
-     "enlace": "https://andina.pe/agencia/noticia-ica-transfieren-recursos-para-mantenimiento-preventivo-de-ie-general-salas-bernales-1101752.aspx",
-     "resumen": "Las demandas de autoridades y padres de familia de la Institución Educativa N.° 22333 General Juan José Salas Bernales –ubicada en el distrito iqueño de Salas– para mejorar las condiciones en que estudian los alumnos de este plantel, fueron canalizadas ante el Ministerio de Educa",
-     "fecha": "2026-11-27T19:42:58-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "El BBVA propone un nuevo “Reactiva” para afrontar El Niño",
-     "enlace": "https://gestion.pe/economia/el-bbva-propone-un-nuevo-reactiva-para-afrontar-el-nino-noticia/",
-     "resumen": "“No podemos dejar que la cadena de pagos se pueda detener. El gobierno tendrá que sacar medidas extraordinarias”, señaló Fernando Eguiluz, CEO del BBVA.",
-     "fecha": "2026-11-28T00:40:02+00:00",
-     "medio": "Gestión"
-    },
-    {
-     "titulo": "Lima 2027 celebrará el Día Internacional del Voluntario con evento gratuito en La Videna",
-     "enlace": "https://andina.pe/agencia/noticia-lima-2027-celebrara-dia-internacional-del-voluntario-evento-gratuito-la-videna-1101751.aspx",
-     "resumen": "El voluntariado tiene la capacidad transformadora de unir personas, sumar experiencias y contribuir a una sociedad más inclusiva. Con ese espíritu, Lima 2027 celebrará el Día Internacional del Voluntario el sábado 5 de diciembre en la Villa Deportiva Nacional (VIDENA), con una jo",
-     "fecha": "2026-11-27T19:24:03-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Conoce la Declaración Presidencial de Lima emitida por mandatarios de Perú y Bolivia",
-     "enlace": "https://andina.pe/agencia/noticia-conoce-declaracion-presidencial-lima-emitida-mandatarios-peru-y-bolivia-1101749.aspx",
-     "resumen": "Como parte del Encuentro Presidencial y VII Gabinete Binacional Perú-Bolivia, realizados hoy en Palacio de Gobierno, los presidentes de la República del Perú, Keiko Fujimori Higuchi, y del Estado Plurinacional de Bolivia, Rodrigo Paz Pereira, emitieron una declaración conjunta en",
-     "fecha": "2026-11-27T19:15:21-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Grupo Andino avanza en su expansión en España con adquisición de empresa logística y portuaria",
-     "enlace": "https://gestion.pe/economia/empresas/grupo-andino-acuerda-adquirir-empresa-logistica-y-portuaria-en-espana-noticia/",
-     "resumen": "La operación contempla la compra del 100% de Quimgra, compañía con presencia en los puertos de Cádiz y Castellón, que gestiona más de 200,000 toneladas anuales y cuenta con 75,700 m² de capacidad de almacenamiento. La adquisición marcará el ingreso del grupo al negocio de logísti",
-     "fecha": "2026-11-28T00:10:50+00:00",
-     "medio": "Gestión"
-    },
-    {
-     "titulo": "Presidenta: Acuerdos alcanzados deben traducirse en beneficios concretos para la población",
-     "enlace": "https://andina.pe/agencia/noticia-presidenta-acuerdos-alcanzados-deben-traducirse-beneficios-concretos-para-poblacion-1101750.aspx",
-     "resumen": "La presidenta de la república, Keiko Fujimori, destacó la importancia de fortalecer la integración económica entre Perú y Bolivia, y sostuvo que los acuerdos alcanzados deben traducirse en beneficios concretos para la población, especialmente de las zonas fronterizas.",
-     "fecha": "2026-11-27T19:07:39-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Perú será sede del XV Encuentro Empresarial Andino en junio de 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTjh6YXdRQmpQV0E5MUlFUy05ajlLX1UwREltcU8xUHg1dEo2U0FtenVNOVFZR1lJY3BTY1ZoWnNVY3d0cDByaUUxNEtpMnMyOWRzUVNpdEZwRlNhbXIxc3BBbUF0bWxCZUMza2NPY08ydTNRcm9TTnIyUExVeXd3enRtLXV1eWlZXzJtaTloTDQ1QXVtaGRFb21WXzRONUU1?oc=5",
-     "resumen": "Perú será sede del XV Encuentro Empresarial Andino en junio de 2027 Serperuano",
-     "fecha": "2026-11-27T23:50:04+00:00",
-     "medio": "Serperuano"
-    },
-    {
-     "titulo": "SNI y CNI impulsarán la integración industrial y empresarial entre Perú y Bolivia",
-     "enlace": "https://andina.pe/agencia/noticia-sni-y-cni-impulsaran-integracion-industrial-y-empresarial-entre-peru-y-bolivia-1101747.aspx",
-     "resumen": "En el marco del Encuentro Presidencial y VII Gabinete Binacional Perú-Bolivia, realizado en Palacio de Gobierno y liderado por los presidentes Keiko Fujimori y Rodrigo Paz, la Sociedad Nacional de Industrias (SNI) suscribió un convenio con la Cámara Nacional de Industrias de Boli",
-     "fecha": "2026-11-27T18:48:08-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Chorrillos pide a bañistas evitar ingresar a sus playas mientras dure oleaje anómalo.",
-     "enlace": "https://andina.pe/agencia/noticia-chorrillos-pide-a-banistas-evitar-ingresar-a-sus-playas-mientras-dure-oleaje-anomalo-1101748.aspx",
-     "resumen": "La Municipalidad de Chorrillos exhortó a la población evitar ingresar al mar y mantenerse alejada de la orilla, rompientes y zonas rocosas durante los días de la alerta emitida por la Dirección de Hidrografía y Navegación de la Marina de Guerra del Perú debido al oleaje que azota",
-     "fecha": "2026-11-27T18:41:44-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Ministro Vinelli: se instaló equipos para acelerar drenaje de zonas inundadas en Piura",
-     "enlace": "https://andina.pe/agencia/noticia-ministro-vinelli-se-instalo-equipos-para-acelerar-drenaje-zonas-inundadas-piura-1101746.aspx",
-     "resumen": "El Ministerio de Desarrollo Agrario y Riego (Midagri), en coordinación con el Poder Ejecutivo, realiza trabajos para retirar el agua acumulada en las zonas afectadas por las intensas lluvias en Piura, mediante la instalación de equipos trasvasadores que permitan acelerar el drena",
-     "fecha": "2026-11-27T18:39:59-05:00",
-     "medio": "Andina"
-    },
-    {
-     "titulo": "Funcionarios públicos se capacitan en Pago por Resultados para mejorar el gasto estatal",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUhqNng0cmR2dDdIUVgyOVZXNnFMRXRsampEcHhUUDhhdlhGV1RqeDZ1Nk5rc2lUS3dpV05UU0ZTYjc3VFBpUUM3S1hzcVlWZHVQMC1wX1dJUHA4eXY1UzRnRktSMS1PMnpqYXdxQm9sZlZXSk1ORldpRUpzMWllVUswMV95RjBhUUktMk5CWVlCUnVUYk80eUNzSFlENUdZWEJQcWczWEpGTG5NY2RoQ3BzNUhoMjJZRG9N?oc=5",
-     "resumen": "Funcionarios públicos se capacitan en Pago por Resultados para mejorar el gasto estatal Serperuano",
-     "fecha": "2026-11-27T23:35:52+00:00",
-     "medio": "Serperuano"
-    },
-    {
-     "titulo": "Fenómeno El Niño: ¿qué hay detrás del alza del cacao, el café y el azúcar y a quién afecta?",
-     "enlace": "https://elcomercio.pe/ecdata/canasta-basica-precios-del-cacao-cafe-y-azucar-en-alza-los-factores-detras-de-la-subida-quien-gana-y-quien-pierde-bcr-keiko-fujimori-noticia/",
-     "resumen": "La cotización de dos de las exportaciones agrícolas más importantes del Perú aún se mantienen en niveles inusualmente altos en medio de los efectos climáticos.",
-     "fecha": "2026-11-27T23:35:00+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "Observatorio de precios de alimentos: consulta cuánto cuesta hoy la canasta básica en Lima",
-     "enlace": "https://elcomercio.pe/ecdata/mercado-mayorista-canasta-basica-observatorio-de-precios-de-alimentos-mef-midagri-keiko-fujimori-noticia/",
-     "resumen": "En el observatorio de precio de alimentos del diario El Comercio elaborado por EC Data y la sección de economía revisa cuánto cuesta la canasta básica hoy en Lima y los precios de los alimentos que más consumes, con la información del Midagri actualizada cada mañana.",
-     "fecha": "2026-11-27T23:34:00+00:00",
-     "medio": "El Comercio"
-    },
-    {
-     "titulo": "Fondo Mivivienda proyecta impulsar la construcción de 1,25 millones de viviendas durante el actual Gobierno",
-     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON3VBd1dQcnlwOTFPSWt6eXdwWGhINTVMbDNmQnhoTXgzcHN5aERXMnZnejlCcmlocEpqazZsbjBvMk1YZ1NTdjVYQmMweXdWaXRLeWMySk9jQjFsdl8xdEMwMVJ6Nll0RGo2S0YzbDFjc1BUN0dxSUVpYU03MW5QOW5obVI4TDQzUE8zUVlyMXhQM3U4UVNBaWRxQW9CZmlua2ZHSURuY2ktdjRMUVNNdHBjOUtWeEU4TXg3R1MwRVZfUzhPVnhudTVoTnBidlgxX1FOODB1b3BVTnlTcDN0ddIB-wFBVV95cUxPbUVEdXIyX3BNYkE0dTdaQUNEakpWNmx5S05nZV9TU25FNzFZSnJ4N1NMUzRUZG5nRzZ5aGpkd2l5OE1jN25iN0xla1RzcnpFYTdFd2VmOVk5SGliUFNlLTBxZjZ1b1VRdjRwbDlnNTdMeHhtSzQ2Y0J3Wkl3VUNId1lVU2VFd0ZXNE5KQVEtbXlqNVFpN2sxSGxfbnJGeU5kczQ1Z3VaXzF4WVhpWkx1cmFzeGJaOFZZRlROdUE5WEZKbXZVeGloekZmSEpuV3o0WEoxamlnWTRiVzVIR0d1X2F3anNXaDlJc0R4WHk5N1RYSGxfcDZOanZ3QQ?oc=5",
-     "resumen": "Fondo Mivivienda proyecta impulsar la construcción de 1,25 millones de viviendas durante el actual Gobierno Infobae",
-     "fecha": "2026-11-27T23:34:00+00:00",
-     "medio": "Infobae"
-    },
-    {
-     "titulo": "Minjusdh impulsa servicios públicos más ágiles y centrados en necesidades de la ciudadanía",
-     "enlace": "https://andina.pe/agencia/noticia-minjusdh-impulsa-servicios-publicos-mas-agiles-y-centrados-necesidades-de-ciudadania-1101744.aspx",
-     "resumen": "El Ministerio de Justicia y Derechos Humanos (Minjusdh) organizó una nueva edición de la Convención de Representantes de las Oficinas de Asesoría Jurídica y Gerencias Legales de entidades del sector público, con el fin de fortalecer sus capacidades profesionales en materia de sim",
-     "fecha": "2026-11-27T18:32:14-05:00",
-     "medio": "Andina"
     }
    ]
   },
@@ -188,6 +188,111 @@
    "titulo": "🌎 Economía internacional",
    "noticias": [
     {
+     "titulo": "La revancha del dólar: de los mínimos del año a un repunte que inquieta al mercado",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFVSMHBwZjFwa1lKSktoaGZ6LUh5TU5DSUZTMmo0MmVqUTcxSEJjVGJCVG5maU03ZnZrRm9vaG1WY1Q3eXFZQ0lFSW9peUNlVTZRanBhaDhzR0JLdERiak42TTZrS3FRbW1CY0NVcjJfazdCaHYtWmpERm5FMjdYTzFSdjhDemJtSV9JNnhLNUdHRk1Iem5WM3h5OEtfbzYzMmxrS3VLNDR6YmhiNkFXTGdjek1VTFlqYkhFbGlYeG56eE5vU0RHZzk0LVdzSTdwSzFmcVkwZUZMeGswakHSAeMBQVVfeXFMT0lIZUY3T0NhdWp2Q25mRmZ5dFRXa3kzOUpUd2VNMWVfcWd0SndtTnpWejBiY1pNTFg0MldTU2JnWGM4X0J6VjI1RVd6Zjdod3RvZ19TVWVpOFhlbWw0Zy1EX0N5OFFNeERzWVVUR05EY3JMZXZnRWRPZ01tYnVTa1FFcXVWWDlZSjhQSFpMQ3RHLW9NNjV3eWc2S01zcWkza3pvZzZrT1hSNzdUcnk3ZjN1QnlPcUVVM2p1RnN3c1VSQ3NuTEFDOUxnLTV3NHQxaVBhWUN0MXJ6bDNxVUJ2ZmJMN2s?oc=5",
+     "resumen": "La revancha del dólar: de los mínimos del año a un repunte que inquieta al mercado Revista Semana",
+     "fecha": "2026-11-28T05:15:00+00:00",
+     "medio": "Revista Semana"
+    },
+    {
+     "titulo": "La ilusión de la certeza",
+     "enlace": "https://cincodias.elpais.com/opinion/2026-11-28/la-ilusion-de-la-certeza.html",
+     "resumen": "La mayor amenaza para los inversores no reside en la incertidumbre, sino en convertir los escenarios probables en seguros",
+     "fecha": "2026-11-28T04:40:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Inflación e incertidumbre, un lastre para la campaña navideña",
+     "enlace": "https://cincodias.elpais.com/opinion/2026-11-28/inflacion-e-incertidumbre-un-lastre-para-la-campana-navidena.html",
+     "resumen": "El consumo afronta un periodo de mera resistencia, con las empresas resignadas a crecimientos bajos o nulos",
+     "fecha": "2026-11-28T04:40:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "La nueva dirección del BCE hereda un manual fallido",
+     "enlace": "https://cincodias.elpais.com/opinion/2026-11-28/la-nueva-direccion-del-bce-hereda-un-manual-fallido.html",
+     "resumen": "Promete continuidad, pero su dependencia de las expectativas de inflación puede conducir a errores",
+     "fecha": "2026-11-28T04:40:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Las coaliciones impepinables o por qué se hace tarde para el cordón sanitario",
+     "enlace": "https://cincodias.elpais.com/opinion/2026-11-28/las-coaliciones-impepinables-o-por-que-se-hace-tarde-para-el-cordon-sanitario.html",
+     "resumen": "Los españoles votan entre bloques, como si las alianzas estuvieran predeterminadas. No tenía por qué ser así. En Europa la idea de aislar a los ultras se está debilitando, en España nunca se ensayó",
+     "fecha": "2026-11-28T04:40:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Dos dictadores y un aprendiz simulan dominar el mundo",
+     "enlace": "https://cincodias.elpais.com/opinion/2026-11-28/dos-dictadores-y-un-aprendiz-simulan-dominar-el-mundo.html",
+     "resumen": "La foto de Shenzhen escenifica un reparto autoritario del globo en el que China asciende, Europa desaparece y Trump queda subordinado",
+     "fecha": "2026-11-28T04:40:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Desatascar el suelo, una de las claves contra la crisis de la vivienda",
+     "enlace": "https://elpais.com/economia/vivienda/2026-11-28/desatascar-el-suelo-una-de-las-claves-contra-la-crisis-de-la-vivienda.html",
+     "resumen": "La mayoría de los partidos promete reformar las leyes para construir más, aunque el sector considera que el verdadero reto es convertir el terreno en casas",
+     "fecha": "2026-11-28T04:30:01+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Economía prepara una herramienta para que empresas y autónomos se relacionen con la Administración a través de la IA",
+     "enlace": "https://elpais.com/economia/2026-11-28/economia-prepara-una-herramienta-para-que-empresas-y-autonomos-se-relacionen-con-la-administracion-a-traves-de-la-ia.html",
+     "resumen": "El ministerio pretende agilizar la carga burocrática de las pymes, que pierden tiempo en procedimientos que están repartidos entre distintas sedes y aplicaciones públicas",
+     "fecha": "2026-11-28T04:30:01+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Rodrigo Valdés, director de Asuntos Fiscales del FMI: “La situación fiscal en España requiere atención a las pensiones”",
+     "enlace": "https://elpais.com/economia/2026-11-28/rodrigo-valdes-director-de-asuntos-fiscales-del-fmi-la-situacion-fiscal-en-espana-requiere-atencion-a-las-pensiones.html",
+     "resumen": "El directivo del Fondo Monetario Internacional cuestiona el gravamen a las grandes fortunas como solución mágica",
+     "fecha": "2026-11-28T04:30:01+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Las causas del milagro, y del malestar",
+     "enlace": "https://elpais.com/economia/2026-11-28/las-causas-del-milagro-y-del-malestar.html",
+     "resumen": "El empleo y el PIB han crecido durante 2018 a 2026, mientras que el coste de la vida se ha encarecido en el mismo periodo",
+     "fecha": "2026-11-28T04:30:01+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "De Lamborghini a Dolce & Gabbana o el Ritz: por qué España se ha convertido en la nueva meca de las residencias de marca",
+     "enlace": "https://elpais.com/economia/negocios/2026-11-28/de-lamborghini-a-dolce-gabbana-o-el-ritz-por-que-espana-se-ha-convertido-en-la-nueva-meca-de-las-residencias-de-marca.html",
+     "resumen": "El mercado español contabiliza 52 proyectos y 3.095 viviendas valoradas en su conjunto en más de 5.500 millones de euros",
+     "fecha": "2026-11-28T04:30:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Daniel Goleman, psicólogo: “Hay empresas que toleran a los jefes tóxicos. Ascienden a las personas equivocadas”",
+     "enlace": "https://elpais.com/economia/negocios/2026-11-28/daniel-goleman-psicologo-hay-empresas-que-toleran-a-los-jefes-toxicos-ascienden-a-las-personas-equivocadas.html",
+     "resumen": "El autor del libro superventas ‘Inteligencia emocional’ reflexiona sobre la empatía en la toma de decisiones, el impacto de los malos directivos y advierte de que, en plena era de la IA, el reto será no perder de vista al ser humano",
+     "fecha": "2026-11-28T04:30:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "‘Egypt’ contra ‘Masr’: los dos mundos que habitan Egipto",
+     "enlace": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-11-28/egypt-contra-masr-los-dos-mundos-que-habitan-egipto.html",
+     "resumen": "Los vídeos en redes que muestran el gran contraste entre la élite del país y la clase trabajadora se convierten en virales",
+     "fecha": "2026-11-28T04:30:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Economía podrá bloquear cuentas y transacciones bancarias si tiene sospechas de blanqueo de capitales",
+     "enlace": "https://cincodias.elpais.com/companias/2026-11-28/economia-podra-bloquear-cuentas-y-transacciones-bancarias-si-tiene-sospechas-de-blanqueo-de-capitales.html",
+     "resumen": "El Consejo de Ministros adapta parte de la última directiva antiblanqueo",
+     "fecha": "2026-11-28T04:15:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Peso mexicano encadena dos semanas de pérdidas y el dólar sube 6.15 por ciento",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXVwVTYzV2hUaGhMdFhXZGx2aGsweFlnMllxbWRMbUctX1p3TXktLUV6UjM3NXpOdWZMWXVIN1Y4b3ctMmlobnp4YXNvd1RpajNXdVFFUWR5Tk8wRDhOamp4Vjc1TTc5OWJ0WVpQT1RNLUh5c0NGUmpoZ0FJNkhhcm5TRlRBYjFLQ0lFeWxmZTNmX0R2VGtyUDlMSmhTWV9QQk13SjFnWHdKZl93a3JUbEdqbHVpY1g0OWpzeFo0QUIxT3hhaHN1a0FMcnFzdw?oc=5",
+     "resumen": "Peso mexicano encadena dos semanas de pérdidas y el dólar sube 6.15 por ciento MVS Noticias",
+     "fecha": "2026-11-28T03:59:17+00:00",
+     "medio": "MVS Noticias"
+    },
+    {
      "titulo": "Cuándo el aumento de las tasas de interés indica fortaleza económica y cuándo indica riesgo",
      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVZWNDc2V1VIbmNYTGI3VXFtTWVwODNmOUJMYVFNUERxQ3ZPZkZCUHNWMVcxQ3V3VUNuT2wwczg1WXljQnZDTnJORGRjOURwQVE3TTAtNU5KOE4ydzZRSWZZbi14U1NoWGhhYk1DV2E1cDNHa2lsaTZHY1FCMDVsWG0zY2VQS3RUMzRRMUNiRy14bF9sRTJPTWtjbGRGaC1EWER5cmFaVmdoSjJRR3lOQi1jTG5aR0NsYmhIZFJlT0w2dVgzMlEwWFgxVTdvejlyLU9FZ3ZPQTBOakg3eC1tcjZpdGF0UdIBgAJBVV95cUxNWWhtRUhjbk00OENzdkEybEJ2ak0tOHZOVWF1X2VqSTIyaTJvZ1ZKNDgxX2NmdklMNU1CSEF0V3dkLVY2QWhXOXV5R3BFaHJaOXI4SXpscEt0R2JfMGZOWHZkbTU4bUY3Zk9xLVZKU3ZoVjRaT3JLRkxXRkRTaGxBb05sUmVqS1IyTjZ6aXhBWWNxZmdFM2hNdzlnWTJEcnh5MVZYRUZkRVJya2lZQ282SW1YR2lUVzV1b1hvd25EZTQybjVhS3ZzczUyVTFWaFBVU1hISmltVWJ4WEdCVE1INUlVYXFLV2VLMWJKVEZXV2E2T3JTcGVQMGQxWV9IeXJC?oc=5",
      "resumen": "Cuándo el aumento de las tasas de interés indica fortaleza económica y cuándo indica riesgo Infobae",
@@ -195,32 +300,11 @@
      "medio": "Infobae"
     },
     {
-     "titulo": "[Resumen económico de la mañana] 28 de noviembre... Repunte de la bolsa china, recuperación del KOSPI, aumento del impuesto sobre la propiedad, entre otros",
-     "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ob3hDRUtTR0NlYzk2NlVzbjlYdUUzVG1relhHalZTUDAya0hDVExsdmpXRnRhNTQwRm1qUnlqRWNHODZHanNxX3VMM3hlTGhldTVzNHZ3YnJJck5reVY3aW1B?oc=5",
-     "resumen": "[Resumen económico de la mañana] 28 de noviembre... Repunte de la bolsa china, recuperación del KOSPI, aumento del impuesto sobre la propiedad, entre otros 재경일보",
-     "fecha": "2026-11-27T22:40:00+00:00",
-     "medio": "재경일보"
-    },
-    {
      "titulo": "Le arruinarán el fin de año al peso mexicano: experto anticipa que se deprecie todavía más este 2026",
      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTEF6YTRBdnM4YzRsT1laQjR5ZUVpVVBHRVVZRlJBVGR1VTJUNWpnX2s5ZjJFZUtoMnZEaUVjTXR0SU1ySnAyeUFnRTZfYzRQdjh4cWg0Q3BxVzFYQ0FmeTNTSDRBbFpSOC1DbkxHeVktLXRhX0hTSHI4OVZZZGkxeXVFUm5mYVNpMGNKRDJBUW1wSkl3UmNNUDRTSDQ2cm8tdjdHRktGbVN4YkJaaXpXbFc0TEV4VVJvcE1FU1NGdTN0NFNHWHE1V2hVYzRlYjN6YkRFN2pGMG50a2FLMDR1R3lOTVQ2a1JDRnBWeGNieEYtWEllRHRBMW1ubVBGYXRy0gGGAkFVX3lxTFBMRFpxUVBGbGk0Y2xLZW5GeG51MlJvb1NZYW9wa1ZRVnJPT0dhZVJqdFpicG1QUjFmcFBjdnVKMXhJckJKc3B2Si1RRDFHenhyZnNoYmd0TS1uYVQ1enRmd2ZRX3hUeEc4Q1JOZ1RvZ2lRQzFMOGdnWkpaSVJKWjh0bjJNZHZ0ODFaMDc5cFQ4Vi1HWU0xZXcwLUgxcjRmR1M1QnVtQUtjbFFZMTcyYjR5cVZZS3BVYlRNNXBMN1RqbUVnaE5ZZzZLYlJLTE54OXZUTXEydkQwME9tTHNkWjl5b0hKVFlqSzVnRllaVFNjaHNvcWEyRWREVzAxa2piU29NM1B0M1E?oc=5",
      "resumen": "Le arruinarán el fin de año al peso mexicano: experto anticipa que se deprecie todavía más este 2026 Radio Fórmula",
      "fecha": "2026-11-27T22:08:34+00:00",
      "medio": "Radio Fórmula"
-    },
-    {
-     "titulo": "Peso mexicano pierde terreno y cierra en 19.67 por dólar",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSXRWcUxGY1NubTI4cG5BZTZvcWdXWG5ZaWVfc0hHTUhsMjd2NFhMYkVVRGRZcENSWTM4UmIzOFNFbnhHckNNa1BUbnBDNEVRYUZtRTZ1OTZlbVdnVm9TT281Q3hyUmR0aE1HRm8wcGdhR0tGTWlkbXBmT2xuVkpvYkY2R0prZ3lNdWswN3V3ZUR5aEhlNlZKYlctRjctWnRaYWltTldKcTZCU28?oc=5",
-     "resumen": "Peso mexicano pierde terreno y cierra en 19.67 por dólar El Sol de México",
-     "fecha": "2026-11-27T21:45:00+00:00",
-     "medio": "El Sol de México"
-    },
-    {
-     "titulo": "Argentina frente a una probable crisis de los bonos soberanos y otras crisis financieras",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnE5QnV0cEIwQy15Z2trcmV5djUzQmQyRTljNVRTUTZKcWppZXE0N0U2SjhzLVkzSzJiMEhNVi10aW1wbG9sUzZ2Q0Q4akhvblBnY1JRMV9EenJGVGtncFpueS02OVhTSjlTcTZsYnFqX3RnU20wTnptVExMdGtfanZHdzg5Tmpnb2RSQ0FLbmdQOVNPLXZDYkQ3aXFHOVRGYzhWeUVtNFgyVnc3b1ViY2NTTmJyZw?oc=5",
-     "resumen": "Argentina frente a una probable crisis de los bonos soberanos y otras crisis financieras iade.org.ar",
-     "fecha": "2026-11-27T21:42:23+00:00",
-     "medio": "iade.org.ar"
     },
     {
      "titulo": "Bitcoin y oro rebotan bajo presión de la Fed",
@@ -238,10 +322,10 @@
     },
     {
      "titulo": "Presidente de la Fed sugiere que la economía tal como la conocíamos terminó",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHA3R2ZBMlMyck1zb2pIUHFqTkxzS3ZTb3QxV0VLcjNMQ1ZxUEJJTHJhRDd0WDZCV3Q4Z3VXSXM4SjdFQ2E5Z09YdF9zSjNna1A3bDFCNnk2clJxcElKUFJtSFJrSUd3WDdjdi1VbGI4aFlQclAtMXM2SDF2bzBha2FoV3lTSWxBRklGS0YxRjh6OU1Vc2ZfaHNhcGVLWEJWYmdvSG82ci1zNUlR?oc=5",
-     "resumen": "Presidente de la Fed sugiere que la economía tal como la conocíamos terminó HSB Noticias",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUg4SFBOejBfbnRHdkpHYlBET3pWRm9YV3RNQUs1azhzOGtXZDBpT1hTWklrVktCZHZ1d3Z6RjlXNE56dUhpZTdjWk5IMDV4QVZlQmgwNGF0bmp2TmdXRXBqVWFrNlJfQ0NuSjhrb0lPZ1lkNFhkTVZHdXpxNHpsS3Q4MHpYSjBxYkllbXVDdEJScmllTHEtWWtHb2hoaUNWcDhPT21HRnVwRFNkcW1YMg?oc=5",
+     "resumen": "Presidente de la Fed sugiere que la economía tal como la conocíamos terminó Diario del Sur",
      "fecha": "2026-11-27T19:30:00+00:00",
-     "medio": "HSB Noticias"
+     "medio": "Diario del Sur"
     },
     {
      "titulo": "Tensiones comerciales de Trump y presión en bonos marcan una semana clave para la economía",
@@ -272,95 +356,11 @@
      "medio": "iProUP"
     },
     {
-     "titulo": "Dólar amenaza con llegar a los 20 pesos y golpea el bolsillo de los mexicanos",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT01NWTdDUmJWRGJjcVlURk5rRzNtWHowOTNRZzJGbEFTVW1HTkFDS1VCZmgxWTg1OGhtbGF3aUR5b1NPQ05WT3YxbmEyOTJ2cVB1ajlIZEtjOEROU2ZDR0hWdDdYNHR5QXAta3FRT0FyYW1RSVh4Wl95NHFqaWZoMlZqT2s2bGtfX0M2eGRpSGpQelpsUjFocnBaSVZ1MXB2Sm1VRDdTSkdRbmxpRWdpQVhGMUhKdVdBMkHSAa4BQVVfeXFMUDNaZ0gxV2NrenhoeEdCZkZranRkV0l2LXhoV2lVX2tsZVZOZC0ySXNrX2VpYU1QQlBkZnZJOVkwU2hxbzRLMXVCM3hjZDlaSEdhdW1iQkZiMVVWbndzNzUwTll6UktMRGhWUzVvZ2o3c2pDcWUxU1NsQXFoUnVRVDFlbzZEUFJ3eHJVWWVwQkJmdnRiYlNJdGhoazJHNmE5MDhXcTdaQlZoWUFNeVlB?oc=5",
-     "resumen": "Dólar amenaza con llegar a los 20 pesos y golpea el bolsillo de los mexicanos eltiempomx.com",
-     "fecha": "2026-11-27T18:21:05+00:00",
-     "medio": "eltiempomx.com"
-    },
-    {
-     "titulo": "Un Black Friday en EEUU con menos compradores tras un Día de Acción de Gracias de récord",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlVYWHM4UXVONTRMa0FmYkMtNXFGWG03NzNleXdNbWpFR2RUaFd4dEdjb2VhRkk5S3BjaXA4QzFrcm1kQ1NKXzVoNnZvcXR5RmoyLVpqNXpqLVA4ZndDZE51Z05UT1Yzd0tqZlJDS3FxNjhWMGpBcDdibm43blBxU1BYLWFKc0phYWdGOFY1VzAxbWRla3ppVTZYdENkVW81cHNZR3BMa1R5VEh1V2R3?oc=5",
-     "resumen": "Un Black Friday en EEUU con menos compradores tras un Día de Acción de Gracias de récord HolaNews",
-     "fecha": "2026-11-27T17:26:09+00:00",
-     "medio": "HolaNews"
-    },
-    {
      "titulo": "Es casi seguro que la Reserva Federal subirá los tipos de interés el mes que viene: los analistas comparten sus perspectivas para 2027",
      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQzhydTB6YkpWWXBDZlJTNndXbUNLeHVETEJBSS1aRER6R3lmWVllNlNfV05Ud2NlZTd6UzFtRXBBc1JGSXhOVDBXZ0NkZmFOLU9CODlzaUdabDZt?oc=5",
      "resumen": "Es casi seguro que la Reserva Federal subirá los tipos de interés el mes que viene: los analistas comparten sus perspectivas para 2027 Cryptonews.net",
      "fecha": "2026-11-27T17:22:15+00:00",
      "medio": "Cryptonews.net"
-    },
-    {
-     "titulo": "Economía mexicana crecerá 1.9% en 2026, estima Banxico",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmdKMzMtTGFrWWY1VVp4VVlvczVsV1JkT3RXU2IwOXB4UE5rMHI4MTdlbEZUMTRCWDUwVFpKMjZZM0o4STllVFpHaFhMWW51UmQ5QnNROXl5dVVEWFRwcHUzSTV6TmFCWXpFaEc1c0I4d2hCaTMxMXo4cndEUTVvbWl3cnVmVWtmNnZvY1luUUIxYlZ5ZzJQQnhIT0FjSzhqMzBHQjYxVk9uV0gyRUE2MU92V0o3blZvalZoa1g5VVl6dw?oc=5",
-     "resumen": "Economía mexicana crecerá 1.9% en 2026, estima Banxico Intolerancia Diario",
-     "fecha": "2026-11-27T16:46:08+00:00",
-     "medio": "Intolerancia Diario"
-    },
-    {
-     "titulo": "Precio del dólar HOY 27 de noviembre (09:45 h)",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94VVNsM29aZmhmTF96V2stQ2REelptc0sxQlFaR19BTDQ0MXhtcm9EcW53azVnTF8ydHByRGItUmpFVlhoeUhXU3o3SlBBSGt4QVo1QkVtWXk5alZfQVV4QU1NalhKZXVSanI3RUVGWFVLNWoza281Q1dIZHc?oc=5",
-     "resumen": "Precio del dólar HOY 27 de noviembre (09:45 h) ADN – Agencia Digital de Noticias Sureste",
-     "fecha": "2026-11-27T16:43:02+00:00",
-     "medio": "ADN – Agencia Digital de Noticias Sureste"
-    },
-    {
-     "titulo": "Arthur Hayes advierte sobre el mercado cripto este fin de semana al iniciar el periodo de silencio de la Fed",
-     "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tak5HZFV4RHJPSmJCOGdLM2dzOW4tbHgwTDlGbm9PY1B1MU9QWGYzd25pTWFQUzEwZDhSeHJZUlEwNDQ2MVB4RElVbjBaR2c5MEFvWURJbnRGd1lMN18wZkxua21LX21pTUV4ZjF4S0htQjEtMC1Yag?oc=5",
-     "resumen": "Arthur Hayes advierte sobre el mercado cripto este fin de semana al iniciar el periodo de silencio de la Fed BeInCrypto",
-     "fecha": "2026-11-27T16:41:28+00:00",
-     "medio": "BeInCrypto"
-    },
-    {
-     "titulo": "Después de la tormenta en el dólar, vuelve la calma al peso colombiano",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOemdZVUZGRVFkdzcyV1BtZDlvekVOLUxrNjNOR05wY3ZuWUxUX3ByejB0eklLMVg1bk0zd2RmcFlweHBzYVROLUhFZWFDQ2YyaDcwX1RkX3ByOTRoOW1XVk5YUG15aUpZeTMxSzFTSW5RVmhPN2RSQW02Q0s4OU5lMmpMYUxMRjlUX3d0dG9reUJCcFFmenp4R3JxNVlSYkVNWU8tYU1rWGdiaFJ4b01XdFNIYW0tQ1BCWmJKLVRwMnUtTHN0cDhRN1VZSTVJVUpDenNueF9R0gHWAUFVX3lxTE56Z1lVRkZFUWR3NzJXUG1kOW96RU4tTGs2M05HTnBjdm5ZTFRfcHJ6MHR6SUsxWDVuTTN3ZGZwWXB4cHNhVE4tSEVlYUNDZjJoNzBfVGRfcHI5NGg5bVdWTlhQbXlpSll5MzFLMVNJblFWaE83ZFJBbTZDSzg5TmUyakxhTExGOVRfd3R0b2t5QkJwUWZ6enhHcnE1WVJiRU1ZTy1hTWtYZ2JoUnhvTVd0U0hhbS1DUEJaYkotVHAydS1Mc3RwOFE3VVlJNUlVSkN6c254X1E?oc=5",
-     "resumen": "Después de la tormenta en el dólar, vuelve la calma al peso colombiano Bloomberg Línea",
-     "fecha": "2026-11-27T16:21:48+00:00",
-     "medio": "Bloomberg Línea"
-    },
-    {
-     "titulo": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
-     "enlace": "https://www.bbc.com/mundo/articles/c6gm3jxzy3dro?at_medium=RSS&at_campaign=rss",
-     "resumen": "Ganaron millones de dólares a costa de migrantes detenidos y eludieron los intentos de desmantelar su negocio.",
-     "fecha": "2026-11-27T16:18:26+00:00",
-     "medio": "BBC Mundo"
-    },
-    {
-     "titulo": "El Dow Jones gana 495 puntos y la tecnología vuelve a mandar",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblQ4U2NYTE55VDFadWZpdXpoam1DWU9QUWQxWjE1SUtxRDZlejlmOWVXNG5USmEteFR4VFc3WE5tNDd4LWR3ZzFtb2FwZHluSDQxNzBnSUJsWEhiSi1kSG9sMU45UG9GZTdHVWlNZFUzWERYMWRkc2JEYXJzdkR2ZlNrMkd6SHNfYjk4N19Sano4QTVxUXFQR3Y3NEt6NFRfQTNkaVRuOEVhaFRQSFFN0gG0AUFVX3lxTE9qa3JHZXpkYy1jVmRtd2Y0OVFmRVljR1JISHhqSkRKSTFmREVSNVpfYm96TlNFb2gxTWJhdHBMdzNnVWRPRkctbUpma19ubGlYd3pXYk1YTU9VNmtxbDdoRzBxR0t5T3ZNUHExa2lEdmZtSHp4MUszamRwTmFkRGlJV3JSbURDd01tSllrdHVKZHkxRWdCNFA1WEhaS3hDcDVLUmxWcjlzd2llblo4bFM1VzFQQw?oc=5",
-     "resumen": "El Dow Jones gana 495 puntos y la tecnología vuelve a mandar Negocios.com",
-     "fecha": "2026-11-27T16:10:00+00:00",
-     "medio": "Negocios.com"
-    },
-    {
-     "titulo": "Los precios del oro se recuperaron con fuerza hoy, 28 de noviembre de 2026, gracias a la aparición oportuna de compradores, lo que impulsó los precios nacionales del oro a su nivel más alto en una semana.",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS1jMzRTT3I0UzZNVDZsTVBhS3R2WDlVb1lNeFJVN3BIMDZjcWEwU18taVlOMzlTYmtaWWctXzktN2ZHbEd1MFFoRDBmZzdYeWNzcVFSWXdTRUZ6OE5ibEo2YkJhZG5BRXlUUElDYS11LVN1Y0E3Mmc1a2Ntb1B1VjUxRldpVE9fYjlGcVVNQ0ExTEdHZ1Y1MTBhdG1PM09uYnJWV3h5VlVEV3JGb3dDR216RmFEOWtHbS14Q3FsWTl1VWR1UjlCeFF2MDZTSmF5?oc=5",
-     "resumen": "Los precios del oro se recuperaron con fuerza hoy, 28 de noviembre de 2026, gracias a la aparición oportuna de compradores, lo que impulsó los precios nacionales del oro a su nivel más alto en una semana. Vietnam.vn",
-     "fecha": "2026-11-27T15:47:50+00:00",
-     "medio": "Vietnam.vn"
-    },
-    {
-     "titulo": "Chile amplía la Sala Cuna, pero la financia con el seguro de desempleo",
-     "enlace": "https://www.dw.com/es/chile-amplía-la-sala-cuna-pero-la-financia-con-el-seguro-de-desempleo/a-80075457?maca=spa-rss-sp-eco-1009-xml-mrss",
-     "resumen": "La nueva ley elimina un requisito que frenaba injustamente la contratación femenina. Los expertos discrepan sobre su financiamiento con fondos del seguro de desempleo y la falta de oferta fuera de las ciudades.",
-     "fecha": "2026-11-27T15:46:00+00:00",
-     "medio": "DW"
-    },
-    {
-     "titulo": "Economía de Estados Unidos Crece un 4,3 % en el Tercer Trimestre de 2026: ¿Qué Impulsó el Aumento?",
-     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWZndFZHVEh0NVB4YnE5MHFPLUpLT3RMNzZyZEEwallHMFJ3X0VhdXdUOEhBYU5EUV9Dekdhd0dYVnpTWmxjM3pCc3gtcWw4NVFlNkJZcEVheVJEUnZfVDB0aEpsa21yd3hUT2ZidmVfNTc4UGxSajN4M3ZmWFJlN05zVHA4UXdCb2pEaVFNME9JYUVsQkE?oc=5",
-     "resumen": "Economía de Estados Unidos Crece un 4,3 % en el Tercer Trimestre de 2026: ¿Qué Impulsó el Aumento? D-CUBA.COM",
-     "fecha": "2026-11-27T15:32:51+00:00",
-     "medio": "D-CUBA.COM"
-    },
-    {
-     "titulo": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
-     "enlace": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
-     "resumen": "Las jubiladas perciben 1.276 euros mensuales, lo que deja la brecha de género en el nivel más bajo desde que hay registros",
-     "fecha": "2026-11-27T15:00:24+00:00",
-     "medio": "El País"
     }
    ]
   },
@@ -369,179 +369,179 @@
    "titulo": "🤖 Inteligencia artificial",
    "noticias": [
     {
-     "titulo": "¿Puede la inteligencia artificial recuperar secretos del pasado? Especialista explora cómo descifrar manuscritos de hace 500 años - Edomex Al Día",
-     "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YNXExbFNjYklvemFhRzBiSWlMZVdIelZrWEpCSFB1bVd1QmJyNGlTdDJIamtFd05nMFRv?oc=5",
-     "resumen": "¿Puede la inteligencia artificial recuperar secretos del pasado? Especialista explora cómo descifrar manuscritos de hace 500 años - Edomex Al Día Howl.Link",
-     "fecha": "2026-11-28T01:37:08+00:00",
-     "medio": "Howl.Link"
+     "titulo": "Cómo la inteligencia artificial cambia la venta de propiedades y reduce costos en el sector inmobiliario",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOFdVbDVlbURtWlFrclFwdEVyb1Q5b2FBV3pfZm5yX3NYdlhIMlR2Ymg5dG5aWWhicVJvbHd2elBPWHU5MlhKNHVuSnotNGVtVWdMQUtIUnIzaVQ4RFc3d1ZhaklHT2ZVMmVkdzU5eVVHRHpOVUNMeHlOLWF1bEhidVJtV3lNaGxKeHg1V3Ffdi1vZ2FMQ3VpS3prc3FFeTFMY2xuNGxUMU12dkdRQmhWNU9SQkw3RURRQ1JEUU80RWxJMk55QW5xeWoyb3lpaGJTQzdFSS1JcjBZVWRROFA0RERn?oc=5",
+     "resumen": "Cómo la inteligencia artificial cambia la venta de propiedades y reduce costos en el sector inmobiliario EL PAÍS Uruguay",
+     "fecha": "2026-11-28T06:05:13+00:00",
+     "medio": "EL PAÍS Uruguay"
+    },
+    {
+     "titulo": "Google crea un internet falso para poner a prueba a sus agentes de inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRF9DcnUtVnE1b1QzUmhxeGRKa1RrVEdtS0FJVGNzeTczdzA3UmsxUFA1Y0I0RFJ0MWNuSDVQZEV2UU9vZjBPYm1ZbTAwRHRGS0FoTlhjNWF1bm1MODcxdDBfdGFWSTBJbEJiaDlIT2NtNTlTMEdIUTdqZE9ZT0FKdjRHb1NlYUpEZ0ltcUVpd2ZVRTNCWGpLRXM1OTVpajNXR1NXTlJ4Wk1vekkwd091dTEtcXNLbGZTQ3dkaVZKRGxSWVFmTWFZbjRLUmVueDRkYWVKM1UtMkhMTkRHa2ZfRmIxbzM?oc=5",
+     "resumen": "Google crea un internet falso para poner a prueba a sus agentes de inteligencia artificial 20 Minutos",
+     "fecha": "2026-11-28T05:48:00+00:00",
+     "medio": "20 Minutos"
+    },
+    {
+     "titulo": "Expertos advierten de que la inteligencia artificial en salud mental no debe sustituir la atención psicológica profesional",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHNXOVhCOTlad0Q4ek9YZEF0MkpLcm91MnAxcFdOWGFqc2ctTzhWOXRDOVhkR21yV2hQNUZuWEhFQThqTXB4SzR5cFZELXY4NDVKNXVaLU9BVVJJb1NBWEtLbzNLVzk5cTdvVW1tYjBHYWluY0NaZ1BJbVV5UDNrbHVkRXdaQjdFMWxKQ1BDcExyMVlrV0U5dzlxdmVZQ2JxSHUwMS0tenA3WlFUZXfSAbMBQVVfeXFMUFBBOUxGY1BSNFVVRlZia0phM0taTjhfYzFJY3NkcnRPY2lSVWhyZEU5QjlOVXljODVBQ2VIMk9Eb25WTHVWbXFTQkNJQWZRbmxfNWNGbkRYME9uTEQwdlBjS21nNEdON29FaktuLTB5d3BaTHNDcTl3X2VHRUI0NDJ3SnVJb01BMXpVamVoaXFXaFpkOGQwaVM5NC1YaWN0a0hjOTBKeGZlTXRhTHk0NXhoMWc?oc=5",
+     "resumen": "Expertos advierten de que la inteligencia artificial en salud mental no debe sustituir la atención psicológica profesional Faro de Vigo",
+     "fecha": "2026-11-28T05:10:45+00:00",
+     "medio": "Faro de Vigo"
+    },
+    {
+     "titulo": "¿Cómo proteger los negocios en la era de la Inteligencia Artificial?",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm0tbHJBdlRoaWpuS0lVaWEtdi1qRldCbzVMeFZDQkxpS0RIN3pkdUtGcm5YYnJDX3pGUjlTd0dKakF3bWVjUmItSEhDMlo3WnMzZXZEV0lPSFdOZkhQZF8zNlBLZW1CVENuOG9jUTdJM1pCMWpLZjZsYXdEb2ZVQ05peDdvTnJnbHJsZFZ2blhZVUN0MXktcE5MNlEyaUFQWUZMdERIdmh5UQ?oc=5",
+     "resumen": "¿Cómo proteger los negocios en la era de la Inteligencia Artificial? Business Empresarial",
+     "fecha": "2026-11-28T05:07:56+00:00",
+     "medio": "Business Empresarial"
+    },
+    {
+     "titulo": "Ocho de cada diez empresas ya usan IA y enfrentan nuevos riesgos",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUVuaTJKSzBhSW5TVlJ4VGdKWko1U3RTVzJLWlJKRUV2UEhNallEajFhYkVVaUZyNjZKdnc4R2VBdlp0YzE2V1hrck9BZnRsaFM5TWc2eTY5allPQ1FHeUJkNHZDUl9vSWl4WjNGU05TQmk1QzY1UTE3Z1hqVjVSQ3ctQVM3ZzZhTW04bE5rNGFlZmpOOXZZUjYxeVJiaTh6ckZkNnJMVQ?oc=5",
+     "resumen": "Ocho de cada diez empresas ya usan IA y enfrentan nuevos riesgos Business Empresarial",
+     "fecha": "2026-11-28T05:04:10+00:00",
+     "medio": "Business Empresarial"
+    },
+    {
+     "titulo": "La inteligencia artificial irrumpe en los sistemas de actuación ante catástrofes de la mano de una empresa de Lorca",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjNjTlNHM3hoNWlSVnNfRnV6eGpLSWFZaG0zRF9teHRoT1hZOEJqdDdzN3g3eVpyMmNZNl9DSm0zS1BTMTBiSy1GMWhHdzRGY0VMNk1tckJjTm8yNml2YTE5alJ3alFhTWQ4Tl9kRklSZUY0VGhlTDlNaThFOWRfamcxV0JEd19TMmJZTFc5UG0zZVlqQjlIWTRjdTlhaGtfaEh4SGVJV2xzTm5XcnpQOURJNFBYNENwc01B0gHAAUFVX3lxTE5aSFBrWkhWZ3dRLUVsaFh0Z0lLdzE0Y3FGcEF3dkdmS3ZrRERINHowYXNtWFhjbFdnUXNITHNVVE5EcXFELVdkUV9mbmhqcWZlN3BCWGt1X3Rna25jUXBMWWFOUURTa09TV09OUWF3enNpR05XbDJSaHNLUE53bHNEaHRiOC04TFB2NmVYRXRYTmt6VHNwcUhmYXk2elpkZEVSUlVzMWRYTHVDQm9EVkJOMmxMQkxtNG1BczY0ZmlCMQ?oc=5",
+     "resumen": "La inteligencia artificial irrumpe en los sistemas de actuación ante catástrofes de la mano de una empresa de Lorca La Opinión de Murcia",
+     "fecha": "2026-11-28T05:01:34+00:00",
+     "medio": "La Opinión de Murcia"
+    },
+    {
+     "titulo": "La crisis de Nvidia deja en ‘shock’ a la industria tecnológica global bajo la sombra de una grave crisis financiera",
+     "enlace": "https://elpais.com/economia/2026-11-28/la-crisis-de-nvidia-deja-en-shock-a-la-industria-tecnologica-global-bajo-la-sombra-de-una-grave-crisis-financiera.html",
+     "resumen": "Las compañías de chips acumulan un duro castigo en Bolsa en las últimas semanas. La incertidumbre sobre la IA penaliza a Anthropic y OpenAI y dispara los costes de financiación de Oracle y SoftBank",
+     "fecha": "2026-11-28T04:45:00+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Polonia está \"apostando\" por la inteligencia artificial militar estadounidense a pesar de la ola de autosuficiencia tecnológica en Europa.",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWR6NTBBcUg3X3B4TzhDT2dxZTZhV0VTUVE2YXEyXzQ2eU9yREx5d3hObTl6eWNsTTR3OVZjdFNHNDAwOXI2MHJiczVSd012WTNkWU5KTi01cTZNeXZ2Z0t4Nm1DN19rLTdXUldrRzRDRTJfWE1SUlVrbmdlUHFvQjNXSVJDRnA0SEdTY2lWbk42YXVjYWg5Z3c2XzNsYmRqaU5KcENBOFp1RVBIZGttUkVCSlo0NFhOODd3bTl1bw?oc=5",
+     "resumen": "Polonia está \"apostando\" por la inteligencia artificial militar estadounidense a pesar de la ola de autosuficiencia tecnológica en Europa. Vietnam.vn",
+     "fecha": "2026-11-28T04:39:44+00:00",
+     "medio": "Vietnam.vn"
+    },
+    {
+     "titulo": "Economía prepara una herramienta para que empresas y autónomos se relacionen con la Administración a través de la IA",
+     "enlace": "https://elpais.com/economia/2026-11-28/economia-prepara-una-herramienta-para-que-empresas-y-autonomos-se-relacionen-con-la-administracion-a-traves-de-la-ia.html",
+     "resumen": "El ministerio pretende agilizar la carga burocrática de las pymes, que pierden tiempo en procedimientos que están repartidos entre distintas sedes y aplicaciones públicas",
+     "fecha": "2026-11-28T04:30:01+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "David le hace un rasguño a Goliat",
+     "enlace": "https://elpais.com/opinion/2026-11-28/david-le-hace-un-rasguno-a-goliat.html",
+     "resumen": "Los matemáticos entran en estado de ‘shock’ ante la solución por IA de su problema más importante",
+     "fecha": "2026-11-28T04:30:01+00:00",
+     "medio": "El País"
+    },
+    {
+     "titulo": "Silvia Perea: \"Con la IA también tenemos que priorizar el valor añadido de los humanos\"",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWpvd1poTnRlNXNIR0NkV3JVQk5Ib1NzZHA3MHF6eXl1ZjQzNVBrMjhRVUI2N3ZDLXRSQl9nSlVVcG14YUVSRDRrRWpuQzFJQ3FOR1NkWFQtdWZkNVY3N2psMVlDdUdKR0QxN1c2WG9DS2M1NFRuSXhUaVVIUDg1ZXRNM1NPLVlPVmtqX3RIS0FBaU84VGFVYzEtRVB3eEFPYkx1WEtHQ21sbGZHbHJpOFgxNlY1N2w1blM3N2hrUmdqdmhrc25ZYkR6UQ?oc=5",
+     "resumen": "Silvia Perea: \"Con la IA también tenemos que priorizar el valor añadido de los humanos\" El Nacional.cat",
+     "fecha": "2026-11-28T04:30:00+00:00",
+     "medio": "El Nacional.cat"
+    },
+    {
+     "titulo": "La ética en la IA",
+     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVFFV1JHSEdqa3dvRms5NWJkSWZQMUM0cE12ckRGTDhUc05GNEhWZUNLd21ieWdpcG1PT1dmVFhyOEg3YnMyZ3BOS3Z1ellMVE9OYTloSU92d3VfeVdUZTV0bWxJSVlCSlZSVjlJdmxtYkV4YXhHRmdGRDAwQlAybTNXaVl6VUdyRGfSAY8BQVVfeXFMT1NQcU9vVTAxNmdETUE4YmlaQjBvaUZ0My1EcHkxQnRhcWtjQ282ZWJ6ZXZUbWk1ckwwRi1Ld0hzbEoxRlpjZzVYRUdqa0F4TzlOaEliNFlSRnhjVENXaUtRNVFhb0M0UXhGdmJXTVVOQnJSZFJCQkNRdlp4RGZLN3VLdWNnbUNWUHpDOTNJLUk?oc=5",
+     "resumen": "La ética en la IA Diario Córdoba",
+     "fecha": "2026-11-28T04:10:56+00:00",
+     "medio": "Diario Córdoba"
+    },
+    {
+     "titulo": "La élite estadounidense está obsesionada con los ferrocarriles del siglo XIX (y la causa es la inteligencia artificial)",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjdRWHlrY0VNRlZtVDVjaUtGUGNJTjZwTkFoN1lIYUpfVnUyZ3U5VkdvQWdWMFNPTDNVbXcwbDFfUEVFSGtIbWJJSTVMNk9IWUVvdmlkWFVwdXlkdmpPSFFrUV9tWVFfMm9DN2lUUzF3c2RZQlhUa1JaNmQyZXRia3QteUNMTU5ZMFNiSDNPdUtmdmFuVkpqRUFaSmZqd3dSb2ZuMW40aWkzOUlvSzRRRktmbTVuZlk?oc=5",
+     "resumen": "La élite estadounidense está obsesionada con los ferrocarriles del siglo XIX (y la causa es la inteligencia artificial) El Confidencial",
+     "fecha": "2026-11-28T04:00:00+00:00",
+     "medio": "El Confidencial"
+    },
+    {
+     "titulo": "No toda la inteligencia artificial necesita dialogar: los nuevos modelos diseñados para decidir",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3FYQ3lQdzFRbEtPN2NNTUZHakhWTkNBUC0yZ1l4UHl0NGxjOTVROVJiMGkycUpJV0ZXaUFUNEV0STlGWjdpSmxDd19qTVo5Rm94VER0cEtwa0tYMDM3QmExVlh3UkJ1SXVLWDgxa0RIb2NZR2Z4UTZDVllfcUtYblhWNnZXMEQ1QlNmMVZkTU9sOU00MnYtUkhyajQ3dzA0OXZQNGN5RVRkSVFyTWpjbzN3MjRhS3hQY2EyZzBGTkVRX1dvVEFZTlYyc0RGcEcxaGfSAdcBQVVfeXFMTU1BV2JKdDVJMkVVa3JZRlI2REpYakluOHd4Y0pLOFVVV0paOHVMY3AwTkRDUmEyYzk5U0VLN3NUUVF1Z0xSRnNpRXZQR1h5OWJUaHE2YWcwdDRHZFpIVko3cGlpRkVvbXlBVXltcTU0aTg3RzJ0N2YyWEpKTURtWkZFTm5nWFozZWJ1U1U1eS1LN2Vzdk4yRlp6OTBIYTh4cmNoNE1Hc3RMSmZrWDBXUjJHc0JnOV9PdGxQMHgxazFrN0NzU3FWU3dMMHgwQzhQNTdPTkp6aHM?oc=5",
+     "resumen": "No toda la inteligencia artificial necesita dialogar: los nuevos modelos diseñados para decidir El Debate",
+     "fecha": "2026-11-28T03:25:00+00:00",
+     "medio": "El Debate"
+    },
+    {
+     "titulo": "Geopolítica e inteligencia artificial: la disputa por el futuro de nuestra civilización",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVFwTUNhd2hDUEMyZm1WVG13TmwxTFZLY2FXVVZuZHZLZW9UbmF2VTQ2TERnaDBrQmY1Nzg4WjR2d3Y5MHZzaE8yTXVBREJkc01laHNfMTlxMTgwUFRWblBfYzVBbjBuOG1vZjB2dFExV3RuemRxckhKZXpxa1loaXliVG4tYkhveUdkeGlscHd3TGRRdGdDSUxXcjNCNHR0cU5GUll0UFN2d3RmaFY5R3ByOHdudU5CWDBsQm5UeGQ5QQ?oc=5",
+     "resumen": "Geopolítica e inteligencia artificial: la disputa por el futuro de nuestra civilización Los Andes",
+     "fecha": "2026-11-28T03:25:00+00:00",
+     "medio": "Los Andes"
+    },
+    {
+     "titulo": "Bruna, startup de IA industrial, escala con SONDA a 5 países",
+     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS1WaDdBWEZiRVJySHJXaF9wTlY2RllkaXJWRXY2TlpLR1p2amFOS095NE5VbWdmZUMxM20yQ01kRzJoMG1wT2VpWi1PSnZ1RVc3LWhtZ1NzVURIQjZzQi00bWROSGc1bGdvUV9RWjcxLUpsT3lUQzVhbmhjdERiOGtrT3h4dHEzOVZvX2VkYlVYcTQ?oc=5",
+     "resumen": "Bruna, startup de IA industrial, escala con SONDA a 5 países El Ecosistema Startup",
+     "fecha": "2026-11-28T03:21:42+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "Inteligencia artificial y evidencia electrónica en el proceso penal: estándares de integridad, trazabilidad y admisibilidad según el Estudio de Mapeo del Consejo de Europa (T-CY 2026)",
+     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkNmOTM2ZjRlZzhMZFpmWmxNOVBEOTdJalFMUWljYTd1WWFSMzh2RlowZGxNM0FPcHJtVnB4aDlORkxGN0tWTXJHNnE5S1JrZmdaUTIzZzhHbE1MLXFKVUFSRmpyZjlBc1JweG93MmVrRkN1ejg2bFdSVlVwUnRMQVBiTm9OdHVoYUhhZ3N2QldXOFNWU1JOOFROV3RZSm8tR1FKZzFReTFpbE1HX2wzaDRwWlF2bktjdVVYNXBvQ3pjZ3d2LURNNlYtU0xiMHhHUldlYkFuTmxvZGd3MWo1OQ?oc=5",
+     "resumen": "Inteligencia artificial y evidencia electrónica en el proceso penal: estándares de integridad, trazabilidad y admisibilidad según el Estudio de Mapeo del Consejo de Europa (T-CY 2026) Diario Constitucional",
+     "fecha": "2026-11-28T03:15:57+00:00",
+     "medio": "Diario Constitucional"
+    },
+    {
+     "titulo": "¿Estamos rumbo a una catástrofe? Qué es el 'AI Doom' y por qué preocupa a los expertos en inteligencia artific",
+     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOVA2Q2ZuYmE2YkhHUkQ5bFYzUVNhY3JHVVVEZWh3bFhTNEkzM2Nra2ZObHJSRHdUdFlwajNzbk9SMnl1T282VDBHdllPdGpDYkFYS1FsbE0wNGhjQWpfWW5nbVRyQU9EOUhXNE1QeUFQd1dEa2xYdHM2QW5kMzVsa2dRbHJQckdMNV85cURLX1jSAZABQVVfeXFMTVVCZEIwNFcxUjJ2SndLYUZwSFJ6SXlMUUdiQTVfcHA0RVN4c19vVFBDamV3ejJhTWJTVWNhMWxHSm1EZWNPcVZJUmVDSHBOVjNEUnc2WmJfdllHY0gtZGlIN0hsZ0VZX1BONTA2SlY2Mnd4UVJESDhIaHE1TVVPTUNwVzUwa2FZTmxBWU1EN1BI?oc=5",
+     "resumen": "¿Estamos rumbo a una catástrofe? Qué es el 'AI Doom' y por qué preocupa a los expertos en inteligencia artific Milenio",
+     "fecha": "2026-11-28T03:14:00+00:00",
+     "medio": "Milenio"
+    },
+    {
+     "titulo": "El poder detrás de la inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODlZLU9VSENQNDZLYjVkVk9pMWlVS1V1MEd5OE5tY3Y2TGtZbS1POEluOFZaZjZRNzNEeF9nQml0MTVIako2czZMZ2s5XzM3YmFUSnpRV2lWRlBXYmdKZGI4NEFFbDQ3N09ZcVJ0b2pxQWFrb3VCUHdQTXVOTl9hcjBkYjRiVXFEMWFzc05CWU9sUWlhYU9hYXR1YjJGQQ?oc=5",
+     "resumen": "El poder detrás de la inteligencia artificial Diario Estrategia",
+     "fecha": "2026-11-28T03:11:17+00:00",
+     "medio": "Diario Estrategia"
+    },
+    {
+     "titulo": "Inteligencia Artificial en el Estado: soberanía digital más allá de los acuerdos",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnFtdHhCOGZFdDBGWVZ0akxlbWp4N19yVGNoQUZnNTZQdFlVOVprYS1PSEJGRGE0MmJMNm1pVzdxRncyNUQ0Qjg2WlJ0ZTA4VkNOSXA4LW8tQzR2cVJwTHVQNVY0bDhROWw4QV92OE1NbmlHXzV0dDUwYnRQdWRQNzZnU3c2M3I3R3Q3OVlaWld0OE03TFRXUkRRZjRLa0dGYnJacnc3SkJoYm5YSVZiZWdDWVAzdVAzRmc?oc=5",
+     "resumen": "Inteligencia Artificial en el Estado: soberanía digital más allá de los acuerdos Diario El Heraldo · Linares Chile",
+     "fecha": "2026-11-28T03:03:52+00:00",
+     "medio": "Diario El Heraldo · Linares Chile"
+    },
+    {
+     "titulo": "IA y primer empleo: UCA, UADE y ITBA rediseñan carreras",
+     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnkwbnVrMkVqdVZjaXcyMmp1NWxLVXZBYU56YkRpbW1TZkZlVmEyeGxCcFJGRmZnRWh2VFNibENlV18zbThtdHU4UExuOGxybnRyby1UTnV2OXp4UjVTYmdUTlc4VVJCN09QXzNWOUliVmwwYVJxdmtCcHdlbGQ2bzVZczBscGlTWkM4WA?oc=5",
+     "resumen": "IA y primer empleo: UCA, UADE y ITBA rediseñan carreras El Ecosistema Startup",
+     "fecha": "2026-11-28T03:03:24+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "David Fincher defendió el uso de inteligencia artificial en su nueva película con Brad Pitt y explicó por qué la incorporó",
+     "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTWdtZndLemEwYV9IRlpQWEZfUnNIbE9TbFFNNEpYUG0zN3RtdFZNZ2J1bE92aEg0RENvcWJncUJWWDBvR3h1TlladVZ1S2NOMXBqNHI2bmZYUVhDQmw1YTB2TEwwZ2FYSjNET0ttR3RtS2pHT1ZlMGpVUGg4UEdlX0hOSVlWa3Jaa21pMGs5Q25WcXprbGRoSnR3bnY3Qi1rOHVKQ1FuU3Vhd19sQjdUNUFCbDhJZmZzYWt5XzlzWHAtZjdJR1FLamRGTE8zMHdmblpIRjZKQmF1eUhReTJuNDlIUWZXVXNvTFdtY3I4WnhENHNmVWFpY0xaZ2hkaHQzdWJLc0ljSGdvTHc?oc=5",
+     "resumen": "David Fincher defendió el uso de inteligencia artificial en su nueva película con Brad Pitt y explicó por qué la incorporó La 100",
+     "fecha": "2026-11-28T03:00:57+00:00",
+     "medio": "La 100"
+    },
+    {
+     "titulo": "Inteligencia Artificial salva a economía y es el pilar exportador de México: Franklin Templeton",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck9aODNOcE54cGptLUM2bjY3UUVCUnB5VjkyY3EtdTBoZmprb3NvNlg5SDZSYzBSSWNPZGNORmUwZFpzdVdPSTJsSlBXMVdycGNpNENXMUdBaEJnX054VXZvWGdGdGF1SklFTWY5M2pJbGgxNm1LdXZzcEF6SmVsOFczYzRYMUpLdVJvN1NIM2xvdTNrbkQwaDJuZExZbVAtbGttcQ?oc=5",
+     "resumen": "Inteligencia Artificial salva a economía y es el pilar exportador de México: Franklin Templeton DPL News",
+     "fecha": "2026-11-28T01:42:37+00:00",
+     "medio": "DPL News"
     },
     {
      "titulo": "Ricardo Mendoza defiende actuación humana frente a inteligencia artificial en el doblaje mexicano",
      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXItN2pjX2FTV0ZfME1ZcXpzNzZqaTN2aGRHSjZGU2VTVEpzMjRsTFNPRW14bENqVk0tZ1ZsMUdLdGNIWWpTQVlfZml3c3NfZjI0VnFkaEx6c2RfWW9RNEVVUTNHZWNfZWNXWkplLTJnbmpEcWdvX2FqblFXdU9EZm1IalR0WjRPcW1mTW5NS1l3MWxSbjdhTVlQOTNHZDB2aExhRmt5TmZRMGNtRUxrNGktc2dMNi1ZR1d4cF9uZw?oc=5",
      "resumen": "Ricardo Mendoza defiende actuación humana frente a inteligencia artificial en el doblaje mexicano TV4 Noticias Guanajuato",
-     "fecha": "2026-11-28T01:23:52+00:00",
+     "fecha": "2026-11-28T01:41:15+00:00",
      "medio": "TV4 Noticias Guanajuato"
     },
     {
-     "titulo": "Redes sociales e inteligencia artificial; los nuevos retos en las aulas",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0FjRzhldXBVMldnSWFXc2lEOERIWWFZcklXUUdfbTdwT1NOY2wycGU4V1FjWWplaUV2Vk5Zd0RtTk5WRkJhSGpBYnB4M1VzX295c2FMSk9XY2w5dE5wazg1b2FxS3NqLVRJRDI5cjJYb1c2Z3NlZk9RV0V1UGdVMUdTaWJBak90VldoZGRudlZROTJIMFRpQkJwZHhCV3NQWWRncnI0OFdsRGNXZWhIdGVLczJSTEtqX2NBY1hR?oc=5",
-     "resumen": "Redes sociales e inteligencia artificial; los nuevos retos en las aulas El Sol de México",
-     "fecha": "2026-11-28T01:18:24+00:00",
-     "medio": "El Sol de México"
-    },
-    {
-     "titulo": "Escuelas de Los Ángeles bloquean funciones de IA de Google. BSF recibió más de 20 mil correos sobre el tema.",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0RtcTNEUnh3NlhHZFBmSVFHVi11aE1FTWNoZUJnTDk5RXNwcE1nY0tKZGl1VlhNZUh1Q1R4WW44ZkJLVHBzM0NSc0FySl9RcWV4OGRCaU0zTWk4WUljampLdUlMc0xwZU5waHJjcnEtajdDN1VUX2lST04tc05ueVhoZ1BOcFpSbnppaVpUS28?oc=5",
-     "resumen": "Escuelas de Los Ángeles bloquean funciones de IA de Google. BSF recibió más de 20 mil correos sobre el tema. Organización Mundial Bullying Sin Fronteras",
-     "fecha": "2026-11-28T01:14:59+00:00",
-     "medio": "Organización Mundial Bullying Sin Fronteras"
-    },
-    {
-     "titulo": "Corea del Sur utiliza inteligencia artificial para detectar el riesgo de desprendimiento de hormigón en las superficies de los puentes.",
-     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXNTaHhFUGd3U2FGZFFpN3JieEZEcjBodTFPZzlYTTF1ZDAtRWNUeEZ4OEZwbXhZWFV2aUtDY1cyU2ZtUzZubkZfeUhYSWtuRFotdjBnWXZaVVdDUTd1MWxEbGIzSzZIOE1DbFc2dlk3OTdZSmhPN2pOZ0d5eVpiLV9ZYXRwLWZJeUZYQzBEYw?oc=5",
-     "resumen": "Corea del Sur utiliza inteligencia artificial para detectar el riesgo de desprendimiento de hormigón en las superficies de los puentes. Vietnam.vn",
-     "fecha": "2026-11-28T00:21:13+00:00",
-     "medio": "Vietnam.vn"
-    },
-    {
-     "titulo": "Black Friday: Cómo detectar descuentos engañosos usando inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREw1alVmMTNfdDBsbGFfM0UxRjg0dklyR0tEdU1zbnZxSHNZWlJVUkd3OG0yTkRMc2pEQ1JGMWNvS1ZoQ3JFQkJhSU53dTUwYnNBaG8yREdIWXlvYlBqb196dEh6Z2Y3ak5GUUxZUlZqbGlyU1pDYm5pRGVaM0hONS1rZnF1ZVlKMXNvQjh3?oc=5",
-     "resumen": "Black Friday: Cómo detectar descuentos engañosos usando inteligencia artificial ATV.pe",
-     "fecha": "2026-11-28T00:03:30+00:00",
-     "medio": "ATV.pe"
-    },
-    {
-     "titulo": "Inteligencia artificial en 2027: empresas exigirán resultados económicos y serán más selectivas al invertir",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSXUwXzJiMTFLR3hERHN1ZzlHa0Rra05kaHlVY3drb05oenNhY3U0UWRvOUUtbVJaLUxSVUU0NmpRZVJKV0pMUjRJNWp0M3JSNk5RelpRTUxMVWRzT3RyS05ka3RGaDBQQWQ1RlRCZ3lXaTlEbUxCZ0daakhvREMwWjN2SmtocE1yVUcyMUVNZ25kMlBaNGlBMldTVEdxYzNBb3BENV9XTVR1YVhGNHk0bDFHNmNfOUlLMDRXa1lIUWU1RWZEamwwSnNHXzl4UzQ5SHItTUh5U2Y4RXAwbUQ2U2RZOFnSAeoBQVVfeXFMTXhvZ1liWmVYY1FrSXdjMWRjTTVfYmZQc2o0bVBHLWFHOUtPR2c4aXcyTlBVM0ZjS2c1akhLdjk0MnBoRVNCUkJ4YXdEY0NkZ0VkQ0J1UVktd0tUZzN0LVhQYmNFaWh5YXdPYUNndXJnLXVzam9yd0xRMm50TDgzZTJwT0IzYTNzbE9VT1c1S0x1WjhiNEtuM0pTWGZmb1hvc3hJSjFyWW5PT2hFc3dLV1d4M01PT3g1NXpZOXBNQ2U3T05lTFBDNmpKY3JwdGVfUlM0by1ILURaaUNWazJ4YzBfMVE2UkpBTEF3?oc=5",
-     "resumen": "Inteligencia artificial en 2027: empresas exigirán resultados económicos y serán más selectivas al invertir Portafolio.co",
-     "fecha": "2026-11-27T23:48:34+00:00",
-     "medio": "Portafolio.co"
-    },
-    {
-     "titulo": "Black Friday: precios, inteligencia artificial y seguridad definen las decisiones de compra",
-     "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmluMWdnOC1VZGhLOG44ck1kSHZXMGNZbzVVZndrTml6enFheFZDbXhYR3JtLVI3SS13SXIzXy1tQmpMajRUQ3JDaGZBWURKRmV6RWVYY3lkcVIwQTdSOUgtNEYtZm5DNUFqazdTRUJMSWRYdlZKUHJENk84Zlp0OXVaOGVwNUpvOGJIdFVGM0pLcDBhOUFz?oc=5",
-     "resumen": "Black Friday: precios, inteligencia artificial y seguridad definen las decisiones de compra Yahoo",
-     "fecha": "2026-11-27T23:44:12+00:00",
-     "medio": "Yahoo"
-    },
-    {
-     "titulo": "Deepfakes: utilizar la imagen o la voz de otra persona con inteligencia artificial puede tener consecuencias legales",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSlNpR0RCVzZZeWJ6cFpUUTZvSnZpbWprT0s4ejZFOVBpTmsyVmVZOHVWYk5ibDhOc1pOUG5vRjJBSVVNMFR5TE1Wa1BnNVE3akRtU0tBS3BqRGlWY1pvMGZPZmVZWUwyS3pVdzBjZlpRSURXMkw0ZWcyc1g2dUpKeUxacVhHSlR0YkVCa1lIeUluUjNDRW1tNHRqRXpnRGFxV1BxU2llczhkVWRlS09JVXVYYV90ZDVSV2Q1NjJPWTMxMWQ4Wm5LMURlby1qQ1l6ZjBRQ2tfWnZEX1RjbVpCcG5uOU8xZXFFMjMteDZ2UG8yTmtFQ2VZ?oc=5",
-     "resumen": "Deepfakes: utilizar la imagen o la voz de otra persona con inteligencia artificial puede tener consecuencias legales Law & Trends",
-     "fecha": "2026-11-27T23:36:00+00:00",
-     "medio": "Law & Trends"
-    },
-    {
-     "titulo": "La inteligencia artificial ya puede justificar despidos: el TSJ de Madrid avala la amortización de puestos de trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdDlzN1ROQ0VKWHplbURFOEs2UHdLakxQQ0xmOWx0QTNGZ1ZYSFBlWWVXbVFWQ3dybjk4eUJwbkNDREdlcmZ0NnltV0s4dUR4UTZmSG1MVy15Zy1XTm1TeDVsaEJXVkhqNnhUOTFuY01QTWE5ZUh3TlZXa1VmcktRLVdSOVVoNDJqeGpZa3Fvdl9YdFBONkhpTzYyUFNUVTZidXdyTjFjaXZNMnZhZGpYU0FPeTI1NFVVM1BmLWxzdEVXdmxKYmFsQTB4eEJ3Ykg3cDd0X2xzX1F3LW1tY1BkRDl6ZmVkNzdSVFB5c0pLX2doSmJVanZQdzFCTnBJUQ?oc=5",
-     "resumen": "La inteligencia artificial ya puede justificar despidos: el TSJ de Madrid avala la amortización de puestos de trabajo Law & Trends",
-     "fecha": "2026-11-27T23:33:00+00:00",
-     "medio": "Law & Trends"
-    },
-    {
-     "titulo": "Solo el 24% de las pymes de Andorra usa IA: el reto de 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzZVd1o3TGVQbUw1bXF2OURUUGpOR0c3R3VFclhKVnFVenpvRWkzNmpORUI0cDVBbk5NaHRSNVkzbFNqZEw1M0p1NDVscWRYcW1iXzJEcXRyaEF3ZHRXZW45QllZSlpvbWJXNGx1dVFtaVNCVGo4dndCcDlEUXpwcURzQ3Z1Z1RFdkZDaTJUQl9xdw?oc=5",
-     "resumen": "Solo el 24% de las pymes de Andorra usa IA: el reto de 2026 El Ecosistema Startup",
-     "fecha": "2026-11-27T23:21:41+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "titulo": "Inteligencia artificial rescata el pasado",
-     "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bldXOXdSazI2Y0tDZmtQQUxJcWpPRHZzUVhGamVReUFsZ0dCa01wR1ZaNGZuTTRZVGtsZjd1WHo0Q0JqQkJFUFJsYkhGblgyQ3ZEZFpSa2hLdFpYb0x6WDNrWTNvQ0l0aVFIeHBLWkUxaEY3bTBmVUhPYjhBWHc?oc=5",
-     "resumen": "Inteligencia artificial rescata el pasado 88.9 Noticias | Noticias en Vivo | Información Que Sirve",
-     "fecha": "2026-11-27T23:15:57+00:00",
-     "medio": "88.9 Noticias | Noticias en Vivo | Información Que Sirve"
-    },
-    {
-     "titulo": "Inteligencia artificial en 2027: cinco cambios que podrían transformar la forma de trabajar en las empresas",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSm9vaDhxRzM2cGh5d1dxSnNiZVNzQ0t2OXpIWjJGcUpRcnFscE96RjdVNVQ2OXZrd1p3eEZGR2ZXdWNoQ1hsYXhIcG9zdWVRcU91Nm9GYm1iR0ZMVzB6V21EZ3lNbk5wTkgxU0Z1eFFoQ21OYjV2cjRKX21vM1FGNFVTQzI3NG5KUzZYMTZHeDEwTmtaY1N2Q2lPVVA1WDF6ZjJWZmpUYTU1cHJE?oc=5",
-     "resumen": "Inteligencia artificial en 2027: cinco cambios que podrían transformar la forma de trabajar en las empresas DUPLOS.CL",
-     "fecha": "2026-11-27T23:07:00+00:00",
-     "medio": "DUPLOS.CL"
-    },
-    {
-     "titulo": "Excedentes renovables para entrenar la IA, según el MIT",
-     "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOam0za19JLWNJZzAxSFcwdmxBcGozMThTb0oxcXJzSTNFai0wVWQ1MUtvdWFVbU42RWdtcmh4SWxEVjlWTUhxX0pMM0RnN1k4UnRkUW4xQ25Genl5WE0yWk5LSHBmejlSQ1NIWEE1eDZfelp5X1VkQ1lycF9POEcwc2RpQ045OGNlY3VURkx5Yk1qbnhHRG1Fd2U4R21tcXJnbmpnYzVHZDRZd2RxQTc0TDlNdTkxVlZUN2dUa2VPNXJKTzhlRlNrbU5GNWNiVUxkVDBXdEJKWHc4Yk1VdDJnVk5XYU9DaUNNWE45Z0NiTnprQmw3Tk94OTN5bW44WnFUeWVGLThOZ0YtUjUzb2hQc3lDUXFrZw?oc=5",
-     "resumen": "Excedentes renovables para entrenar la IA, según el MIT El Periódico de la Energía",
-     "fecha": "2026-11-27T23:03:21+00:00",
-     "medio": "El Periódico de la Energía"
-    },
-    {
-     "titulo": "Pymes mexicanas: 70% ya usa IA, solo 25% automatiza",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmVGNEZwVGMwcG55c0lFdUdKVUdDZV9hMzZZRVhHNkU3SXo0R015bGtiWjQ2ODl5ck9XQzZSWUZkbjV6aDFNS1owRHZsejVUcXN6UFhZV1JocTZidE5NaURMekJuanhaUXFUODRycklWcEd3ZmNBU25RWjN5X2diS1RlajE?oc=5",
-     "resumen": "Pymes mexicanas: 70% ya usa IA, solo 25% automatiza El Ecosistema Startup",
-     "fecha": "2026-11-27T22:36:34+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "titulo": "El 56,9 % de quienes no usan la inteligencia artificial en España dice que no sabía que existía, según el I...",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2NvZzFva2RhNkVlY0xXR1pBNm4yX2t3Tmg1Y3Vtc25DQWQyQVZ1MmljNU5fbGFpaWdyajlhQkx1OVZIMmQxSU45VUE5dzhCd1FtLXRNUTBKX3YzYkI0UHJoUmxBOURFMXBtU3F4T2IyRGVwZVdnX2RvTS1ZVjBvNHdnN2phbXJZZmFoT1lDSTh5VnNnOXNZTTRJSm5mOUVORkxvMmF4S2lwM2hfMV82emFHdUVqd1F6S3NtRnk2NEZOMFd1SlNJ0gHMAUFVX3lxTFBmaUJnQ0owRG9UdnpLSFBRMFRpN1dGcEdFamdOcGVQNFZIdWFueDNlX2dibEVwM19wcWs0YkNQQkZYbnM2bE8tT0RNdTgwVTBpYW5YM1oydVR1cTg5b3d2ZjZTb0k3NlpNcXROQmZiVUtXUHVJaExTRllfRTdrYzhNQzcwLVIyNmdRMGFvRzExME45VElvWUMzRS1Gd0tIbmJab2V4SlpjdlNIakRTc1BCdGlpWGR2bmJPeE45Y1BCY0ZsQzhzM3AwOFQ4ZA?oc=5",
-     "resumen": "El 56,9 % de quienes no usan la inteligencia artificial en España dice que no sabía que existía, según el I... OkDiario",
-     "fecha": "2026-11-27T21:40:26+00:00",
-     "medio": "OkDiario"
-    },
-    {
-     "titulo": "La inteligencia artificial desplaza al cambio climático en el ranking de riesgos mundiales",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbklfRWZhZ2ZYTGhLc3Vtd3hJTVU4Tkh5cGRrVmstNlJLVFh3OG04NE5pR2JOWHhrMm1aZDNyblczS2c0Nm1vTjFaZU1MYlZQQUVodUlydEtZOWliUXNXR0N3bFZNVmU2Y1U0d3dTdHlORlVCamVWS1haUmRRcUpIcjNxYUtkY01ZdFBScVdZQ0pPVGhwdFNMX1RQT01HSElpR1RfdWd1NWtqa2RkQjdpOXQ1UWx2WXc?oc=5",
-     "resumen": "La inteligencia artificial desplaza al cambio climático en el ranking de riesgos mundiales Machala Móvil",
-     "fecha": "2026-11-27T21:32:17+00:00",
-     "medio": "Machala Móvil"
-    },
-    {
-     "titulo": "“Invertir en IA es invertir en inteligencia humana”, reflexionó la Secretaria Baravalle durante el cierre de la 2da Semana de la IA",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWtsTVZXRFVOU3RqT2M1VmdKYk1fY2dmMFNDUW1ZcEswMEF3X2Q3RVIyR3VoN212WjFtZVF1WGFzV0FvSVBjQl9uMFhNYjl4SUQxR1B6STBIZHc1WC1mOE1LYmM1UVFWMmZENjBFczN2YmtSdldlOTVsVmlkanJvYVVKeC1uVXFuRk1id0tTTzlvYmtLZ0VaLTh2bzc4NlNJUUt3UzFmS1A0ZEpLS0x3bHdjS294RFFVZmVQZWNLMA?oc=5",
-     "resumen": "“Invertir en IA es invertir en inteligencia humana”, reflexionó la Secretaria Baravalle durante el cierre de la 2da Semana de la IA Argentina.gob.ar",
-     "fecha": "2026-11-27T21:26:34+00:00",
-     "medio": "Argentina.gob.ar"
-    },
-    {
-     "titulo": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
-     "enlace": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
-     "resumen": "Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing",
-     "fecha": "2026-11-27T21:13:06+00:00",
-     "medio": "El País"
-    },
-    {
-     "titulo": "El futuro llegó, hace rato: John Deere compró una empresa de inteligencia artificial y robótica capaz de realizar precisas mediciones mediante cámaras",
-     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOS1RzMWlORERQZlpHdkFqU2psWlNVVnpGa2hpdXRxUGVwZGFxbjktb3VZdDlvbjVPOHR4Q05XMHZ4Nm01SG5rZGRpR2stVGotdlVxODhIYTlHRGJKOFR5THJabHdvai1iS09xQU1VWFZOSHlCZEdzUXdaT0N4VXVLNENEbmwta0M1S0lYbkwwdXE0MXRZUE9JZUpPbFNFeEtWMXFXNXFLNkhyd19Lb3hfNUNnQ05xMkdPaE4wOFZsUzg4eG52bEN6NC1SME14UkJiTXVmczZxaUtnQ2FWSVJCbkNpWFQzNFRLN2FfRE0wbktYUllDZ2d5c2paSkVUTFRON3lUOTJn?oc=5",
-     "resumen": "El futuro llegó, hace rato: John Deere compró una empresa de inteligencia artificial y robótica capaz de realizar precisas mediciones mediante cámaras Bichos de Campo",
-     "fecha": "2026-11-27T20:35:36+00:00",
-     "medio": "Bichos de Campo"
-    },
-    {
-     "titulo": "Inteligencia Artificial y educación parvularia",
-     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQTWJpS0RnRzlVQjMzdDNTdFZ6Ymt0RzQtTjYtanZBWjVCN2NBdGthal9FakhEY2ZkRkxnUEJ5bVgzOFo5N2luUFVjUnpfQWtTbms2RC1pWlM1VDlhcnhPY3pRekZvY01FbFhnN0xHTmVIVWUzcUdYVTZ3?oc=5",
-     "resumen": "Inteligencia Artificial y educación parvularia Fundación Integra",
-     "fecha": "2026-11-27T20:32:04+00:00",
-     "medio": "Fundación Integra"
-    },
-    {
-     "titulo": "Estudiante de Ingeniería Informática impulsa la innovación turística con inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkQtR2ctYWNGaFpTT2h5bVg4emRXdkt0TVVBUVE0cGhDLVRxSDNBM01tN3NxVVpUb0hrSEdZOEhpUWhJTTA4bS1qMy1BS0paUHNrcjhoTm9maTc5M2RtY3RSNy1hTEJubHJ1cTE1OHRMbWtlcjVtZ1NmUHllS3BXeWZyZEE5dGxBRGI4Wm9yOW96RVByNF9pNEZSQjlXYndKaTljNUhxeTAtTElXVGJIMERnb1dVeFNZOW9MSWVPaw?oc=5",
-     "resumen": "Estudiante de Ingeniería Informática impulsa la innovación turística con inteligencia artificial Pontificia Universidad Católica de Valparaíso",
-     "fecha": "2026-11-27T20:17:25+00:00",
-     "medio": "Pontificia Universidad Católica de Valparaíso"
-    },
-    {
-     "titulo": "Cámara de Diputados realizará el foro “Inteligencia Artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanZTYU9WQkZ6anpITjNhdzdoVWw1TGphR0EzZnBpV3B3ZHdHdjlKUGVxejJtT0hHX09pTW5mNzV0ajlBNWlNOU0tMS0tUkVROG5CYkRFRlZOZGdpRklRTFNOTVRyemh2eTBXdlVRS04xVXRCeGpraEM4UkR0UUhCQUR3VkxlNWRiQWFJMXB3?oc=5",
-     "resumen": "Cámara de Diputados realizará el foro “Inteligencia Artificial Gritaradio.com",
-     "fecha": "2026-11-27T20:11:25+00:00",
-     "medio": "Gritaradio.com"
-    },
-    {
-     "titulo": "Estas son las artimañas de los ciberdelincuentes en Black Friday: Policía Nacional advirtió que las estafas son perfeccionadas con inteligencia artificial",
-     "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdzZiWHdZM3k2dzVBWE9BM0JocHAxLWpzaWlNU0VLYmwtT2hDVExjMHRNV0FkbndxZDZfT3dPWjNWTjF0UzVkeW5xUk9XLXJLcGhUR1czUG80RkJDSzJPUnZQZG1fVDVWbHRFQXVyM2xVdnBaQlZMQ0tCajNZd0p0ckZPM2JyNGsxUFFnbHFWWGpvazdfRUJfUE5RWkNfdUdCR1J4M3ZSbThROWdULXVjMHJvQTJKaHd2Nlhvc3hMaTFlLVZ4bFpNS216NHFHLWh2M2NlMFA5NTRvdm9LR3RqSzFOUVVCRVZ6RElHMHJGUUNnZmpDMGZmRkhiV2tLTGg2T2pxQ3dPQnVNYkYySFhpMWtmdUZubWhITkV5TWpBRWFVc29R0gG_AkFVX3lxTE15VmVObVcwZDd5ckUwM2E2QUp3LWJMMGwwYnJzbWw5UTV6SHdsU0hqUDB5RGROa3VpMk1wY2FqTEVQUDQyMGQwZU1VaXpoMGF3QTZTczBnd1V2YlZOTTE4Vkt3WHNyREpXOWlDU2RPbE9QRGhnS1pXSThIMEM5bXNoQ3ZvQmJuZ19BUVU0RDNFa2s4blBWZXFyOExTOENZOE11ckJFaFljY21CcG1tNkxRS2JsSHlqR3lzZXhrLU9fM09JN2hMVExPWllRRUJ5amdETFJfNnRZdkxLdW5CNk1ZMF9CenNjUUdhUVl4bjBUdzJvaS02aW42dUw4M0g5U0xySl9CTUdYRGJ2dkFQQkkwa01tcUQ2a3czajlzemFJYVBnMlNjdm5IVk1jZnN4UzVSUWlURlFiSTFkNmY5TzA?oc=5",
-     "resumen": "Estas son las artimañas de los ciberdelincuentes en Black Friday: Policía Nacional advirtió que las estafas son perfeccionadas con inteligencia artificial Infobae",
-     "fecha": "2026-11-27T20:00:42+00:00",
-     "medio": "Infobae"
-    },
-    {
-     "titulo": "RADAR LT: IA y salud: los riesgos de confiar en la inteligencia artificial para obtener diagnósticos",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXZLU2RraUl0WmxGalE5ODB3YXBmQ2t3d0ROOG0zY1VaLVNhSEdHVk5BbExnZ2hkX014Rjd6OThsZXBtakNhSTVmSDR4TGJWSDNERi00bVpsNGpDQklpTm1vSkJjNGRtOWtrUzUxZWQza0FLdk5idWZjNEV1QmpETUJNZjd3MVpXcUFtREJYYW5UQ3Viem15emc5dXl4UzBlMjJLcVlYcUdmaW5pMWJ3TTFsZk8tNlA1YW5zSzlpZjhGOHhLekdMeWpwa1NqRjhzdl9jRXVreTNxQdIB-wFBVV95cUxPLWM0NHJkYV9jSnR5WDJKUjFjRmpFVzc5VWdxbDBhQjQ3UkJhSmNlTndETlVMOFBNY0p2eHlFNXNScnFVV01iOFdXbnhPbXBXaGFZY0FRUGkyNzZpRjRtSDc0WlNRaEpYR1luOGs4OUV4SlM5VWM5cTRtUDNEdkVYQnFGLXdXQXgzUzFxcUVVSHhlVTNCWlF6dXM5REVLaWRTSk9kNmZoTFV3RTlILW5nWHh5S1JXaEpJRmh6UTEtdWk0MVNFSmF1ODJhNnVaSU95Z1duLWN5SDFsVW5MaWRTU0xKTkRqdjVpTlNrNkFTWUF1NWtkRG9CcTZHQQ?oc=5",
-     "resumen": "RADAR LT: IA y salud: los riesgos de confiar en la inteligencia artificial para obtener diagnósticos La Tercera",
-     "fecha": "2026-11-27T20:00:19+00:00",
-     "medio": "La Tercera"
+     "titulo": "¿Puede la inteligencia artificial recuperar secretos del pasado? Especialista explora cómo descifrar manuscritos de hace 500 años - Edomex Al Día",
+     "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YNXExbFNjYklvemFhRzBiSWlMZVdIelZrWEpCSFB1bVd1QmJyNGlTdDJIamtFd05nMFRv?oc=5",
+     "resumen": "¿Puede la inteligencia artificial recuperar secretos del pasado? Especialista explora cómo descifrar manuscritos de hace 500 años - Edomex Al Día Howl.Link",
+     "fecha": "2026-11-28T01:37:08+00:00",
+     "medio": "Howl.Link"
     }
    ]
   }
